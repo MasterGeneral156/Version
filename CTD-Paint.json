@@ -1,0 +1,28 @@
+{
+  "homepage": "https://minecraft.curseforge.com/projects/ctd-paint",
+  "1.11.2": 
+  {
+	"1.1.4": "Added compat. with Mo Glowstone.",
+	"1.1.2": "Added config file and version checker.",
+	"1.1.0": "Fixed paint brush desync.",
+	"1.0.1": "Added update checker, can now dye carpet.",
+	"1.0": "Ported to 1.11"
+  },
+  "1.10.2": 
+  {
+	"1.1.4": "Fixed compat. with Mo Glowstone.",
+	"1.1.3": "Added compat. with Mo Glowstone.",
+	"1.1.2": "Version checker bugfix.",
+	"1.1.1": "Added config file and version checker.",
+	"1.1.0": "Fixed paint brush desync.",
+	"1.0.1": "Update checker fixes.",
+    "1.0": "Initial Release."
+  },
+  "promos": 
+  {
+	"1.10.2-latest": "1.1.4",
+    "1.10.2-recommended": "1.1.4",
+	"1.11.2-latest": "1.1.4",
+    "1.11.2-recommended": "1.1.4"
+  }
+}

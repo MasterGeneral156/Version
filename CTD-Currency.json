@@ -1,0 +1,54 @@
+{
+  "homepage": "https://minecraft.curseforge.com/projects/ctd-currency",
+  "1.7.10": 
+  {
+	"1.2.1": "Language file fixes.", 
+	"1.2.0": "Added achievements plus an achievements page.", 
+	"1.1.0": "Mobs now drop currency occansionally.", 
+    "1.0.0c": "Updated MCInfo to add working update links.", 
+	"1.0.0b": "Server crash fixes."
+  },
+  "1.8": 
+  {
+	"1.2.0": "Added achievements plus an achievements page.", 
+	"1.1.0": "Mobs now drop currency occansionally.", 
+    "1.0.0": "Ported to 1.8"
+  },
+  "1.8.9": 
+  {
+	"1.2.0": "Added achievements plus an achievements page.", 
+	"1.1.0": "Mobs now drop currency occansionally.", 
+    "1.0.0": "Ported to 1.8.9"
+  },
+  "1.9.4": 
+  {
+	"1.2.0": "Official 1.9 port."
+  },
+  "1.10.2": 
+  {
+	"5.1.0": "Configs, CTD Core mod required, update json.", 
+	"1.2.0": "Added achievements plus an achievements page.", 
+	"1.1.0": "Mobs now drop currency occansionally.", 
+    "1.0.0": "Ported to 1.10.2"
+  },
+  "1.11.2": 
+  {
+	"6.3.0": "Configs, CTD Core more required, and update JSON",
+	"6.2.1": "Initial port."
+  },
+  "promos": 
+  {
+	"1.11.2-latest": "6.3.0",
+    "1.11.2-recommended": "6.3.0",
+	"1.10.2-latest": "5.1.0",
+    "1.10.2-recommended": "5.1.0",
+	"1.9.4-latest": "1.2.0",
+    "1.9.4-recommended": "1.2.0",
+	"1.8.9-latest": "1.2.0",
+    "1.8.9-recommended": "1.2.0",
+	"1.8-latest": "1.2.0",
+    "1.8-recommended": "1.2.0",
+    "1.7.10-latest": "1.2.1",
+    "1.7.10-recommended": "1.2.1"
+  }
+}
