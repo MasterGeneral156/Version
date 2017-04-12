@@ -1,12 +1,18 @@
 {
-  "homepage": "N/A",
-  "1.11.2": 
-  {
-    "1.0.0": "WIP"
-  },
-  "promos": 
-  {
-	  "1.11.2-latest": "1.0.0",
-    "1.11.2-recommended": "1.0.0"
-  }
+	"homepage": "https://minecraft.curseforge.com/projects/enderfuge",
+	"1.11.2": 
+	{
+		"1.0.0": "Initial release"
+	},
+	"1.10.2": 
+	{
+		"1.0.0": "WIP"
+	},
+	"promos": 
+	{
+		"1.11.2-latest": "1.0.0",
+		"1.11.2-recommended": "1.0.0",
+		"1.10.2-latest": "1.0.0",
+		"1.10.2-recommended": "1.0.0"
+	}
 }
