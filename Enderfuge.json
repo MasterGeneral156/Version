@@ -2,17 +2,18 @@
 	"homepage": "https://minecraft.curseforge.com/projects/enderfuge",
 	"1.11.2": 
 	{
-		"1.0.0": "Initial release"
+		"1.0.0": "Initial release",
+		"1.1.0": "Added Basic JEI Support"
 	},
 	"1.10.2": 
 	{
-		"1.0.0": "Initial release",
+		"1.0.0": "WIP",
 		"1.1.0": "Added Basic JEI support"
 	},
 	"promos": 
 	{
-		"1.11.2-latest": "1.0.0",
-		"1.11.2-recommended": "1.0.0",
+		"1.11.2-latest": "1.1.0",
+		"1.11.2-recommended": "1.1.0",
 		"1.10.2-latest": "1.1.0",
 		"1.10.2-recommended": "1.1.0"
 	}
