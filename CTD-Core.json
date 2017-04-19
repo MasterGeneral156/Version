@@ -1,0 +1,21 @@
+{
+  "homepage": "https://minecraft.curseforge.com/projects/ctd-core",
+  "1.11.2": 
+  {
+	"1.0.2": "Ported to 1.11.2"
+  },
+  "1.10.2": 
+  {
+	"1.1.1": "Added config file and version checker.",
+	"1.1.0": "More register fixes. Should work nicely now.",
+	"1.0.1": "Block and item fixes",
+    "1.0.0": "Initial Release."
+  },
+  "promos": 
+  {
+	"1.10.2-latest": "1.0.2",
+    "1.10.2-recommended": "1.0.2",
+	"1.11.2-latest": "1.0.2",
+    "1.11.2-recommended": "1.0.2"
+  }
+}
