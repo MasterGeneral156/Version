@@ -1,0 +1,97 @@
+/*
+	CSS for bloodcoded.com
+	Created by TheMasterGeneral
+	github.com/MasterGeneral156
+	
+	Last Updated: 5/23/2017 at 5:58PM Eastern Time
+	
+	Removing this comment block makes you a big dick.
+*/
+#tmgtable {
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	border-collapse: collapse;
+	width: 100%;
+	text-align: center;
+}
+#tmgtable td, #tmgtable th {
+	border: 1px solid #ddd;
+	padding: 8px;
+}
+#tmgtable th {
+	width: 33%;
+	padding-top: 12px;
+	padding-bottom: 12px;
+	background: #cfe5da; /* Old browsers */
+	background: -moz-linear-gradient(top, #cfe5da 0%, #e6fff3 55%, #cdffe7 100%); /* FF3.6-15 */
+	background: -webkit-linear-gradient(top, #cfe5da 0%,#e6fff3 55%,#cdffe7 100%); /* Chrome10-25,Safari5.1-6 */
+	background: linear-gradient(to bottom, #cfe5da 0%,#e6fff3 55%,#cdffe7 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#cfe5da', endColorstr='#cdffe7',GradientType=0 ); /* IE6-9 */
+}
+#tmgtable td  {
+	background: rgb(236,250,253); /* Old browsers */
+	background: -moz-linear-gradient(top,  rgba(236,250,253,1) 0%, rgba(179,235,250,1) 50%, rgba(217,245,252,1) 100%, rgba(217,245,252,1) 100%); /* FF3.6-15 */
+	background: -webkit-linear-gradient(top,  rgba(236,250,253,1) 0%,rgba(179,235,250,1) 50%,rgba(217,245,252,1) 100%,rgba(217,245,252,1) 100%); /* Chrome10-25,Safari5.1-6 */
+	background: linear-gradient(to bottom,  rgba(236,250,253,1) 0%,rgba(179,235,250,1) 50%,rgba(217,245,252,1) 100%,rgba(217,245,252,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ecfafd', endColorstr='#d9f5fc',GradientType=0 ); /* IE6-9 */
+}
+#tmgalert {
+	color: red;
+}
+img#logo {
+	width: 100%;
+}
+#maintable {
+	width: 970px;
+	border: 0px;
+	padding: 0px;
+	border-spacing: 0px;
+	border-collapse: separate;
+}
+
+meter {
+	width: 150px;
+	border-top-right-radius: 8px;
+	border-bottom-right-radius: 8px;
+	border-top-left-radius: 20px;
+	border-bottom-left-radius: 20px;
+	text-align: left;
+}
+meter::-webkit-meter-optimum-value {
+	border-radius: 25px;
+}
+meter::-webkit-meter-bar {
+	background: rgb(255,82,66); /* Old browsers */
+	background: -moz-linear-gradient(top,  rgba(255,82,66,1) 0%, rgba(244,67,54,1) 14%, rgba(201,14,12,1) 50%, rgba(195,2,0,1) 64%, rgba(199,2,0,1) 71%, rgba(208,5,0,1) 79%, rgba(247,29,0,1) 100%); /* FF3.6-15 */
+	background: -webkit-linear-gradient(top,  rgba(255,82,66,1) 0%,rgba(244,67,54,1) 14%,rgba(201,14,12,1) 50%,rgba(195,2,0,1) 64%,rgba(199,2,0,1) 71%,rgba(208,5,0,1) 79%,rgba(247,29,0,1) 100%); /* Chrome10-25,Safari5.1-6 */
+	background: linear-gradient(to bottom,  rgba(255,82,66,1) 0%,rgba(244,67,54,1) 14%,rgba(201,14,12,1) 50%,rgba(195,2,0,1) 64%,rgba(199,2,0,1) 71%,rgba(208,5,0,1) 79%,rgba(247,29,0,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ff5242', endColorstr='#f71d00',GradientType=0 ); /* IE6-9 */
+	border-radius: 25px;
+}
+meter#green::-webkit-meter-optimum-value {
+	background: rgb(66,255,106); /* Old browsers */
+	background: -moz-linear-gradient(top,  rgba(66,255,106,1) 0%, rgba(54,244,92,1) 14%, rgba(12,201,39,1) 50%, rgba(0,195,27,1) 64%, rgba(0,199,27,1) 71%, rgba(0,208,32,1) 79%, rgba(0,247,61,1) 100%); /* FF3.6-15 */
+	background: -webkit-linear-gradient(top,  rgba(66,255,106,1) 0%,rgba(54,244,92,1) 14%,rgba(12,201,39,1) 50%,rgba(0,195,27,1) 64%,rgba(0,199,27,1) 71%,rgba(0,208,32,1) 79%,rgba(0,247,61,1) 100%); /* Chrome10-25,Safari5.1-6 */
+	background: linear-gradient(to bottom,  rgba(66,255,106,1) 0%,rgba(54,244,92,1) 14%,rgba(12,201,39,1) 50%,rgba(0,195,27,1) 64%,rgba(0,199,27,1) 71%,rgba(0,208,32,1) 79%,rgba(0,247,61,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#42ff6a', endColorstr='#00f73d',GradientType=0 ); /* IE6-9 */
+}
+meter#cyan::-webkit-meter-optimum-value {
+	background: rgb(66,239,255); /* Old browsers */
+	background: -moz-linear-gradient(top,  rgba(66,239,255,1) 0%, rgba(54,231,244,1) 14%, rgba(12,199,201,1) 50%, rgba(0,193,195,1) 64%, rgba(0,197,199,1) 71%, rgba(0,203,208,1) 79%, rgba(0,218,247,1) 100%); /* FF3.6-15 */
+	background: -webkit-linear-gradient(top,  rgba(66,239,255,1) 0%,rgba(54,231,244,1) 14%,rgba(12,199,201,1) 50%,rgba(0,193,195,1) 64%,rgba(0,197,199,1) 71%,rgba(0,203,208,1) 79%,rgba(0,218,247,1) 100%); /* Chrome10-25,Safari5.1-6 */
+	background: linear-gradient(to bottom,  rgba(66,239,255,1) 0%,rgba(54,231,244,1) 14%,rgba(12,199,201,1) 50%,rgba(0,193,195,1) 64%,rgba(0,197,199,1) 71%,rgba(0,203,208,1) 79%,rgba(0,218,247,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#42efff', endColorstr='#00daf7',GradientType=0 ); /* IE6-9 */
+}
+meter#orange::-webkit-meter-optimum-value {
+	background: rgb(255,189,66); /* Old browsers */
+	background: -moz-linear-gradient(top,  rgba(255,189,66,1) 0%, rgba(244,174,54,1) 14%, rgba(201,121,12,1) 50%, rgba(195,113,0,1) 64%, rgba(199,115,0,1) 71%, rgba(208,123,0,1) 79%, rgba(247,169,0,1) 100%); /* FF3.6-15 */
+	background: -webkit-linear-gradient(top,  rgba(255,189,66,1) 0%,rgba(244,174,54,1) 14%,rgba(201,121,12,1) 50%,rgba(195,113,0,1) 64%,rgba(199,115,0,1) 71%,rgba(208,123,0,1) 79%,rgba(247,169,0,1) 100%); /* Chrome10-25,Safari5.1-6 */
+	background: linear-gradient(to bottom,  rgba(255,189,66,1) 0%,rgba(244,174,54,1) 14%,rgba(201,121,12,1) 50%,rgba(195,113,0,1) 64%,rgba(199,115,0,1) 71%,rgba(208,123,0,1) 79%,rgba(247,169,0,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffbd42', endColorstr='#f7a900',GradientType=0 ); /* IE6-9 */
+}
+meter#yellow::-webkit-meter-optimum-value {
+	background: rgb(246,254,176); /* Old browsers */
+	background: -moz-linear-gradient(top,  rgba(246,254,176,1) 0%, rgba(226,229,150,1) 57%, rgba(227,230,148,1) 71%, rgba(237,251,148,1) 100%); /* FF3.6-15 */
+	background: -webkit-linear-gradient(top,  rgba(246,254,176,1) 0%,rgba(226,229,150,1) 57%,rgba(227,230,148,1) 71%,rgba(237,251,148,1) 100%); /* Chrome10-25,Safari5.1-6 */
+	background: linear-gradient(to bottom,  rgba(246,254,176,1) 0%,rgba(226,229,150,1) 57%,rgba(227,230,148,1) 71%,rgba(237,251,148,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f6feb0', endColorstr='#edfb94',GradientType=0 ); /* IE6-9 */
+}
