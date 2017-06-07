@@ -4,19 +4,21 @@
 	{
 		"1.0.0": "Initial release",
 		"1.1.0": "Added Basic JEI Support",
-		"1.1.1": "Removed debug code, 32x textures instead of 16x"
+		"1.1.1": "Removed debug code, 32x textures instead of 16x",
+		"1.1.2": "Fix unreported server-side crash."
 	},
 	"1.10.2": 
 	{
 		"1.0.0": "WIP",
 		"1.1.0": "Added Basic JEI support",
-		"1.1.1": "Removed debug code, 32x textures instead of 16x"
+		"1.1.1": "Removed debug code, 32x textures instead of 16x",
+		"1.1.2": "Fix unreported server-side crash."
 	},
 	"promos": 
 	{
-		"1.11.2-latest": "1.1.1",
-		"1.11.2-recommended": "1.1.1",
-		"1.10.2-latest": "1.1.1",
-		"1.10.2-recommended": "1.1.1"
+		"1.11.2-latest": "1.1.2",
+		"1.11.2-recommended": "1.1.2",
+		"1.10.2-latest": "1.1.2",
+		"1.10.2-recommended": "1.1.2"
 	}
 }
