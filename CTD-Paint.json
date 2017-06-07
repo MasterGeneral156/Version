@@ -2,6 +2,7 @@
   "homepage": "https://minecraft.curseforge.com/projects/ctd-paint",
   "1.11.2": 
   {
+	"1.1.6": "Update checker fixes, plus more!",
 	"1.1.5": "Changed Update JSON links.",
 	"1.1.4": "Added compat. with Mo Glowstone.",
 	"1.1.2": "Added config file and version checker.",
