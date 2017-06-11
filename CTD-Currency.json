@@ -38,8 +38,14 @@
 	"6.3.0": "Configs, CTD Core more required, and update JSON",
 	"6.2.1": "Initial port."
   },
+  "1.12": 
+  {
+	"6.4.0": "Initial 1.12 port."
+  },
   "promos": 
   {
+	"1.12-latest": "6.4.0",
+    "1.12-recommended": "6.4.0",
 	"1.11.2-latest": "6.3.1",
     "1.11.2-recommended": "6.3.1",
 	"1.10.2-latest": "5.1.1",

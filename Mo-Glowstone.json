@@ -29,6 +29,10 @@
 	"1.2.1": "Fixed Lime Glowstone being texture-less.",
     "1.2.0": "CTD Core required, config file, etc."
   },
+  "1.12": 
+  {
+	"1.2.4": "Initial port to 1.12"
+  },
   "promos": 
   {
     "1.7.10-latest": "1.0.1",
@@ -38,6 +42,8 @@
 	"1.11-latest": "1.1.2",
     "1.11-recommended": "1.1.2",
 	"1.11.2-latest": "1.2.4",
-    "1.11.2-recommended": "1.2.4"
+    "1.11.2-recommended": "1.2.4",
+	"1.12-latest": "1.2.4",
+    "1.12-recommended": "1.2.4"
   }
 }

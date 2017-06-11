@@ -1,5 +1,9 @@
 {
   "homepage": "https://minecraft.curseforge.com/projects/ctd-core",
+  "1.12": 
+  {
+	"1.0.3": "Initial port to 1.12"
+  },
   "1.11.2": 
   {
 	"1.0.3": "Basic fluid registering, removed test stuff, changed update URL",
@@ -17,6 +21,8 @@
 	"1.10.2-latest": "1.0.3",
     "1.10.2-recommended": "1.0.3",
 	"1.11.2-latest": "1.0.3",
-    "1.11.2-recommended": "1.0.3"
+    "1.11.2-recommended": "1.0.3",
+	"1.12-latest": "1.0.3",
+    "1.12-recommended": "1.0.3"
   }
 }
