@@ -1,5 +1,11 @@
 {
   "homepage": "https://minecraft.curseforge.com/projects/mo-glowstone",
+  "1.12": 
+  {
+	"1.2.6": "Re-added crafting recipes for colored glowstone. (No Ore-Dict support yet)",
+	"1.2.5": "Temp. Recipe workaround. No Oredict.",
+	"1.2.4": "Initial port to 1.12"
+  },
   "1.7.10": 
   {
     "1.0.1": "Oops!", 
@@ -28,12 +34,6 @@
 	"1.2.2": "Added configuration options for world generation.",
 	"1.2.1": "Fixed Lime Glowstone being texture-less.",
     "1.2.0": "CTD Core required, config file, etc."
-  },
-  "1.12": 
-  {
-	"1.2.6": "Re-added crafting recipes for colored glowstone. (No Ore-Dict support yet)",
-	"1.2.5": "Temp. Recipe workaround. No Oredict.",
-	"1.2.4": "Initial port to 1.12"
   },
   "promos": 
   {
