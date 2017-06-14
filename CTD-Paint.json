@@ -1,5 +1,9 @@
 {
   "homepage": "https://minecraft.curseforge.com/projects/ctd-paint",
+  "1.12"
+  {
+	"2.0.0": "Initial 1.12 port."
+  },
   "1.11.2": 
   {
 	"2.0.0": "Massive rewrite. Final 1.11.2 release.",
@@ -26,6 +30,8 @@
   },
   "promos": 
   {
+	"1.12-latest": "2.0.0",
+	"1.12-recommended": "2.0.0",
 	"1.10.2-latest": "2.0.0",
     "1.10.2-recommended": "2.0.0",
 	"1.11.2-latest": "2.0.0",
