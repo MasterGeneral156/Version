@@ -2,6 +2,7 @@
   "homepage": "https://minecraft.curseforge.com/projects/ctd-paint",
   "1.12"
   {
+	"2.0.1": "Added forgotten recipes",
 	"2.0.0": "Initial 1.12 port."
   },
   "1.11.2": 
@@ -30,8 +31,8 @@
   },
   "promos": 
   {
-	"1.12-latest": "2.0.0",
-	"1.12-recommended": "2.0.0",
+	"1.12-latest": "2.0.1",
+	"1.12-recommended": "2.0.1",
 	"1.10.2-latest": "2.0.0",
     "1.10.2-recommended": "2.0.0",
 	"1.11.2-latest": "2.0.0",
