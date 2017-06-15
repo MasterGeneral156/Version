@@ -2,6 +2,7 @@
   "homepage": "https://minecraft.curseforge.com/projects/ctd-core",
   "1.12": 
   {
+	"1.1.2": "Removed crafting recipe workaround.",
 	"1.1.1": "Added basic logging.",
 	"1.1.0": "Crafting recipe workarounds added",
 	"1.0.3": "Initial port to 1.12"

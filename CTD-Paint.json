@@ -2,6 +2,7 @@
   "homepage": "https://minecraft.curseforge.com/projects/ctd-paint",
   "1.12"
   {
+	"2.0.2": "Fixed crafting recipes. They are now JSON!",
 	"2.0.1": "Added forgotten recipes",
 	"2.0.0": "Initial 1.12 port."
   },
