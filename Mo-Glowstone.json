@@ -2,6 +2,8 @@
   "homepage": "https://minecraft.curseforge.com/projects/mo-glowstone",
   "1.12": 
   {
+	"1.2.6": "Fixed recipes AGAIN ffs forge.",
+	"1.2.7": "Fixed some things, idk.",
 	"1.2.6": "Re-added crafting recipes for colored glowstone. (No Ore-Dict support yet)",
 	"1.2.5": "Temp. Recipe workaround. No Oredict.",
 	"1.2.4": "Initial port to 1.12"
@@ -45,7 +47,7 @@
     "1.11-recommended": "1.1.2",
 	"1.11.2-latest": "1.2.4",
     "1.11.2-recommended": "1.2.4",
-	"1.12-latest": "1.2.6",
-    "1.12-recommended": "1.2.6"
+	"1.12-latest": "1.2.8",
+    "1.12-recommended": "1.2.8"
   }
 }
