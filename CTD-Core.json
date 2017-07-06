@@ -2,6 +2,9 @@
   "homepage": "https://minecraft.curseforge.com/projects/ctd-core",
   "1.12": 
   {
+	"1.1.6": "Hot fix #2",
+	"1.1.5": "Hot fix.",
+	"1.1.4": "Added some World and ItemStack handlers",
 	"1.1.3": "Adopted new registry system.",
 	"1.1.2": "Removed crafting recipe workaround.",
 	"1.1.1": "Added basic logging.",
@@ -26,7 +29,7 @@
     "1.10.2-recommended": "1.0.3",
 	"1.11.2-latest": "1.0.3",
     "1.11.2-recommended": "1.0.3",
-	"1.12-latest": "1.1.3",
-    "1.12-recommended": "1.1.3"
+	"1.12-latest": "1.1.6",
+    "1.12-recommended": "1.1.6"
   }
 }
