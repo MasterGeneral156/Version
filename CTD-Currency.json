@@ -40,12 +40,13 @@
   },
   "1.12": 
   {
+	"6.4.1": "Fixes and such.",
 	"6.4.0": "Initial 1.12 port."
   },
   "promos": 
   {
-	"1.12-latest": "6.4.0",
-    "1.12-recommended": "6.4.0",
+	"1.12-latest": "6.4.1",
+    "1.12-recommended": "6.4.1",
 	"1.11.2-latest": "6.3.1",
     "1.11.2-recommended": "6.3.1",
 	"1.10.2-latest": "5.1.1",
