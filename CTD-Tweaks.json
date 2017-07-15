@@ -2,6 +2,7 @@
   "homepage": "https://minecraft.curseforge.com/projects/ctd-tweaks",
   "1.12": 
   {
+	"1.5.3": "Hopefully fixes the issues with the rings.",
 	"1.5.2": "Advancements and bug fixes, oh my.",
 	"1.5.1": "Clean up code, remove Baubles API, re-added speed/haste rings.",
 	"1.5.0": "Added Flight ring",
@@ -28,8 +29,8 @@
   },
   "promos": 
   {
-	"1.12-latest": "1.5.2",
-    "1.12-recommended": "1.5.2",
+	"1.12-latest": "1.5.3",
+    "1.12-recommended": "1.5.3",
 	"1.11.2-latest": "1.4.0",
     "1.11.2-recommended": "1.4.0",
 	"1.10.2-latest": "1.4.0",
