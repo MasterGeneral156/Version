@@ -2,6 +2,7 @@
 	"homepage": "https://minecraft.curseforge.com/projects/enderfuge",
 	"1.12":
 	{
+		"1.1.8": "Fixed invisble background when you open the Enderfuge",
 		"1.1.7": "Fixed crashes! :D",
 		"1.1.6": "Re-re-re-re-re-re-readded JSON recipes.",
 		"1.1.5": "Fixed crashes, JSON recipe system now.",
