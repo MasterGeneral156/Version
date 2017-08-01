@@ -2,6 +2,7 @@
   "homepage": "https://minecraft.curseforge.com/projects/mo-glowstone",
   "1.12": 
   {
+	"1.2.10": "Fixed Colored Glowstone dropping more than one of itself.",
 	"1.2.9": "Added advancements and fixed some recipes.",
 	"1.2.8": "Fixed recipes AGAIN ffs forge.",
 	"1.2.7": "Fixed some things, idk.",
@@ -9,10 +10,13 @@
 	"1.2.5": "Temp. Recipe workaround. No Oredict.",
 	"1.2.4": "Initial port to 1.12"
   },
-  "1.7.10": 
+  "1.11.2": 
   {
-    "1.0.1": "Oops!", 
-	"1.0.0": "Major rewrite! Public release!"
+	"1.2.4": "Changed Update JSON link.",
+	"1.2.3": "Fixes to hopefully make world generation less laggy.",
+	"1.2.2": "Added configuration options for world generation.",
+	"1.2.1": "Fixed Lime Glowstone being texture-less.",
+    "1.2.0": "CTD Core required, config file, etc."
   },
   "1.10.2": 
   {
@@ -25,30 +29,28 @@
     "1.0.2": "Added creative tab, glowstone fuel and removed unused textures.", 
 	"1.0.1": "1.10.x port"
   },
+  "1.7.10": 
+  {
+	"1.0.2": "Final release. Code clean up. Use the 1.1x Glowstone Fuel Texture.", 
+    "1.0.1": "Oops!", 
+	"1.0.0": "Major rewrite! Public release!"
+  },
   "1.11": 
   {
     "1.1.0": "Colored Glowstone now spawns in the Nether.", 
 	"1.0.3": "1.11 port"
   },
-  "1.11.2": 
-  {
-	"1.2.4": "Changed Update JSON link.",
-	"1.2.3": "Fixes to hopefully make world generation less laggy.",
-	"1.2.2": "Added configuration options for world generation.",
-	"1.2.1": "Fixed Lime Glowstone being texture-less.",
-    "1.2.0": "CTD Core required, config file, etc."
-  },
   "promos": 
   {
-    "1.7.10-latest": "1.0.1",
-    "1.7.10-recommended": "1.0.1",
+    "1.7.10-latest": "1.0.2",
+    "1.7.10-recommended": "1.0.2",
 	"1.10.2-latest": "1.2.4",
     "1.10.2-recommended": "1.2.4",
 	"1.11-latest": "1.1.2",
     "1.11-recommended": "1.1.2",
 	"1.11.2-latest": "1.2.4",
     "1.11.2-recommended": "1.2.4",
-	"1.12-latest": "1.2.9",
-    "1.12-recommended": "1.2.9"
+	"1.12-latest": "1.2.10",
+    "1.12-recommended": "1.2.10"
   }
 }
