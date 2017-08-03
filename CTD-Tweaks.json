@@ -2,6 +2,9 @@
   "homepage": "https://minecraft.curseforge.com/projects/ctd-tweaks",
   "1.12": 
   {
+	"1.5.8": "Added Invisibility Ring.",
+	"1.5.7": "Rebalanced Steamed Carrot to give half its original Saturation, rebalanced flight ring to use two nether stars.",
+	"1.5.6": "Added configs, renamed config, removed Combat Core durability, and made it more difficult to craft",
 	"1.5.5": "Requires Baubles. Fixes flight ring making other flight items not work.",
 	"1.5.4": "Fixes falling through the world when in spectator mode.",
 	"1.5.3": "Hopefully fixes the issues with the rings.",
@@ -31,8 +34,8 @@
   },
   "promos": 
   {
-	"1.12-latest": "1.5.5",
-    "1.12-recommended": "1.5.5",
+	"1.12-latest": "1.5.8",
+    "1.12-recommended": "1.5.8",
 	"1.11.2-latest": "1.4.0",
     "1.11.2-recommended": "1.4.0",
 	"1.10.2-latest": "1.4.0",
