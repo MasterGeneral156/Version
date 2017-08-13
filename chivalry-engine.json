@@ -1,6 +1,6 @@
 {
 	"download-latest": "https://github.com/MasterGeneral156/chivalry-engine/releases",
-	"latest": "",
+	"latest": "0.1.3",
 	"releases":
 	{
 		"0.1.3": "test"
