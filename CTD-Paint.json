@@ -1,7 +1,17 @@
 {
   "homepage": "https://minecraft.curseforge.com/projects/ctd-paint",
+  "1.12.1"
+  {
+	"2.0.6": "Fixed update checker",
+	"2.0.4": "Fixed remap names. Updated CTD Core and Forge.",
+	"2.0.3": "Re-re-re-re-re-re-readded recipes.",
+	"2.0.2": "Fixed crafting recipes. They are now JSON!",
+	"2.0.1": "Added forgotten recipes",
+	"2.0.0": "Initial 1.12 port."
+  },
   "1.12"
   {
+	"2.0.6": "Fixed update checker",
 	"2.0.4": "Fixed remap names. Updated CTD Core and Forge.",
 	"2.0.3": "Re-re-re-re-re-re-readded recipes.",
 	"2.0.2": "Fixed crafting recipes. They are now JSON!",
