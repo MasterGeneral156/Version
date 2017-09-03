@@ -1,4 +1,4 @@
 {
-	"version_code": 10623,
-	"content": "Version 1.0.6f <p>This version increases cache use, brings an internal clean up, and has the version checker run more often.</p>"
+	"version_code": 10724,
+	"content": "Version 1.0.7 <p>This version relaxes the aggressive caching on version 1.0.6</p>"
 }
