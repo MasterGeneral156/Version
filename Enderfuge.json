@@ -2,6 +2,7 @@
 	"homepage": "https://minecraft.curseforge.com/projects/enderfuge",
 	"1.12":
 	{
+		"1.1.9": "Fixes inconsistencies between how pipes/hoppers would act on the Enderfuge compared to a furnace.",
 		"1.1.8.1": "Forgot to increment the version number internally.",
 		"1.1.8": "Fixed invisble background when you open the Enderfuge",
 		"1.1.7": "Fixed crashes! :D",
@@ -27,8 +28,8 @@
 	},
 	"promos": 
 	{
-		"1.12-latest": "1.1.8.1",
-		"1.12-recommended": "1.1.8.1",
+		"1.12-latest": "1.1.9",
+		"1.12-recommended": "1.1.9",
 		"1.11.2-latest": "1.1.2",
 		"1.11.2-recommended": "1.1.2",
 		"1.10.2-latest": "1.1.2",
