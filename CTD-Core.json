@@ -1,7 +1,18 @@
 {
   "homepage": "https://minecraft.curseforge.com/projects/ctd-core",
+  "1.12.2":
+  {
+	"1.1.7": "Internal Clean up, fixes not loading on all 1.12.x versions.",
+	"1.1.6": "Initial Port to 1.12.1"
+  },
+  "1.12.1":
+  {
+	"1.1.7": "Internal Clean up, fixes not loading on all 1.12.x versions.",
+	"1.1.6": "Initial Port to 1.12.1"
+  },
   "1.12": 
   {
+	"1.1.7": "Internal Clean up, fixes not loading on all 1.12.x versions.",
 	"1.1.6": "Hot fix #2",
 	"1.1.5": "Hot fix.",
 	"1.1.4": "Added some World and ItemStack handlers",
@@ -29,7 +40,11 @@
     "1.10.2-recommended": "1.0.3",
 	"1.11.2-latest": "1.0.3",
     "1.11.2-recommended": "1.0.3",
-	"1.12-latest": "1.1.6",
-    "1.12-recommended": "1.1.6"
+	"1.12-latest": "1.1.7",
+    "1.12-recommended": "1.1.7",
+	"1.12.1-latest": "1.1.7",
+    "1.12.1-recommended": "1.1.7",
+	"1.12.2-latest": "1.1.7",
+    "1.12.2-recommended": "1.1.7",
   }
 }
