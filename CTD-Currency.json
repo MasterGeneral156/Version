@@ -40,13 +40,30 @@
   },
   "1.12": 
   {
+	"6.4.2": "Update to 1.12.2, styling fixes, added logo",
+	"6.4.1": "Fixes and such.",
+	"6.4.0": "Initial 1.12 port."
+  },
+  "1.12.1": 
+  {
+	"6.4.2": "Update to 1.12.2, styling fixes, added logo",
+	"6.4.1": "Fixes and such.",
+	"6.4.0": "Initial 1.12 port."
+  },
+  "1.12.2": 
+  {
+	"6.4.2": "Update to 1.12.2, styling fixes, added logo",
 	"6.4.1": "Fixes and such.",
 	"6.4.0": "Initial 1.12 port."
   },
   "promos": 
   {
-	"1.12-latest": "6.4.1",
-    "1.12-recommended": "6.4.1",
+	"1.12.2-latest": "6.4.2",
+    "1.12.2-recommended": "6.4.2",
+	"1.12.1-latest": "6.4.2",
+    "1.12.1-recommended": "6.4.2",
+	"1.12-latest": "6.4.2",
+    "1.12-recommended": "6.4.2",
 	"1.11.2-latest": "6.3.1",
     "1.11.2-recommended": "6.3.1",
 	"1.10.2-latest": "5.1.1",
