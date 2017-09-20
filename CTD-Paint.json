@@ -1,7 +1,13 @@
 {
   "homepage": "https://minecraft.curseforge.com/projects/ctd-paint",
-  "1.12.1"
+  "1.12.2":
   {
+	"2.0.7": "Styling fixes, updated to 1.12.2, added logo to mod menu",
+	"2.0.6": "Fixed update checker"
+  },
+  "1.12.1":
+  {
+	"2.0.7": "Styling fixes, updated to 1.12.2, added logo to mod menu",
 	"2.0.6": "Fixed update checker",
 	"2.0.4": "Fixed remap names. Updated CTD Core and Forge.",
 	"2.0.3": "Re-re-re-re-re-re-readded recipes.",
@@ -9,8 +15,9 @@
 	"2.0.1": "Added forgotten recipes",
 	"2.0.0": "Initial 1.12 port."
   },
-  "1.12"
+  "1.12":
   {
+	"2.0.7": "Styling fixes, updated to 1.12.2, added logo to mod menu",
 	"2.0.6": "Fixed update checker",
 	"2.0.4": "Fixed remap names. Updated CTD Core and Forge.",
 	"2.0.3": "Re-re-re-re-re-re-readded recipes.",
@@ -44,8 +51,12 @@
   },
   "promos": 
   {
-	"1.12-latest": "2.0.4",
-	"1.12-recommended": "2.0.4",
+	"1.12.2-latest": "2.0.7",
+	"1.12.2-recommended": "2.0.7",
+	"1.12.1-latest": "2.0.7",
+	"1.12.1-recommended": "2.0.7",
+	"1.12-latest": "2.0.7",
+	"1.12-recommended": "2.0.7",
 	"1.10.2-latest": "2.0.0",
     "1.10.2-recommended": "2.0.0",
 	"1.11.2-latest": "2.0.0",
