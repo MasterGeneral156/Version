@@ -2,12 +2,14 @@
   "homepage": "https://minecraft.curseforge.com/projects/ctd-tweaks",
   "1.12.2":
   {
+	"1.7": "Updated CTD Core to 1.2. Internal cleaning/fixing.",
 	"1.6": "Gothic Glass moved to correct tab, and combat core loses durability again",
 	"1.5.11": "Styling fixes, updated to 1.12.2, added WIP stuff.",
 	"1.5.10": "Fixed Gothic Glass smelting recipe conflicting with Soul Shard's smelting recipe."
   },
   "1.12.1":
   {
+	"1.7": "Updated CTD Core to 1.2. Internal cleaning/fixing.",
 	"1.6": "Gothic Glass moved to correct tab, and combat core loses durability again",
 	"1.5.11": "Styling fixes, updated to 1.12.2, added WIP stuff.",
 	"1.5.10": "Fixed Gothic Glass smelting recipe conflicting with Soul Shard's smelting recipe.",
@@ -16,6 +18,7 @@
   },
   "1.12": 
   {
+	"1.7": "Updated CTD Core to 1.2. Internal cleaning/fixing.",
 	"1.6": "Gothic Glass moved to correct tab, and combat core loses durability again",
 	"1.5.9": "Added Gothic Glass. Added Glowing Obsidian. Logo. Clean up.",
 	"1.5.8": "Added Invisibility Ring.",
@@ -51,12 +54,12 @@
   },
   "promos": 
   {
-	"1.12.2-latest": "1.6",
-    "1.12.2-recommended": "1.6",
-	"1.12.1-latest": "1.6",
-    "1.12.1-recommended": "1.6",
-	"1.12-latest": "1.6",
-    "1.12-recommended": "1.6",
+	"1.12.2-latest": "1.7",
+    "1.12.2-recommended": "1.7",
+	"1.12.1-latest": "1.7",
+    "1.12.1-recommended": "1.7",
+	"1.12-latest": "1.7",
+    "1.12-recommended": "1.7",
 	"1.11.2-latest": "1.4.0",
     "1.11.2-recommended": "1.4.0",
 	"1.10.2-latest": "1.4.0",
