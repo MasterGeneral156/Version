@@ -2,11 +2,13 @@
   "homepage": "https://minecraft.curseforge.com/projects/ctd-paint",
   "1.12.2":
   {
+	"2.1": "Updated CTD Core to 1.2. Removed chat update notifier.",
 	"2.0.7": "Styling fixes, updated to 1.12.2, added logo to mod menu",
 	"2.0.6": "Fixed update checker"
   },
   "1.12.1":
   {
+	"2.1": "Updated CTD Core to 1.2. Removed chat update notifier.",
 	"2.0.7": "Styling fixes, updated to 1.12.2, added logo to mod menu",
 	"2.0.6": "Fixed update checker",
 	"2.0.4": "Fixed remap names. Updated CTD Core and Forge.",
@@ -17,6 +19,7 @@
   },
   "1.12":
   {
+	"2.1": "Updated CTD Core to 1.2. Removed chat update notifier.",
 	"2.0.7": "Styling fixes, updated to 1.12.2, added logo to mod menu",
 	"2.0.6": "Fixed update checker",
 	"2.0.4": "Fixed remap names. Updated CTD Core and Forge.",
@@ -51,12 +54,12 @@
   },
   "promos": 
   {
-	"1.12.2-latest": "2.0.7",
-	"1.12.2-recommended": "2.0.7",
-	"1.12.1-latest": "2.0.7",
-	"1.12.1-recommended": "2.0.7",
-	"1.12-latest": "2.0.7",
-	"1.12-recommended": "2.0.7",
+	"1.12.2-latest": "2.1",
+	"1.12.2-recommended": "2.1",
+	"1.12.1-latest": "2.1",
+	"1.12.1-recommended": "2.1",
+	"1.12-latest": "2.1",
+	"1.12-recommended": "2.1",
 	"1.10.2-latest": "2.0.0",
     "1.10.2-recommended": "2.0.0",
 	"1.11.2-latest": "2.0.0",
