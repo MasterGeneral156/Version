@@ -1,7 +1,23 @@
 {
 	"homepage": "https://minecraft.curseforge.com/projects/enderfuge",
+	"1.12.2":
+	{
+		"1.2": "Styling fixes, update CTD Core to 1.2",
+		"1.1.9": "Fixes inconsistencies between how pipes/hoppers would act on the Enderfuge compared to a furnace."
+	},
+	"1.12.1":
+	{
+		"1.2": "Styling fixes, update CTD Core to 1.2",
+		"1.1.9": "Fixes inconsistencies between how pipes/hoppers would act on the Enderfuge compared to a furnace.",
+		"1.1.8.1": "Forgot to increment the version number internally.",
+		"1.1.8": "Fixed invisble background when you open the Enderfuge",
+		"1.1.7": "Fixed crashes! :D",
+		"1.1.6": "Re-re-re-re-re-re-readded JSON recipes.",
+		"1.1.5": "Fixed crashes, JSON recipe system now."
+	},
 	"1.12":
 	{
+		"1.2": "Styling fixes, update CTD Core to 1.2",
 		"1.1.9": "Fixes inconsistencies between how pipes/hoppers would act on the Enderfuge compared to a furnace.",
 		"1.1.8.1": "Forgot to increment the version number internally.",
 		"1.1.8": "Fixed invisble background when you open the Enderfuge",
@@ -28,8 +44,12 @@
 	},
 	"promos": 
 	{
-		"1.12-latest": "1.1.9",
-		"1.12-recommended": "1.1.9",
+		"1.12.2-latest": "1.2",
+		"1.12.2-recommended": "1.2",
+		"1.12.1-latest": "1.2",
+		"1.12.1-recommended": "1.2",
+		"1.12-latest": "1.2",
+		"1.12-recommended": "1.2",
 		"1.11.2-latest": "1.1.2",
 		"1.11.2-recommended": "1.1.2",
 		"1.10.2-latest": "1.1.2",
