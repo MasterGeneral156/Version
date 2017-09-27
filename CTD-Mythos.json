@@ -2,6 +2,7 @@
   "homepage": "https://minecraft.curseforge.com/projects/ctd-mythos",
   "1.12.2": 
   {
+	"0.0.5": "Added Longbow. CTD Core 1.2.1 now required.",
 	"0.0.4": "CTD Core 1.2 now required.",
 	"0.0.3": "Changes and stuff",
 	"0.0.2": "Working on JEI Plugin, added Cow Blood Drop and Bucket of Cow Blood",
@@ -9,6 +10,7 @@
   },
   "1.12.1": 
   {
+	"0.0.5": "Added Longbow. CTD Core 1.2.1 now required.",
 	"0.0.4": "CTD Core 1.2 now required.",
 	"0.0.3": "Changes and stuff",
 	"0.0.2": "Working on JEI Plugin, added Cow Blood Drop and Bucket of Cow Blood",
@@ -16,6 +18,7 @@
   },
   "1.12": 
   {
+	"0.0.5": "Added Longbow. CTD Core 1.2.1 now required.",
 	"0.0.4": "CTD Core 1.2 now required.",
 	"0.0.3": "Changes and stuff",
 	"0.0.2": "Working on JEI Plugin, added Cow Blood Drop and Bucket of Cow Blood",
@@ -23,11 +26,11 @@
   },
   "promos": 
   {
-	"1.12.2-latest": "0.0.4",
-    "1.12.2-recommended": "0.0.4",
-	"1.12.1-latest": "0.0.4",
-    "1.12.1-recommended": "0.0.4",
-	"1.12-latest": "0.0.4",
-    "1.12-recommended": "0.0.4"
+	"1.12.2-latest": "0.0.5",
+    "1.12.2-recommended": "0.0.5",
+	"1.12.1-latest": "0.0.5",
+    "1.12.1-recommended": "0.0.5",
+	"1.12-latest": "0.0.5",
+    "1.12-recommended": "0.0.5"
   }
 }
