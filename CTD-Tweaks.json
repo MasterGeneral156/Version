@@ -43,6 +43,7 @@
   },
   "1.11.2": 
   {
+	"1.4.1": "Jar signed mod. Final 1.11.2 update. Removed Flight Core since unimplemented.",
 	"1.4.0": "Added CTD Core as a required mod.",
 	"1.3.0": "JEI Integration, Forge Update Checker, Config files."
   },
@@ -70,8 +71,8 @@
     "1.12.1-recommended": "1.7.3",
 	"1.12-latest": "1.7.3",
     "1.12-recommended": "1.7.3",
-	"1.11.2-latest": "1.4.0",
-    "1.11.2-recommended": "1.4.0",
+	"1.11.2-latest": "1.4.1",
+    "1.11.2-recommended": "1.4.1",
 	"1.10.2-latest": "1.4.1",
     "1.10.2-recommended": "1.4.1",
 	"1.11-latest": "1.2.1",
