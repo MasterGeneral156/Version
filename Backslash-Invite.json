@@ -1,0 +1,40 @@
+{
+  "homepage": "https://minecraft.curseforge.com/projects/backslash-invite",
+  "1.12.2":
+  {
+	"1.2": "Jar signed the mod.",
+	"1.1": "1.12 Update"
+  },
+  "1.12.1":
+  {
+	"1.1": "Jar signed the mod.",
+	"1.0": "1.12 Update"
+  },
+  "1.12":
+  {
+	"1.1": "Jar signed the mod.",
+	"1.0": "1.12 Update"
+  },
+  "1.11.2":
+  {
+	"1.1": "1.11.2 update"
+  },
+  "1.10.2":
+  {
+	"1.1": "Mod no longer required client-side.",
+	"1.0": "Initial Release"
+  },
+  "promos": 
+  {
+	"1.12.2-latest": "1.2",
+    "1.12.2-recommended": "1.2",
+	"1.12.1-latest": "1.2",
+    "1.12.1-recommended": "1.2",
+	"1.12-latest": "1.2",
+	"1.12-recommended": "1.2",
+    "1.11.2-latest": "1.1",
+    "1.11.2-recommended": "1.1",
+	"1.10.2-latest": "1.1",
+    "1.10.2-recommended": "1.1"
+  }
+}
