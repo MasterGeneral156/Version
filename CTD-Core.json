@@ -39,6 +39,7 @@
   },
   "1.11.2": 
   {
+	"1.0.4": "Jar-signed mod, updated json link and styling update.",
 	"1.0.3": "Basic fluid registering, removed test stuff, changed update URL",
 	"1.0.2": "Ported to 1.11.2"
   },
@@ -54,8 +55,8 @@
   {
 	"1.10.2-latest": "1.0.4",
     "1.10.2-recommended": "1.0.4",
-	"1.11.2-latest": "1.0.3",
-    "1.11.2-recommended": "1.0.3",
+	"1.11.2-latest": "1.0.4",
+    "1.11.2-recommended": "1.0.4",
 	"1.12-latest": "1.2.2",
     "1.12-recommended": "1.2.2",
 	"1.12.1-latest": "1.2.2",
