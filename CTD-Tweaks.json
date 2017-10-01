@@ -2,6 +2,7 @@
   "homepage": "https://minecraft.curseforge.com/projects/ctd-tweaks",
   "1.12.2":
   {
+	"1.7.3": "Log mod fingerprint violations",
 	"1.7.2": "Jar-signed mod",
 	"1.7.1": "Removed haste ring's temporary recipe, fixed dragon egg not working with damaged combat core, added recipe for enchanted gold, chagned Glowing Core's recipe to use the recipe from pre-1.12",
 	"1.7": "Updated CTD Core to 1.2. Internal cleaning/fixing.",
@@ -11,6 +12,7 @@
   },
   "1.12.1":
   {
+	"1.7.3": "Log mod fingerprint violations",
 	"1.7.2": "Jar-signed mod",
 	"1.7.1": "Removed haste ring's temporary recipe, fixed dragon egg not working with damaged combat core, added recipe for enchanted gold, chagned Glowing Core's recipe to use the recipe from pre-1.12",
 	"1.7": "Updated CTD Core to 1.2. Internal cleaning/fixing.",
@@ -22,6 +24,7 @@
   },
   "1.12": 
   {
+	"1.7.3": "Log mod fingerprint violations",
 	"1.7.2": "Jar-signed mod",
 	"1.7.1": "Removed haste ring's temporary recipe, fixed dragon egg not working with damaged combat core, added recipe for enchanted gold, chagned Glowing Core's recipe to use the recipe from pre-1.12",
 	"1.7": "Updated CTD Core to 1.2. Internal cleaning/fixing.",
@@ -60,12 +63,12 @@
   },
   "promos": 
   {
-	"1.12.2-latest": "1.7.2",
-    "1.12.2-recommended": "1.7.2",
-	"1.12.1-latest": "1.7.2",
-    "1.12.1-recommended": "1.7.2",
-	"1.12-latest": "1.7.2",
-    "1.12-recommended": "1.7.2",
+	"1.12.2-latest": "1.7.3",
+    "1.12.2-recommended": "1.7.3",
+	"1.12.1-latest": "1.7.3",
+    "1.12.1-recommended": "1.7.3",
+	"1.12-latest": "1.7.3",
+    "1.12-recommended": "1.7.3",
 	"1.11.2-latest": "1.4.0",
     "1.11.2-recommended": "1.4.0",
 	"1.10.2-latest": "1.4.0",
