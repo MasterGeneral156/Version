@@ -1,4 +1,4 @@
 {
-	"version_code": 10827,
-	"content": "Version 1.0.8b <p>Changes the User Agent to be a little more generic.</p>"
+	"version_code": 10928,
+	"content": "Version 1.0.9 <p>Stores CSS/JS offline for quicker loading.</p>"
 }
