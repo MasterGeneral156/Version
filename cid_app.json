@@ -1,4 +1,4 @@
 {
-	"version_code": 10929,
-	"content": "Version 1.0.9b <p>Small update that changes our internal domains to the new one!</p>"
+	"version_code": 10930,
+	"content": "Version 1.0.9c <p>Load over HTTPs instead of redirect to.</p>"
 }
