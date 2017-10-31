@@ -2,6 +2,7 @@
   "homepage": "https://minecraft.curseforge.com/projects/ctd-core",
   "1.12.2":
   {
+	"1.2.3": "Added #getBlockUnderPlayer",
 	"1.2.2": "Jar-signed mod",
 	"1.2.1": "Added helper classes for bows, shields and arrows",
 	"1.2": "Internal changes that break existing mods.",
@@ -12,6 +13,7 @@
   },
   "1.12.1":
   {
+	"1.2.3": "Added #getBlockUnderPlayer",
 	"1.2.2": "Jar-signed mod",
 	"1.2.1": "Added helper classes for bows, shields and arrows",
 	"1.2": "Internal changes that break existing mods.",
@@ -22,6 +24,7 @@
   },
   "1.12": 
   {
+	"1.2.3": "Added #getBlockUnderPlayer",
 	"1.2.2": "Jar-signed mod",
 	"1.2.1": "Added helper classes for bows, shields and arrows",
 	"1.2": "Internal changes that break existing mods.",
@@ -57,11 +60,11 @@
     "1.10.2-recommended": "1.0.4",
 	"1.11.2-latest": "1.0.4",
     "1.11.2-recommended": "1.0.4",
-	"1.12-latest": "1.2.2",
-    "1.12-recommended": "1.2.2",
-	"1.12.1-latest": "1.2.2",
-    "1.12.1-recommended": "1.2.2",
-	"1.12.2-latest": "1.2.2",
-    "1.12.2-recommended": "1.2.2"
+	"1.12-latest": "1.2.3",
+    "1.12-recommended": "1.2.3",
+	"1.12.1-latest": "1.2.3",
+    "1.12.1-recommended": "1.2.3",
+	"1.12.2-latest": "1.2.3",
+    "1.12.2-recommended": "1.2.3"
   }
 }
