@@ -33,6 +33,7 @@
   },
   "1.11.2": 
   {
+	"2.1.1": "Backport 1.12 features.",
 	"2.0.0": "Massive rewrite. Final 1.11.2 release.",
 	"1.1.6": "Update checker fixes, plus more!",
 	"1.1.5": "Changed Update JSON links.",
@@ -44,6 +45,7 @@
   },
   "1.10.2": 
   {
+	"2.1.1": "Backport 1.12 features.",
 	"2.0.0": "Massive rewrite. Final 1.10.2 release.",
 	"1.1.6": "Update checker fixes, plus more!",
 	"1.1.5": "Changed Update JSON links.",
@@ -63,9 +65,9 @@
 	"1.12.1-recommended": "2.1.1",
 	"1.12-latest": "2.1.1",
 	"1.12-recommended": "2.1.1",
-	"1.10.2-latest": "2.0.0",
-    "1.10.2-recommended": "2.0.0",
-	"1.11.2-latest": "2.0.0",
-    "1.11.2-recommended": "2.0.0"
+	"1.10.2-latest": "2.1.1",
+    "1.10.2-recommended": "2.1.1",
+	"1.11.2-latest": "2.1.1",
+    "1.11.2-recommended": "2.1.1"
   }
 }
