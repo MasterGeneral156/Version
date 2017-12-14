@@ -2,6 +2,7 @@
 	"homepage": "https://minecraft.curseforge.com/projects/enderfuge",
 	"1.12.2":
 	{
+		"1.4.0": "Added IMC Event handler so mod devs can add their own Enderfuge fuel/recipes.",
 		"1.3.0": "Added JEI Support for fuel items. Rewrote JEI Plugin. Put Enderfuge fuels in their own class.",
 		"1.2.1": "Add logging, jar sign mod.",
 		"1.2": "Styling fixes, update CTD Core to 1.2",
@@ -9,6 +10,7 @@
 	},
 	"1.12.1":
 	{
+		"1.4.0": "Added IMC Event handler so mod devs can add their own Enderfuge fuel/recipes.",
 		"1.3.0": "Added JEI Support for fuel items. Rewrote JEI Plugin. Put Enderfuge fuels in their own class.",
 		"1.2.1": "Add logging, jar sign mod.",
 		"1.2": "Styling fixes, update CTD Core to 1.2",
@@ -21,6 +23,7 @@
 	},
 	"1.12":
 	{
+		"1.4.0": "Added IMC Event handler so mod devs can add their own Enderfuge fuel/recipes.",
 		"1.3.0": "Added JEI Support for fuel items. Rewrote JEI Plugin. Put Enderfuge fuels in their own class.",
 		"1.2.1": "Add logging, jar sign mod.",
 		"1.2": "Styling fixes, update CTD Core to 1.2",
@@ -50,12 +53,12 @@
 	},
 	"promos": 
 	{
-		"1.12.2-latest": "1.3.0",
-		"1.12.2-recommended": "1.3.0",
-		"1.12.1-latest": "1.3.0",
-		"1.12.1-recommended": "1.3.0",
-		"1.12-latest": "1.3.0",
-		"1.12-recommended": "1.3.0",
+		"1.12.2-latest": "1.4.0",
+		"1.12.2-recommended": "1.4.0",
+		"1.12.1-latest": "1.4.0",
+		"1.12.1-recommended": "1.4.0",
+		"1.12-latest": "1.4.0",
+		"1.12-recommended": "1.4.0",
 		"1.11.2-latest": "1.1.2",
 		"1.11.2-recommended": "1.1.2",
 		"1.10.2-latest": "1.1.2",
