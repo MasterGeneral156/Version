@@ -2,6 +2,7 @@
   "homepage": "https://minecraft.curseforge.com/projects/ctd-tweaks",
   "1.12.2":
   {
+	"1.7.7": "Redo textures to use Minecraft's soon-to-be default. Rebalanced all the ring recipes. Wither Fuel Ingot can only be made in Enderfuge. (Can be disabled)",
 	"1.7.6": "Added concrete block that speeds up player when walked on.",
 	"1.7.5": "Slowly moving over to new Fuel Handler system.",
 	"1.7.4": "Added Snow -> 4x Snow Balls Recipe, Added Clay -> 4x Clay Balls Recipe",
@@ -15,6 +16,7 @@
   },
   "1.12.1":
   {
+	"1.7.7": "Redo textures to use Minecraft's soon-to-be default. Rebalanced all the ring recipes. Wither Fuel Ingot can only be made in Enderfuge. (Can be disabled)",
 	"1.7.6": "Added concrete block that speeds up player when walked on.",
 	"1.7.5": "Slowly moving over to new Fuel Handler system.",
 	"1.7.4": "Added Snow -> 4x Snow Balls Recipe, Added Clay -> 4x Clay Balls Recipe",
@@ -30,6 +32,7 @@
   },
   "1.12": 
   {
+	"1.7.7": "Redo textures to use Minecraft's soon-to-be default. Rebalanced all the ring recipes. Wither Fuel Ingot can only be made in Enderfuge. (Can be disabled)",
 	"1.7.6": "Added concrete block that speeds up player when walked on.",
 	"1.7.5": "Slowly moving over to new Fuel Handler system.",
 	"1.7.4": "Added Snow -> 4x Snow Balls Recipe, Added Clay -> 4x Clay Balls Recipe",
@@ -76,12 +79,12 @@
   },
   "promos": 
   {
-	"1.12.2-latest": "1.7.6",
-    "1.12.2-recommended": "1.7.6",
-	"1.12.1-latest": "1.7.6",
-    "1.12.1-recommended": "1.7.6",
-	"1.12-latest": "1.7.6",
-    "1.12-recommended": "1.7.6",
+	"1.12.2-latest": "1.7.7",
+    "1.12.2-recommended": "1.7.7",
+	"1.12.1-latest": "1.7.7",
+    "1.12.1-recommended": "1.7.7",
+	"1.12-latest": "1.7.7",
+    "1.12-recommended": "1.7.7",
 	"1.11.2-latest": "1.7.6",
     "1.11.2-recommended": "1.7.6",
 	"1.10.2-latest": "1.7.6",
