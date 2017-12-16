@@ -2,6 +2,8 @@
 	"homepage": "https://minecraft.curseforge.com/projects/enderfuge",
 	"1.12.2":
 	{
+		"1.4.4": "Fixed bug where removing a smelting recipe would just remove a fuel.",
+		"1.4.3": "More/new IMC stuff. Redid textures. More fuel. More smeltables.",
 		"1.4.2": "More bug fixes with IMC.",
 		"1.4.1": "Severe bug fixes with IMC.",
 		"1.4.0": "Added IMC Event handler so mod devs can add their own Enderfuge fuel/recipes.",
@@ -12,6 +14,8 @@
 	},
 	"1.12.1":
 	{
+		"1.4.4": "Fixed bug where removing a smelting recipe would just remove a fuel.",
+		"1.4.3": "More/new IMC stuff. Redid textures. More fuel. More smeltables.",
 		"1.4.2": "More bug fixes with IMC.",
 		"1.4.1": "Severe bug fixes with IMC.",
 		"1.4.0": "Added IMC Event handler so mod devs can add their own Enderfuge fuel/recipes.",
@@ -27,6 +31,8 @@
 	},
 	"1.12":
 	{
+		"1.4.4": "Fixed bug where removing a smelting recipe would just remove a fuel.",
+		"1.4.3": "More/new IMC stuff. Redid textures. More fuel. More smeltables.",
 		"1.4.2": "More bug fixes with IMC.",
 		"1.4.1": "Severe bug fixes with IMC.",
 		"1.4.0": "Added IMC Event handler so mod devs can add their own Enderfuge fuel/recipes.",
@@ -59,12 +65,12 @@
 	},
 	"promos": 
 	{
-		"1.12.2-latest": "1.4.2",
-		"1.12.2-recommended": "1.4.2",
-		"1.12.1-latest": "1.4.2",
-		"1.12.1-recommended": "1.4.2",
-		"1.12-latest": "1.4.2",
-		"1.12-recommended": "1.4.1",
+		"1.12.2-latest": "1.4.4",
+		"1.12.2-recommended": "1.4.4",
+		"1.12.1-latest": "1.4.4",
+		"1.12.1-recommended": "1.4.4",
+		"1.12-latest": "1.4.4",
+		"1.12-recommended": "1.4.4",
 		"1.11.2-latest": "1.1.2",
 		"1.11.2-recommended": "1.1.2",
 		"1.10.2-latest": "1.1.2",
