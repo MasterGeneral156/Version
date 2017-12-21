@@ -2,6 +2,9 @@
   "homepage": "https://minecraft.curseforge.com/projects/ctd-tweaks",
   "1.12.2":
   {
+	"1.8.2": "Added Enderfuge fuel. Added Health Charm!",
+	"1.8.1": "Added config option for Amulet of Reaching. Added Creative Amulet of Reaching.",
+	"1.8.0": "Added Amulet of Reaching. Doubles your range when equipped in your Amulet Slot!",
 	"1.7.7": "Redo textures to use Minecraft's soon-to-be default. Rebalanced all the ring recipes. Wither Fuel Ingot can only be made in Enderfuge. (Can be disabled)",
 	"1.7.6": "Added concrete block that speeds up player when walked on.",
 	"1.7.5": "Slowly moving over to new Fuel Handler system.",
@@ -16,6 +19,9 @@
   },
   "1.12.1":
   {
+	"1.8.2": "Added Enderfuge fuel. Added Health Charm!",
+	"1.8.1": "Added config option for Amulet of Reaching. Added Creative Amulet of Reaching.",
+	"1.8.0": "Added Amulet of Reaching. Doubles your range when equipped in your Amulet Slot!",
 	"1.7.7": "Redo textures to use Minecraft's soon-to-be default. Rebalanced all the ring recipes. Wither Fuel Ingot can only be made in Enderfuge. (Can be disabled)",
 	"1.7.6": "Added concrete block that speeds up player when walked on.",
 	"1.7.5": "Slowly moving over to new Fuel Handler system.",
@@ -32,6 +38,9 @@
   },
   "1.12": 
   {
+	"1.8.2": "Added Enderfuge fuel. Added Health Charm!",
+	"1.8.1": "Added config option for Amulet of Reaching. Added Creative Amulet of Reaching.",
+	"1.8.0": "Added Amulet of Reaching. Doubles your range when equipped in your Amulet Slot!",
 	"1.7.7": "Redo textures to use Minecraft's soon-to-be default. Rebalanced all the ring recipes. Wither Fuel Ingot can only be made in Enderfuge. (Can be disabled)",
 	"1.7.6": "Added concrete block that speeds up player when walked on.",
 	"1.7.5": "Slowly moving over to new Fuel Handler system.",
@@ -79,12 +88,12 @@
   },
   "promos": 
   {
-	"1.12.2-latest": "1.7.7",
-    "1.12.2-recommended": "1.7.7",
-	"1.12.1-latest": "1.7.7",
-    "1.12.1-recommended": "1.7.7",
-	"1.12-latest": "1.7.7",
-    "1.12-recommended": "1.7.7",
+	"1.12.2-latest": "1.8.2",
+    "1.12.2-recommended": "1.8.2",
+	"1.12.1-latest": "1.8.2",
+    "1.12.1-recommended": "1.8.2",
+	"1.12-latest": "1.8.2",
+    "1.12-recommended": "1.8.2",
 	"1.11.2-latest": "1.7.6",
     "1.11.2-recommended": "1.7.6",
 	"1.10.2-latest": "1.7.6",
