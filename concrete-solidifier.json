@@ -1,0 +1,24 @@
+{
+  "homepage": "https://minecraft.curseforge.com/projects/concrete-solidifier",
+  "1.12.2": 
+  {
+	"1.0.0": "First Build."
+  },
+  "1.12.1": 
+  {
+	"1.0.0": "First Build."
+  },
+  "1.12": 
+  {
+	"1.0.0": "First Build."
+  },
+  "promos": 
+  {
+	"1.12.2-latest": "1.0.0",
+    "1.12.2-recommended": "1.0.0",
+	"1.12.1-latest": "1.0.0",
+    "1.12.1-recommended": "1.0.0",
+	"1.12-latest": "1.0.0",
+    "1.12-recommended": "1.0.0"
+  }
+}
