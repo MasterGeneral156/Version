@@ -2,6 +2,10 @@
   "homepage": "https://minecraft.curseforge.com/projects/mo-glowstone",
   "1.12.2":
   {
+	"1.5.2": "Added config option to disable World Gen of Glowstone Ore.",
+	"1.5.1": "Fixes Albedo Support.",
+	"1.5.0": "Albedo Support added!",
+	"1.4.5": "Added Glowstone Ore.",
 	"1.4.4": "Redid Glowstone Fuel texture with the new coal texture base.",
 	"1.4.3": "Textures redid with Minecraft's new Glowstone texture. Added TE Pulverizer recipes with our glowstone.",
 	"1.4.2": "Adopt new Fuel Handler.",
@@ -11,6 +15,10 @@
   },
   "1.12.1":
   {
+	"1.5.2": "Added config option to disable World Gen of Glowstone Ore.",
+	"1.5.1": "Fixes Albedo Support.",
+	"1.5.0": "Albedo Support added!",
+	"1.4.5": "Added Glowstone Ore.",
 	"1.4.4": "Redid Glowstone Fuel texture with the new coal texture base.",
 	"1.4.3": "Textures redid with Minecraft's new Glowstone texture. Added TE Pulverizer recipes with our glowstone.",
 	"1.4.2": "Adopt new Fuel Handler.",
@@ -22,6 +30,10 @@
   },
   "1.12": 
   {
+	"1.5.2": "Added config option to disable World Gen of Glowstone Ore.",
+	"1.5.1": "Fixes Albedo Support.",
+	"1.5.0": "Albedo Support added!",
+	"1.4.5": "Added Glowstone Ore.",
 	"1.4.4": "Redid Glowstone Fuel texture with the new coal texture base.",
 	"1.4.3": "Textures redid with Minecraft's new Glowstone texture. Added TE Pulverizer recipes with our glowstone.",
 	"1.4.2": "Adopt new Fuel Handler.",
@@ -78,11 +90,11 @@
     "1.11-recommended": "1.1.2",
 	"1.11.2-latest": "1.2.4",
     "1.11.2-recommended": "1.2.4",
-	"1.12-latest": "1.4.4",
-    "1.12-recommended": "1.4.4",
-	"1.12.1-latest": "1.4.4",
-    "1.12.1-recommended": "1.4.4",
-	"1.12.2-latest": "1.4.4",
-    "1.12.2-recommended": "1.4.4"
+	"1.12-latest": "1.5.2",
+    "1.12-recommended": "1.5.2",
+	"1.12.1-latest": "1.5.2",
+    "1.12.1-recommended": "1.5.2",
+	"1.12.2-latest": "1.5.2",
+    "1.12.2-recommended": "1.5.2"
   }
 }
