@@ -2,6 +2,7 @@
   "homepage": "https://minecraft.curseforge.com/projects/ctd-tweaks",
   "1.12.2":
   {
+    "1.8.3": "Updated Forge. Updated CTD Core. New textures.",
 	"1.8.2": "Added Enderfuge fuel. Added Health Charm!",
 	"1.8.1": "Added config option for Amulet of Reaching. Added Creative Amulet of Reaching.",
 	"1.8.0": "Added Amulet of Reaching. Doubles your range when equipped in your Amulet Slot!",
@@ -19,6 +20,7 @@
   },
   "1.12.1":
   {
+    "1.8.3": "Updated Forge. Updated CTD Core. New textures.",
 	"1.8.2": "Added Enderfuge fuel. Added Health Charm!",
 	"1.8.1": "Added config option for Amulet of Reaching. Added Creative Amulet of Reaching.",
 	"1.8.0": "Added Amulet of Reaching. Doubles your range when equipped in your Amulet Slot!",
@@ -38,6 +40,7 @@
   },
   "1.12": 
   {
+    "1.8.3": "Updated Forge. Updated CTD Core. New textures.",
 	"1.8.2": "Added Enderfuge fuel. Added Health Charm!",
 	"1.8.1": "Added config option for Amulet of Reaching. Added Creative Amulet of Reaching.",
 	"1.8.0": "Added Amulet of Reaching. Doubles your range when equipped in your Amulet Slot!",
@@ -88,12 +91,12 @@
   },
   "promos": 
   {
-	"1.12.2-latest": "1.8.2",
-    "1.12.2-recommended": "1.8.2",
-	"1.12.1-latest": "1.8.2",
-    "1.12.1-recommended": "1.8.2",
-	"1.12-latest": "1.8.2",
-    "1.12-recommended": "1.8.2",
+	"1.12.2-latest": "1.8.3",
+    "1.12.2-recommended": "1.8.3",
+	"1.12.1-latest": "1.8.3",
+    "1.12.1-recommended": "1.8.3",
+	"1.12-latest": "1.8.3",
+    "1.12-recommended": "1.8.3",
 	"1.11.2-latest": "1.7.6",
     "1.11.2-recommended": "1.7.6",
 	"1.10.2-latest": "1.7.6",
