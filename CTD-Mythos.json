@@ -2,8 +2,11 @@
   "homepage": "https://minecraft.curseforge.com/projects/ctd-mythos",
   "1.12.2": 
   {
-	"0.0.8": "World Gen config options for Crystalized Ore.",
-	"0.0.7": "Added Crystalized Ore+Gems. Added Enderfuge Integration. Updated CTD Core to 1.2.4",
+    "0.0.11": "Added Gladius. Crystalized Memory gives Weakness instead of Nausea. Added Config option for levels stored in Tome of Knowledge",
+    "0.0.10": "Added Tome of Knowledge to store experience. Added ability to repair tools.",
+    "0.0.9": "Updated Forge. Retextured Crystallized items and Cow blood droplet. Added TMG's Drill",
+	"0.0.8": "World Gen config options for Crystallized Ore.",
+	"0.0.7": "Added Crystallized Ore+Gems. Added Enderfuge Integration. Updated CTD Core to 1.2.4",
 	"0.0.6": "Longbow model changes. Jar signed mod.",
 	"0.0.5": "Added Longbow. CTD Core 1.2.1 now required.",
 	"0.0.4": "CTD Core 1.2 now required.",
@@ -13,8 +16,11 @@
   },
   "1.12.1": 
   {
-	"0.0.8": "World Gen config options for Crystalized Ore.",
-	"0.0.7": "Added Crystalized Ore+Gems. Added Enderfuge Integration. Updated CTD Core to 1.2.4",
+    "0.0.11": "Added Gladius. Crystalized Memory gives Weakness instead of Nausea. Added Config option for levels stored in Tome of Knowledge",
+    "0.0.10": "Added Tome of Knowledge to store experience. Added ability to repair tools.",
+    "0.0.9": "Updated Forge. Retextured Crystallized items and Cow blood droplet. Added TMG's Drill",
+	"0.0.8": "World Gen config options for Crystallized Ore.",
+	"0.0.7": "Added Crystallized Ore+Gems. Added Enderfuge Integration. Updated CTD Core to 1.2.4",
 	"0.0.6": "Longbow model changes. Jar signed mod.",
 	"0.0.5": "Added Longbow. CTD Core 1.2.1 now required.",
 	"0.0.4": "CTD Core 1.2 now required.",
@@ -24,8 +30,11 @@
   },
   "1.12": 
   {
-	"0.0.8": "World Gen config options for Crystalized Ore.",
-	"0.0.7": "Added Crystalized Ore+Gems. Added Enderfuge Integration. Updated CTD Core to 1.2.4",
+    "0.0.11": "Added Gladius. Crystalized Memory gives Weakness instead of Nausea. Added Config option for levels stored in Tome of Knowledge",
+    "0.0.10": "Added Tome of Knowledge to store experience. Added ability to repair tools.",
+    "0.0.9": "Updated Forge. Retextured Crystallized items and Cow blood droplet. Added TMG's Drill",
+	"0.0.8": "World Gen config options for Crystallized Ore.",
+	"0.0.7": "Added Crystallized Ore+Gems. Added Enderfuge Integration. Updated CTD Core to 1.2.4",
 	"0.0.6": "Longbow model changes. Jar signed mod.",
 	"0.0.5": "Added Longbow. CTD Core 1.2.1 now required.",
 	"0.0.4": "CTD Core 1.2 now required.",
@@ -35,11 +44,11 @@
   },
   "promos": 
   {
-	"1.12.2-latest": "0.0.8",
-    "1.12.2-recommended": "0.0.8",
-	"1.12.1-latest": "0.0.8",
-    "1.12.1-recommended": "0.0.8",
-	"1.12-latest": "0.0.8",
-    "1.12-recommended": "0.0.8"
+	"1.12.2-latest": "0.0.10",
+    "1.12.2-recommended": "0.0.10",
+	"1.12.1-latest": "0.0.10",
+    "1.12.1-recommended": "0.0.10",
+	"1.12-latest": "0.0.10",
+    "1.12-recommended": "0.0.10"
   }
 }
