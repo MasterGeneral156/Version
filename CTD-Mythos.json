@@ -2,6 +2,8 @@
   "homepage": "https://minecraft.curseforge.com/projects/ctd-mythos",
   "1.12.2": 
   {
+    "0.0.13": "Added Archeron Ingot. Added recipes for Grim Shears and Gladius. Added Levitation Wand. Added way to get Crystallized Ender.",
+    "0.0.12": "Added Teleportation Wand. Styling fixes.",
     "0.0.11": "Added Gladius. Crystalized Memory gives Weakness instead of Nausea. Added Config option for levels stored in Tome of Knowledge",
     "0.0.10": "Added Tome of Knowledge to store experience. Added ability to repair tools.",
     "0.0.9": "Updated Forge. Retextured Crystallized items and Cow blood droplet. Added TMG's Drill",
@@ -16,6 +18,8 @@
   },
   "1.12.1": 
   {
+    "0.0.13": "Added Archeron Ingot. Added recipes for Grim Shears and Gladius. Added Levitation Wand. Added way to get Crystallized Ender.",
+    "0.0.12": "Added Teleportation Wand. Styling fixes.",
     "0.0.11": "Added Gladius. Crystalized Memory gives Weakness instead of Nausea. Added Config option for levels stored in Tome of Knowledge",
     "0.0.10": "Added Tome of Knowledge to store experience. Added ability to repair tools.",
     "0.0.9": "Updated Forge. Retextured Crystallized items and Cow blood droplet. Added TMG's Drill",
@@ -30,6 +34,8 @@
   },
   "1.12": 
   {
+    "0.0.13": "Added Archeron Ingot. Added recipes for Grim Shears and Gladius. Added Levitation Wand. Added way to get Crystallized Ender.",
+    "0.0.12": "Added Teleportation Wand. Styling fixes.",
     "0.0.11": "Added Gladius. Crystalized Memory gives Weakness instead of Nausea. Added Config option for levels stored in Tome of Knowledge",
     "0.0.10": "Added Tome of Knowledge to store experience. Added ability to repair tools.",
     "0.0.9": "Updated Forge. Retextured Crystallized items and Cow blood droplet. Added TMG's Drill",
@@ -44,11 +50,11 @@
   },
   "promos": 
   {
-	"1.12.2-latest": "0.0.10",
-    "1.12.2-recommended": "0.0.10",
-	"1.12.1-latest": "0.0.10",
-    "1.12.1-recommended": "0.0.10",
-	"1.12-latest": "0.0.10",
-    "1.12-recommended": "0.0.10"
+	"1.12.2-latest": "0.0.13",
+    "1.12.2-recommended": "0.0.13",
+	"1.12.1-latest": "0.0.13",
+    "1.12.1-recommended": "0.0.13",
+	"1.12-latest": "0.0.13",
+    "1.12-recommended": "0.0.13"
   }
 }
