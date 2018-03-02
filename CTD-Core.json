@@ -2,6 +2,7 @@
   "homepage": "https://minecraft.curseforge.com/projects/ctd-core",
   "1.12.2":
   {
+    "1.2.5": "Re-added Java Edition logo. Updated public key for Jar Signing.",
 	"1.2.4": "https://minecraft.curseforge.com/projects/ctd-core/files/2510935",
 	"1.2.3": "Added #getBlockUnderPlayer",
 	"1.2.2": "Jar-signed mod",
@@ -14,6 +15,7 @@
   },
   "1.12.1":
   {
+    "1.2.5": "Re-added Java Edition logo. Updated public key for Jar Signing.",
 	"1.2.4": "https://minecraft.curseforge.com/projects/ctd-core/files/2510935",
 	"1.2.3": "Added #getBlockUnderPlayer",
 	"1.2.2": "Jar-signed mod",
@@ -26,6 +28,7 @@
   },
   "1.12": 
   {
+    "1.2.5": "Re-added Java Edition logo. Updated public key for Jar Signing.",
 	"1.2.4": "https://minecraft.curseforge.com/projects/ctd-core/files/2510935",
 	"1.2.3": "Added #getBlockUnderPlayer",
 	"1.2.2": "Jar-signed mod",
@@ -66,11 +69,11 @@
     "1.10.2-recommended": "1.2.3b",
 	"1.11.2-latest": "1.2.3",
     "1.11.2-recommended": "1.2.3",
-	"1.12-latest": "1.2.4",
-    "1.12-recommended": "1.2.4",
-	"1.12.1-latest": "1.2.4",
-    "1.12.1-recommended": "1.2.4",
-	"1.12.2-latest": "1.2.4",
-    "1.12.2-recommended": "1.2.4"
+	"1.12-latest": "1.2.5",
+    "1.12-recommended": "1.2.5",
+	"1.12.1-latest": "1.2.5",
+    "1.12.1-recommended": "1.2.5",
+	"1.12.2-latest": "1.2.5",
+    "1.12.2-recommended": "1.2.5"
   }
 }
