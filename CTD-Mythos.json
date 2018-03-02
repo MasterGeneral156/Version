@@ -1,7 +1,13 @@
 {
   "homepage": "https://minecraft.curseforge.com/projects/ctd-mythos",
-  "1.12.2": 
-  {
+  "1.12.2": {
+    "0.0.24": "Added IMC Handler for other mods to use.",
+    "0.0.23": "Added remaining Crystallized Gems as JEI catalysts for Mainhand/Offhand Category. Fixed some JEI implementation bugs. Removed explosions when crafting Archeron Ingots.",
+    "0.0.22": "Separate Offhand/Mainhand crafting mechanic in its own class. Started work on JEI category for said class.",
+    "0.0.21": "Levitation Wand catalyst items in own class. Added JEI support. Added Blocks/Nuggets for Levitation Wand catalyst items.",
+    "0.0.20": "Added Crystallized Fire Bricks. Removed repeated code. Updated texture of Talisman of Evasion. Restructured Item Classes.",
+    "0.0.19": "Changed Talisman of Evasion to actually evade attacks, rather than heal the user. Added cool-down periods for several items.",
+    "0.0.18": "Added Wand of Fire. Added Talisman of Evasion.",
     "0.0.17": "Code clean up. New textures. Added mod sounds. Flight wand only usable when user on the ground. Tweaks to flight resistance.",
     "0.0.16": "Updated JEI. Implemented Ore Dictionary. Recipes use Ore Dictionary. Updated Creative Tab icon. Added Mule's Kick.",
     "0.0.15": "Re-textured Crystals. Added Crystallized Glove. Renamed Bucket of Cow Blood to Cow Blood Vial.",
@@ -11,17 +17,23 @@
     "0.0.11": "Added Gladius. Crystalized Memory gives Weakness instead of Nausea. Added Config option for levels stored in Tome of Knowledge",
     "0.0.10": "Added Tome of Knowledge to store experience. Added ability to repair tools.",
     "0.0.9": "Updated Forge. Re-textured Crystallized items and Cow blood droplet. Added TMG's Drill",
-	"0.0.8": "World Gen config options for Crystallized Ore.",
-	"0.0.7": "Added Crystallized Ore+Gems. Added Enderfuge Integration. Updated CTD Core to 1.2.4",
-	"0.0.6": "Longbow model changes. Jar signed mod.",
-	"0.0.5": "Added Longbow. CTD Core 1.2.1 now required.",
-	"0.0.4": "CTD Core 1.2 now required.",
-	"0.0.3": "Changes and stuff",
-	"0.0.2": "Working on JEI Plugin, added Cow Blood Drop and Bucket of Cow Blood",
-	"0.0.1": "First Build. Human Effigy added."
+    "0.0.8": "World Gen config options for Crystallized Ore.",
+    "0.0.7": "Added Crystallized Ore+Gems. Added Enderfuge Integration. Updated CTD Core to 1.2.4",
+    "0.0.6": "Longbow model changes. Jar signed mod.",
+    "0.0.5": "Added Longbow. CTD Core 1.2.1 now required.",
+    "0.0.4": "CTD Core 1.2 now required.",
+    "0.0.3": "Changes and stuff",
+    "0.0.2": "Working on JEI Plugin, added Cow Blood Drop and Bucket of Cow Blood",
+    "0.0.1": "First Build. Human Effigy added."
   },
-  "1.12.1": 
-  {
+  "1.12.1": {
+    "0.0.24": "Added IMC Handler for other mods to use.",
+    "0.0.23": "Added remaining Crystallized Gems as JEI catalysts for Mainhand/Offhand Category. Fixed some JEI implementation bugs. Removed explosions when crafting Archeron Ingots.",
+    "0.0.22": "Separate Offhand/Mainhand crafting mechanic in its own class. Started work on JEI category for said class.",
+    "0.0.21": "Levitation Wand catalyst items in own class. Added JEI support. Added Blocks/Nuggets for Levitation Wand catalyst items.",
+    "0.0.20": "Added Crystallized Fire Bricks. Removed repeated code. Updated texture of Talisman of Evasion. Restructured Item Classes.",
+    "0.0.19": "Changed Talisman of Evasion to actually evade attacks, rather than heal the user. Added cool-down periods for several items.",
+    "0.0.18": "Added Wand of Fire. Added Talisman of Evasion.",
     "0.0.17": "Code clean up. New textures. Added mod sounds. Flight wand only usable when user on the ground. Tweaks to flight resistance.",
     "0.0.16": "Updated JEI. Implemented Ore Dictionary. Recipes use Ore Dictionary. Updated Creative Tab icon. Added Mule's Kick.",
     "0.0.15": "Re-textured Crystals. Added Crystallized Glove. Renamed Bucket of Cow Blood to Cow Blood Vial.",
@@ -31,17 +43,23 @@
     "0.0.11": "Added Gladius. Crystalized Memory gives Weakness instead of Nausea. Added Config option for levels stored in Tome of Knowledge",
     "0.0.10": "Added Tome of Knowledge to store experience. Added ability to repair tools.",
     "0.0.9": "Updated Forge. Re textured Crystallized items and Cow blood droplet. Added TMG's Drill",
-	"0.0.8": "World Gen config options for Crystallized Ore.",
-	"0.0.7": "Added Crystallized Ore+Gems. Added Enderfuge Integration. Updated CTD Core to 1.2.4",
-	"0.0.6": "Longbow model changes. Jar signed mod.",
-	"0.0.5": "Added Longbow. CTD Core 1.2.1 now required.",
-	"0.0.4": "CTD Core 1.2 now required.",
-	"0.0.3": "Changes and stuff",
-	"0.0.2": "Working on JEI Plugin, added Cow Blood Drop and Bucket of Cow Blood",
-	"0.0.1": "First Build. Human Effigy added."
+    "0.0.8": "World Gen config options for Crystallized Ore.",
+    "0.0.7": "Added Crystallized Ore+Gems. Added Enderfuge Integration. Updated CTD Core to 1.2.4",
+    "0.0.6": "Longbow model changes. Jar signed mod.",
+    "0.0.5": "Added Longbow. CTD Core 1.2.1 now required.",
+    "0.0.4": "CTD Core 1.2 now required.",
+    "0.0.3": "Changes and stuff",
+    "0.0.2": "Working on JEI Plugin, added Cow Blood Drop and Bucket of Cow Blood",
+    "0.0.1": "First Build. Human Effigy added."
   },
-  "1.12": 
-  {
+  "1.12": {
+    "0.0.24": "Added IMC Handler for other mods to use.",
+    "0.0.23": "Added remaining Crystallized Gems as JEI catalysts for Mainhand/Offhand Category. Fixed some JEI implementation bugs. Removed explosions when crafting Archeron Ingots.",
+    "0.0.22": "Separate Offhand/Mainhand crafting mechanic in its own class. Started work on JEI category for said class.",
+    "0.0.21": "Levitation Wand catalyst items in own class. Added JEI support. Added Blocks/Nuggets for Levitation Wand catalyst items.",
+    "0.0.20": "Added Crystallized Fire Bricks. Removed repeated code. Updated texture of Talisman of Evasion. Restructured Item Classes.",
+    "0.0.19": "Changed Talisman of Evasion to actually evade attacks, rather than heal the user. Added cool-down periods for several items.",
+    "0.0.18": "Added Wand of Fire. Added Talisman of Evasion.",
     "0.0.17": "Code clean up. New textures. Added mod sounds. Flight wand only usable when user on the ground. Tweaks to flight resistance.",
     "0.0.16": "Updated JEI. Implemented Ore Dictionary. Recipes use Ore Dictionary. Updated Creative Tab icon. Added Mule's Kick.",
     "0.0.15": "Re-textured Crystals. Added Crystallized Glove. Renamed Bucket of Cow Blood to Cow Blood Vial.",
@@ -51,22 +69,21 @@
     "0.0.11": "Added Gladius. Crystalized Memory gives Weakness instead of Nausea. Added Config option for levels stored in Tome of Knowledge",
     "0.0.10": "Added Tome of Knowledge to store experience. Added ability to repair tools.",
     "0.0.9": "Updated Forge. Re-textured Crystallized items and Cow blood droplet. Added TMG's Drill",
-	"0.0.8": "World Gen config options for Crystallized Ore.",
-	"0.0.7": "Added Crystallized Ore+Gems. Added Enderfuge Integration. Updated CTD Core to 1.2.4",
-	"0.0.6": "Longbow model changes. Jar signed mod.",
-	"0.0.5": "Added Longbow. CTD Core 1.2.1 now required.",
-	"0.0.4": "CTD Core 1.2 now required.",
-	"0.0.3": "Changes and stuff",
-	"0.0.2": "Working on JEI Plugin, added Cow Blood Drop and Bucket of Cow Blood",
-	"0.0.1": "First Build. Human Effigy added."
+    "0.0.8": "World Gen config options for Crystallized Ore.",
+    "0.0.7": "Added Crystallized Ore+Gems. Added Enderfuge Integration. Updated CTD Core to 1.2.4",
+    "0.0.6": "Longbow model changes. Jar signed mod.",
+    "0.0.5": "Added Longbow. CTD Core 1.2.1 now required.",
+    "0.0.4": "CTD Core 1.2 now required.",
+    "0.0.3": "Changes and stuff",
+    "0.0.2": "Working on JEI Plugin, added Cow Blood Drop and Bucket of Cow Blood",
+    "0.0.1": "First Build. Human Effigy added."
   },
-  "promos": 
-  {
-	"1.12.2-latest": "0.0.17",
-    "1.12.2-recommended": "0.0.17",
-	"1.12.1-latest": "0.0.17",
-    "1.12.1-recommended": "0.0.17",
-	"1.12-latest": "0.0.17",
-    "1.12-recommended": "0.0.17"
+  "promos": {
+    "1.12.2-latest": "0.0.24",
+    "1.12.2-recommended": "0.0.24",
+    "1.12.1-latest": "0.0.24",
+    "1.12.1-recommended": "0.0.24",
+    "1.12-latest": "0.0.24",
+    "1.12-recommended": "0.0.24"
   }
 }
