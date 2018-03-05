@@ -1,6 +1,13 @@
 {
   "homepage": "https://minecraft.curseforge.com/projects/ctd-mythos",
   "1.12.2": {
+    "0.1.1": "Add effect utilities class for later. Stricter checks on main/offhand crafting handler. Misc. styling fixes.",
+    "0.1.0": "Re-balanced resistance times with flight items. Longer Longbow Draw time. Completed Crystallized Fire Stairs.",
+    "0.0.29": "Added more ores to ore doubling mechanic. Right click the Gladius to get resistance for 10 seconds. 25 second cool-down. Added Crystallized Fire Stairs.",
+    "0.0.28": "Added world generation options to mod config file.",
+    "0.0.27": "Fixed everything broke in 0.0.26",
+    "0.0.26": "Broke JEI/Crafting handler.",
+    "0.0.25": "Added Tome of Knowledge to Mainhand/Offhand crafting handler. Display levels required for Tome of Knowledge in tool tip. Fix numerous dupe bugs. Removed Wand of fire.",
     "0.0.24": "Added IMC Handler for other mods to use.",
     "0.0.23": "Added remaining Crystallized Gems as JEI catalysts for Mainhand/Offhand Category. Fixed some JEI implementation bugs. Removed explosions when crafting Archeron Ingots.",
     "0.0.22": "Separate Offhand/Mainhand crafting mechanic in its own class. Started work on JEI category for said class.",
@@ -27,6 +34,13 @@
     "0.0.1": "First Build. Human Effigy added."
   },
   "1.12.1": {
+    "0.1.1": "Add effect utilities class for later. Stricter checks on main/offhand crafting handler. Misc. styling fixes.",
+    "0.1.0": "Re-balanced resistance times with flight items. Longer Longbow Draw time. Completed Crystallized Fire Stairs.",
+    "0.0.29": "Added more ores to ore doubling mechanic. Right click the Gladius to get resistance for 10 seconds. 25 second cool-down. Added Crystallized Fire Stairs.",
+    "0.0.28": "Added world generation options to mod config file.",
+    "0.0.27": "Fixed everything broke in 0.0.26",
+    "0.0.26": "Broke JEI/Crafting handler.",
+    "0.0.25": "Added Tome of Knowledge to Mainhand/Offhand crafting handler. Display levels required for Tome of Knowledge in tool tip. Fix numerous dupe bugs. Removed Wand of fire.",
     "0.0.24": "Added IMC Handler for other mods to use.",
     "0.0.23": "Added remaining Crystallized Gems as JEI catalysts for Mainhand/Offhand Category. Fixed some JEI implementation bugs. Removed explosions when crafting Archeron Ingots.",
     "0.0.22": "Separate Offhand/Mainhand crafting mechanic in its own class. Started work on JEI category for said class.",
@@ -53,6 +67,13 @@
     "0.0.1": "First Build. Human Effigy added."
   },
   "1.12": {
+    "0.1.1": "Add effect utilities class for later. Stricter checks on main/offhand crafting handler. Misc. styling fixes.",
+    "0.1.0": "Re-balanced resistance times with flight items. Longer Longbow Draw time. Completed Crystallized Fire Stairs.",
+    "0.0.29": "Added more ores to ore doubling mechanic. Right click the Gladius to get resistance for 10 seconds. 25 second cool-down. Added Crystallized Fire Stairs.",
+    "0.0.28": "Added world generation options to mod config file.",
+    "0.0.27": "Fixed everything broke in 0.0.26",
+    "0.0.26": "Broke JEI/Crafting handler.",
+    "0.0.25": "Added Tome of Knowledge to Mainhand/Offhand crafting handler. Display levels required for Tome of Knowledge in tool tip. Fix numerous dupe bugs. Removed Wand of fire.",
     "0.0.24": "Added IMC Handler for other mods to use.",
     "0.0.23": "Added remaining Crystallized Gems as JEI catalysts for Mainhand/Offhand Category. Fixed some JEI implementation bugs. Removed explosions when crafting Archeron Ingots.",
     "0.0.22": "Separate Offhand/Mainhand crafting mechanic in its own class. Started work on JEI category for said class.",
@@ -79,11 +100,11 @@
     "0.0.1": "First Build. Human Effigy added."
   },
   "promos": {
-    "1.12.2-latest": "0.0.24",
-    "1.12.2-recommended": "0.0.24",
-    "1.12.1-latest": "0.0.24",
-    "1.12.1-recommended": "0.0.24",
-    "1.12-latest": "0.0.24",
-    "1.12-recommended": "0.0.24"
+    "1.12.2-latest": "0.1.1",
+    "1.12.2-recommended": "0.1.1",
+    "1.12.1-latest": "0.1.1",
+    "1.12.1-recommended": "0.1.1",
+    "1.12-latest": "0.1.1",
+    "1.12-recommended": "0.1.1"
   }
 }
