@@ -1,6 +1,7 @@
 {
   "homepage": "https://minecraft.curseforge.com/projects/ctd-mythos",
   "1.12.2": {
+    "0.1.2": "Change Crystal Smelting recipes to be 1 in furnace, 3 in Enderfuge if mod is loaded. Created 'Ore Doubling Node'.",
     "0.1.1": "Add effect utilities class for later. Stricter checks on main/offhand crafting handler. Misc. styling fixes.",
     "0.1.0": "Re-balanced resistance times with flight items. Longer Longbow Draw time. Completed Crystallized Fire Stairs.",
     "0.0.29": "Added more ores to ore doubling mechanic. Right click the Gladius to get resistance for 10 seconds. 25 second cool-down. Added Crystallized Fire Stairs.",
@@ -34,6 +35,7 @@
     "0.0.1": "First Build. Human Effigy added."
   },
   "1.12.1": {
+    "0.1.2": "Change Crystal Smelting recipes to be 1 in furnace, 3 in Enderfuge if mod is loaded. Created 'Ore Doubling Node'.",
     "0.1.1": "Add effect utilities class for later. Stricter checks on main/offhand crafting handler. Misc. styling fixes.",
     "0.1.0": "Re-balanced resistance times with flight items. Longer Longbow Draw time. Completed Crystallized Fire Stairs.",
     "0.0.29": "Added more ores to ore doubling mechanic. Right click the Gladius to get resistance for 10 seconds. 25 second cool-down. Added Crystallized Fire Stairs.",
@@ -67,6 +69,7 @@
     "0.0.1": "First Build. Human Effigy added."
   },
   "1.12": {
+    "0.1.2": "Change Crystal Smelting recipes to be 1 in furnace, 3 in Enderfuge if mod is loaded. Created 'Ore Doubling Node'.",
     "0.1.1": "Add effect utilities class for later. Stricter checks on main/offhand crafting handler. Misc. styling fixes.",
     "0.1.0": "Re-balanced resistance times with flight items. Longer Longbow Draw time. Completed Crystallized Fire Stairs.",
     "0.0.29": "Added more ores to ore doubling mechanic. Right click the Gladius to get resistance for 10 seconds. 25 second cool-down. Added Crystallized Fire Stairs.",
@@ -100,11 +103,11 @@
     "0.0.1": "First Build. Human Effigy added."
   },
   "promos": {
-    "1.12.2-latest": "0.1.1",
-    "1.12.2-recommended": "0.1.1",
-    "1.12.1-latest": "0.1.1",
-    "1.12.1-recommended": "0.1.1",
-    "1.12-latest": "0.1.1",
-    "1.12-recommended": "0.1.1"
+    "1.12.2-latest": "0.1.2",
+    "1.12.2-recommended": "0.1.2",
+    "1.12.1-latest": "0.1.2",
+    "1.12.1-recommended": "0.1.2",
+    "1.12-latest": "0.1.2",
+    "1.12-recommended": "0.1.2"
   }
 }
