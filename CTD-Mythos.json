@@ -1,6 +1,12 @@
 {
   "homepage": "https://minecraft.curseforge.com/projects/ctd-mythos",
   "1.12.2": {
+	"0.3.4": "Cow Blood stacks to 64 items. Fixed Grim Shears death bug.",
+	"0.3.3": "New shift-right click behavior on pedestal block. Pedestal will look active when in use. Misc bug fixes.",
+	"0.3.2": "Updated to CTD Core 1.3.0. Added Stairs/Bricks for remaining Crystals.",
+	"0.3.1": "Fixes Health Charm screwing up players health when they die.",
+	"0.3.0": "Added IMC event for Multiblock Recipes, added new Pedestal block, to take place in the multiblock. Added 4x Ore to Multiblock.",
+	"0.2.1": "Make Multiblock Validation output much more human readable.",
     "0.2.0": "Added new Multiblock Crafting Mechanic. Added Multiblock Validator Wand. Changed Human Effigy Recipe. Added Advancements.",
     "0.1.5": "Removed Crystallized Ender. Teleportation Wand does not need an offhand item. Amulet of Reaching now crafted with Crystallized Oath. Teleportation Wand now crafted with Crystallized Memory. Archeron Ingot recipe gives 8 Archeron Ingots. Replaced more textures.",
     "0.1.4": "Slowly rolling out new textures.",
@@ -39,6 +45,12 @@
     "0.0.1": "First Build. Human Effigy added."
   },
   "1.12.1": {
+	"0.3.4": "Cow Blood stacks to 64 items. Fixed Grim Shears death bug.",
+	"0.3.3": "New shift-right click behavior on pedestal block. Pedestal will look active when in use. Misc bug fixes.",
+	"0.3.2": "Updated to CTD Core 1.3.0. Added Stairs/Bricks for remaining Crystals.",
+	"0.3.1": "Fixes Health Charm screwing up players health when they die.",
+	"0.3.0": "Added IMC event for Multiblock Recipes, added new Pedestal block, to take place in the multiblock. Added 4x Ore to Multiblock.",
+	"0.2.1": "Make Multiblock Validation output much more human readable.",
     "0.2.0": "Added new Multiblock Crafting Mechanic. Added Multiblock Validator Wand. Changed Human Effigy Recipe. Added Advancements.",
     "0.1.5": "Removed Crystallized Ender. Teleportation Wand does not need an offhand item. Amulet of Reaching now crafted with Crystallized Oath. Teleportation Wand now crafted with Crystallized Memory. Archeron Ingot recipe gives 8 Archeron Ingots. Replaced more textures.",
     "0.1.4": "Slowly rolling out new textures.",
@@ -77,6 +89,12 @@
     "0.0.1": "First Build. Human Effigy added."
   },
   "1.12": {
+	"0.3.4": "Cow Blood stacks to 64 items. Fixed Grim Shears death bug.",
+	"0.3.3": "New shift-right click behavior on pedestal block. Pedestal will look active when in use. Misc bug fixes.",
+	"0.3.2": "Updated to CTD Core 1.3.0. Added Stairs/Bricks for remaining Crystals.",
+	"0.3.1": "Fixes Health Charm screwing up players health when they die.",
+	"0.3.0": "Added IMC event for Multiblock Recipes, added new Pedestal block, to take place in the multiblock. Added 4x Ore to Multiblock.",
+	"0.2.1": "Make Multiblock Validation output much more human readable.",
     "0.2.0": "Added new Multiblock Crafting Mechanic. Added Multiblock Validator Wand. Changed Human Effigy Recipe. Added Advancements.",
     "0.1.5": "Removed Crystallized Ender. Teleportation Wand does not need an offhand item. Amulet of Reaching now crafted with Crystallized Oath. Teleportation Wand now crafted with Crystallized Memory. Archeron Ingot recipe gives 8 Archeron Ingots. Replaced more textures.",
     "0.1.4": "Slowly rolling out new textures.",
@@ -115,11 +133,11 @@
     "0.0.1": "First Build. Human Effigy added."
   },
   "promos": {
-    "1.12.2-latest": "0.2.0",
-    "1.12.2-recommended": "0.2.0",
-    "1.12.1-latest": "0.2.0",
-    "1.12.1-recommended": "0.2.0",
-    "1.12-latest": "0.2.0",
-    "1.12-recommended": "0.2.0"
+    "1.12.2-latest": "0.3.4",
+    "1.12.2-recommended": "0.3.4",
+    "1.12.1-latest": "0.3.4",
+    "1.12.1-recommended": "0.3.4",
+    "1.12-latest": "0.3.4",
+    "1.12-recommended": "0.3.4"
   }
 }
