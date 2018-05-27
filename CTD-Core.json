@@ -2,6 +2,11 @@
   "homepage": "https://minecraft.curseforge.com/projects/ctd-core",
   "1.12.2":
   {
+	"1.3.4": "Internal clean up..",
+	"1.3.3": "Removed unused IMC methods.",
+	"1.3.2": "Internal IMC Methods for Enderfuge and CTD Mythos.",
+	"1.3.1": "New Jar Sign key.",
+	"1.3.0": "Added Tile Entity Base Block for other mods.",
     "1.2.5": "Re-added Java Edition logo. Updated public key for Jar Signing.",
 	"1.2.4": "https://minecraft.curseforge.com/projects/ctd-core/files/2510935",
 	"1.2.3": "Added #getBlockUnderPlayer",
@@ -15,6 +20,11 @@
   },
   "1.12.1":
   {
+	"1.3.4": "Internal clean up..",
+	"1.3.3": "Removed unused IMC methods.",
+	"1.3.2": "Internal IMC Methods for Enderfuge and CTD Mythos.",
+	"1.3.1": "New Jar Sign key.",
+	"1.3.0": "Added Tile Entity Base Block for other mods.",
     "1.2.5": "Re-added Java Edition logo. Updated public key for Jar Signing.",
 	"1.2.4": "https://minecraft.curseforge.com/projects/ctd-core/files/2510935",
 	"1.2.3": "Added #getBlockUnderPlayer",
@@ -28,6 +38,11 @@
   },
   "1.12": 
   {
+	"1.3.4": "Internal clean up..",
+	"1.3.3": "Removed unused IMC methods.",
+	"1.3.2": "Internal IMC Methods for Enderfuge and CTD Mythos.",
+	"1.3.1": "New Jar Sign key.",
+	"1.3.0": "Added Tile Entity Base Block for other mods.",
     "1.2.5": "Re-added Java Edition logo. Updated public key for Jar Signing.",
 	"1.2.4": "https://minecraft.curseforge.com/projects/ctd-core/files/2510935",
 	"1.2.3": "Added #getBlockUnderPlayer",
@@ -69,11 +84,11 @@
     "1.10.2-recommended": "1.2.3b",
 	"1.11.2-latest": "1.2.3",
     "1.11.2-recommended": "1.2.3",
-	"1.12-latest": "1.2.5",
-    "1.12-recommended": "1.2.5",
-	"1.12.1-latest": "1.2.5",
-    "1.12.1-recommended": "1.2.5",
-	"1.12.2-latest": "1.2.5",
-    "1.12.2-recommended": "1.2.5"
+	"1.12-latest": "1.3.4",
+    "1.12-recommended": "1.3.4",
+	"1.12.1-latest": "1.3.4",
+    "1.12.1-recommended": "1.3.4",
+	"1.12.2-latest": "1.3.4",
+    "1.12.2-recommended": "1.3.4"
   }
 }
