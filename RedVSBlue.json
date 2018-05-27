@@ -2,6 +2,7 @@
   "homepage": "https://minecraft.curseforge.com/projects/red-vs-blue-content-pack",
   "1.12.2":
   {
+	"2.1.3": "New Jar Sign Key. New Invisibility Cloak Texture.",
 	"2.1.2": "Jar signed the mod.",
 	"2.1.1": "Add invisbility cloak recipe.",
 	"2.1": "Updated Forge to 1.12.2, updated CTD Core to 1.2. Styling fixes.",
@@ -9,6 +10,7 @@
   },
   "1.12.1":
   {
+	"2.1.3": "New Jar Sign Key. New Invisibility Cloak Texture.",
 	"2.1.2": "Jar signed the mod.",
 	"2.1.1": "Add invisbility cloak recipe.",
 	"2.1": "Updated Forge to 1.12.2, updated CTD Core to 1.2. Styling fixes.",
@@ -16,6 +18,7 @@
   },
   "1.12":
   {
+	"2.1.3": "New Jar Sign Key. New Invisibility Cloak Texture.",
 	"2.1.2": "Jar signed the mod.",
 	"2.1.1": "Add invisbility cloak recipe.",
 	"2.1": "Updated Forge to 1.12.2, updated CTD Core to 1.2. Styling fixes.",
@@ -27,12 +30,12 @@
   },
   "promos": 
   {
-	"1.12.2-latest": "2.1.2",
-    "1.12.2-recommended": "2.1.2",
-	"1.12.1-latest": "2.1.2",
-    "1.12.1-recommended": "2.1.2",
-	"1.12-latest": "2.1.2",
-	"1.12-recommended": "2.1.2",
+	"1.12.2-latest": "2.1.3",
+    "1.12.2-recommended": "2.1.3",
+	"1.12.1-latest": "2.1.3",
+    "1.12.1-recommended": "2.1.3",
+	"1.12-latest": "2.1.3",
+	"1.12-recommended": "2.1.3",
     "1.7.10-latest": "1.3",
     "1.7.10-recommended": "1.3"
   }
