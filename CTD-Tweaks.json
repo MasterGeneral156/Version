@@ -2,6 +2,9 @@
   "homepage": "https://minecraft.curseforge.com/projects/ctd-tweaks",
   "1.12.2":
   {
+	"1.9.3": "Numerous Changes/Fixes: https://minecraft.curseforge.com/projects/ctd-tweaks/files/2566587",
+	"1.9.2": "Fixes Concrete Crash",
+	"1.9.1": "New Jar Signed Key",
     "1.9.0": "Moved Amulet of Reaching and Health Trinket to CTD Mythos",
     "1.8.3": "Updated Forge. Updated CTD Core. New textures.",
 	"1.8.2": "Added Enderfuge fuel. Added Health Charm!",
@@ -21,6 +24,9 @@
   },
   "1.12.1":
   {
+	"1.9.3": "Numerous Changes/Fixes: https://minecraft.curseforge.com/projects/ctd-tweaks/files/2566587",
+	"1.9.2": "Fixes Concrete Crash",
+	"1.9.1": "New Jar Signed Key",
     "1.9.0": "Moved Amulet of Reaching and Health Trinket to CTD Mythos",
     "1.8.3": "Updated Forge. Updated CTD Core. New textures.",
 	"1.8.2": "Added Enderfuge fuel. Added Health Charm!",
@@ -42,6 +48,9 @@
   },
   "1.12": 
   {
+	"1.9.3": "Numerous Changes/Fixes: https://minecraft.curseforge.com/projects/ctd-tweaks/files/2566587",
+	"1.9.2": "Fixes Concrete Crash",
+	"1.9.1": "New Jar Signed Key",
     "1.9.0": "Moved Amulet of Reaching and Health Trinket to CTD Mythos",
     "1.8.3": "Updated Forge. Updated CTD Core. New textures.",
 	"1.8.2": "Added Enderfuge fuel. Added Health Charm!",
@@ -94,12 +103,12 @@
   },
   "promos": 
   {
-	"1.12.2-latest": "1.9.0",
-    "1.12.2-recommended": "1.9.0",
-	"1.12.1-latest": "1.9.0",
-    "1.12.1-recommended": "1.9.0",
-	"1.12-latest": "1.9.0",
-    "1.12-recommended": "1.9.0",
+	"1.12.2-latest": "1.9.3",
+    "1.12.2-recommended": "1.9.3",
+	"1.12.1-latest": "1.9.3",
+    "1.12.1-recommended": "1.9.3",
+	"1.12-latest": "1.9.3",
+    "1.12-recommended": "1.9.3",
 	"1.11.2-latest": "1.7.6",
     "1.11.2-recommended": "1.7.6",
 	"1.10.2-latest": "1.7.6",
