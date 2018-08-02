@@ -2,6 +2,9 @@
   "homepage": "https://minecraft.curseforge.com/projects/mo-glowstone",
   "1.12.2":
   {
+	"1.5.5": "Added config options for all the world gen... plus new signed jar key.",
+	"1.5.4": "New Signed Jar Key",
+	"1.5.3": "Fixed crash when disabling world gen.",
 	"1.5.2": "Added config option to disable World Gen of Glowstone Ore.",
 	"1.5.1": "Fixes Albedo Support.",
 	"1.5.0": "Albedo Support added!",
@@ -15,6 +18,9 @@
   },
   "1.12.1":
   {
+	"1.5.5": "Added config options for all the world gen... plus new signed jar key.",
+	"1.5.4": "New Signed Jar Key",
+	"1.5.3": "Fixed crash when disabling world gen.",
 	"1.5.2": "Added config option to disable World Gen of Glowstone Ore.",
 	"1.5.1": "Fixes Albedo Support.",
 	"1.5.0": "Albedo Support added!",
@@ -30,6 +36,9 @@
   },
   "1.12": 
   {
+	"1.5.5": "Added config options for all the world gen... plus new signed jar key.",
+	"1.5.4": "New Signed Jar Key",
+	"1.5.3": "Fixed crash when disabling world gen.",
 	"1.5.2": "Added config option to disable World Gen of Glowstone Ore.",
 	"1.5.1": "Fixes Albedo Support.",
 	"1.5.0": "Albedo Support added!",
@@ -90,11 +99,11 @@
     "1.11-recommended": "1.1.2",
 	"1.11.2-latest": "1.2.4",
     "1.11.2-recommended": "1.2.4",
-	"1.12-latest": "1.5.2",
-    "1.12-recommended": "1.5.2",
-	"1.12.1-latest": "1.5.2",
-    "1.12.1-recommended": "1.5.2",
-	"1.12.2-latest": "1.5.2",
-    "1.12.2-recommended": "1.5.2"
+	"1.12-latest": "1.5.5",
+    "1.12-recommended": "1.5.5",
+	"1.12.1-latest": "1.5.5",
+    "1.12.1-recommended": "1.5.5",
+	"1.12.2-latest": "1.5.5",
+    "1.12.2-recommended": "1.5.5"
   }
 }
