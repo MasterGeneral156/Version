@@ -2,6 +2,7 @@
 	"homepage": "https://minecraft.curseforge.com/projects/enderfuge",
 	"1.12.2":
 	{
+		"1.4.7": "Added Thermal Foundation and IC2 integration",
 		"1.4.6": "Clean up, updated JEI/Forge/CTD Core, added Horse Armors to be smelted",
 		"1.4.5": "New Jar Signed Key",
 		"1.4.4": "Fixed bug where removing a smelting recipe would just remove a fuel.",
@@ -16,6 +17,7 @@
 	},
 	"1.12.1":
 	{
+		"1.4.7": "Added Thermal Foundation and IC2 integration",
 		"1.4.6": "Clean up, updated JEI/Forge/CTD Core, added Horse Armors to be smelted",
 		"1.4.5": "New Jar Signed Key",
 		"1.4.4": "Fixed bug where removing a smelting recipe would just remove a fuel.",
@@ -35,6 +37,7 @@
 	},
 	"1.12":
 	{
+		"1.4.7": "Added Thermal Foundation and IC2 integration",
 		"1.4.6": "Clean up, updated JEI/Forge/CTD Core, added Horse Armors to be smelted",
 		"1.4.5": "New Jar Signed Key",
 		"1.4.4": "Fixed bug where removing a smelting recipe would just remove a fuel.",
@@ -71,12 +74,12 @@
 	},
 	"promos": 
 	{
-		"1.12.2-latest": "1.4.6",
-		"1.12.2-recommended": "1.4.6",
-		"1.12.1-latest": "1.4.6",
-		"1.12.1-recommended": "1.4.6",
-		"1.12-latest": "1.4.6",
-		"1.12-recommended": "1.4.6",
+		"1.12.2-latest": "1.4.7",
+		"1.12.2-recommended": "1.4.7",
+		"1.12.1-latest": "1.4.7",
+		"1.12.1-recommended": "1.4.7",
+		"1.12-latest": "1.4.7",
+		"1.12-recommended": "1.4.7",
 		"1.11.2-latest": "1.1.2",
 		"1.11.2-recommended": "1.1.2",
 		"1.10.2-latest": "1.1.2",
