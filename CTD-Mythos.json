@@ -1,6 +1,11 @@
 {
   "homepage": "https://minecraft.curseforge.com/projects/ctd-mythos",
   "1.12.2": {
+	"0.5.8": "Config options for crystal effects and tool durability.",
+	"0.5.7": "Replace chat messages with status messages. Drill now onyl attempts a disarm on players with armor.",
+	"0.5.6": "Updated Forge/JEI",
+	"0.5.5": "Drill damage nerfed. Drill can disarm other player's armors.",
+	"0.5.4": "Health charm is stackable up to 4. More advancements",
 	"0.5.3": "Tweaked how the Human Effigy works, may be reverted.",
 	"0.5.2": "Clean up, fixed longbow damage being stupidly high, added Mythos Arrows. Longbow requires Mythos Arrows.",
 	"0.5.1": "Updated Forge, JEI and CTD Core",
@@ -51,6 +56,11 @@
     "0.0.1": "First Build. Human Effigy added."
   },
   "1.12.1": {
+	"0.5.8": "Config options for crystal effects and tool durability.",
+	"0.5.7": "Replace chat messages with status messages. Drill now onyl attempts a disarm on players with armor.",
+	"0.5.6": "Updated Forge/JEI",
+	"0.5.5": "Drill damage nerfed. Drill can disarm other player's armors.",
+	"0.5.4": "Health charm is stackable up to 4. More advancements",
 	"0.5.3": "Tweaked how the Human Effigy works, may be reverted.",
 	"0.5.2": "Clean up, fixed longbow damage being stupidly high, added Mythos Arrows. Longbow requires Mythos Arrows.",
 	"0.5.1": "Updated Forge, JEI and CTD Core",
@@ -101,6 +111,11 @@
     "0.0.1": "First Build. Human Effigy added."
   },
   "1.12": {
+	"0.5.8": "Config options for crystal effects and tool durability.",
+	"0.5.7": "Replace chat messages with status messages. Drill now onyl attempts a disarm on players with armor.",
+	"0.5.6": "Updated Forge/JEI",
+	"0.5.5": "Drill damage nerfed. Drill can disarm other player's armors.",
+	"0.5.4": "Health charm is stackable up to 4. More advancements",
 	"0.5.3": "Tweaked how the Human Effigy works, may be reverted.",
 	"0.5.2": "Clean up, fixed longbow damage being stupidly high, added Mythos Arrows. Longbow requires Mythos Arrows.",
 	"0.5.1": "Updated Forge, JEI and CTD Core",
@@ -151,11 +166,11 @@
     "0.0.1": "First Build. Human Effigy added."
   },
   "promos": {
-    "1.12.2-latest": "0.5.3",
-    "1.12.2-recommended": "0.5.3",
-    "1.12.1-latest": "0.5.3",
-    "1.12.1-recommended": "0.5.3",
-    "1.12-latest": "0.5.3",
-    "1.12-recommended": "0.5.3"
+    "1.12.2-latest": "0.5.8",
+    "1.12.2-recommended": "0.5.8",
+    "1.12.1-latest": "0.5.7",
+    "1.12.1-recommended": "0.5.7",
+    "1.12-latest": "0.5.7",
+    "1.12-recommended": "0.5.7"
   }
 }
