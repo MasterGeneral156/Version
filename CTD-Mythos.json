@@ -1,6 +1,7 @@
 {
   "homepage": "https://minecraft.curseforge.com/projects/ctd-mythos",
   "1.12.2": {
+	"0.6.0": "Added a guidebook, thanks to Patchouli!",
 	"0.5.8": "Config options for crystal effects and tool durability.",
 	"0.5.7": "Replace chat messages with status messages. Drill now onyl attempts a disarm on players with armor.",
 	"0.5.6": "Updated Forge/JEI",
@@ -166,8 +167,8 @@
     "0.0.1": "First Build. Human Effigy added."
   },
   "promos": {
-    "1.12.2-latest": "0.5.8",
-    "1.12.2-recommended": "0.5.8",
+    "1.12.2-latest": "0.6.0",
+    "1.12.2-recommended": "0.6.0",
     "1.12.1-latest": "0.5.7",
     "1.12.1-recommended": "0.5.7",
     "1.12-latest": "0.5.7",
