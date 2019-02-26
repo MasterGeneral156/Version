@@ -1,6 +1,8 @@
 {
   "homepage": "https://minecraft.curseforge.com/projects/ctd-mythos",
   "1.12.2": {
+    "0.6.4": "Fixed enchanted stick output only giving 2, rather than 8.",
+    "0.6.3": "Added Staff of Lightning.",
 	"0.6.2": "Added Shulker Helmet, more book entries and some bug fixes.",
 	"0.6.1": "Updated Patchouli, disabled Patchouli progress bar, added custom Patchouli book texture.",
 	"0.6.0": "Added a guidebook, thanks to Patchouli!",
@@ -169,8 +171,8 @@
     "0.0.1": "First Build. Human Effigy added."
   },
   "promos": {
-    "1.12.2-latest": "0.6.2",
-    "1.12.2-recommended": "0.6.2",
+    "1.12.2-latest": "0.6.4",
+    "1.12.2-recommended": "0.6.4",
     "1.12.1-latest": "0.5.7",
     "1.12.1-recommended": "0.5.7",
     "1.12-latest": "0.5.7",
