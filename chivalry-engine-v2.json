@@ -1,8 +1,10 @@
 {
 	"download-latest": "https://github.com/MasterGeneral156/chivalry-engine/releases",
-	"latest": "1.0.0",
+	"latest": "pre-2.0c",
 	"releases":
 	{
-        
+        "pre-2.0c": "https://github.com/MasterGeneral156/chivalry-engine/releases/tag/pre-2.0c",
+		"pre-2.0b": "https://github.com/MasterGeneral156/chivalry-engine/releases/tag/pre-2.0b",
+		"pre-2.0a": "https://github.com/MasterGeneral156/chivalry-engine/releases/tag/pre-2.0a"
 	}
 }
