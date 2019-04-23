@@ -4,7 +4,7 @@
 	"releases":
 	{
         "pre-2.0c": "https://github.com/MasterGeneral156/chivalry-engine/releases/tag/pre-2.0c",
-		"pre-2.0b": "https://github.com/MasterGeneral156/chivalry-engine/releases/tag/pre-2.0b",
+        "pre-2.0b": "https://github.com/MasterGeneral156/chivalry-engine/releases/tag/pre-2.0b",
 		"pre-2.0a": "https://github.com/MasterGeneral156/chivalry-engine/releases/tag/pre-2.0a"
 	}
 }
