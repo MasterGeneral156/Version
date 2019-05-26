@@ -2,6 +2,8 @@
   "homepage": "https://minecraft.curseforge.com/projects/ctd-tweaks",
   "1.12.2":
   {
+    "1.10.0": "Fixes Wither Fuel Block not being fuel. Made Amulet of being Watched into Bauble. Made Combat Core recipe a little more difficult.",
+    "1.9.4": "Possibly fix Flight Ring login/dimension change bug.",
 	"1.9.3": "Numerous Changes/Fixes: https://minecraft.curseforge.com/projects/ctd-tweaks/files/2566587",
 	"1.9.2": "Fixes Concrete Crash",
 	"1.9.1": "New Jar Signed Key",
@@ -103,8 +105,8 @@
   },
   "promos": 
   {
-	"1.12.2-latest": "1.9.3",
-    "1.12.2-recommended": "1.9.3",
+	"1.12.2-latest": "1.10.0",
+    "1.12.2-recommended": "1.10.0",
 	"1.12.1-latest": "1.9.3",
     "1.12.1-recommended": "1.9.3",
 	"1.12-latest": "1.9.3",
