@@ -1,5 +1,9 @@
 {
   "homepage": "https://minecraft.curseforge.com/projects/ctd-core",
+  "1.14.2":
+  {
+	"2.0.2": "Initial Port to 1.13.2"
+  },
   "1.13.2":
   {
 	"2.0.2": "Fix version number.",
@@ -104,6 +108,8 @@
 	"1.12.2-latest": "1.4.2",
     "1.12.2-recommended": "1.4.2",
     "1.13.2-latest": "2.0.2",
-    "1.13.2-recommended": "2.0.2"
+    "1.13.2-recommended": "2.0.2",
+    "1.14.2-latest": "2.0.2",
+    "1.14.2-recommended": "2.0.2"
   }
 }
