@@ -1,8 +1,12 @@
 {
   "homepage": "https://minecraft.curseforge.com/projects/ctd-core",
+  "1.14.4":
+  {
+	"2.0.2": "Initial Port to 1.14.4"
+  },
   "1.14.2":
   {
-	"2.0.2": "Initial Port to 1.13.2"
+	"2.0.2": "Initial Port to 1.14.2"
   },
   "1.13.2":
   {
