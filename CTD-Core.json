@@ -2,6 +2,8 @@
   "homepage": "https://minecraft.curseforge.com/projects/ctd-core",
   "1.14.4":
   {
+	"2.0.4": "Some bug fixes."
+	"2.0.3": "N/A",
 	"2.0.2": "Initial Port to 1.14.4"
   },
   "1.14.2":
@@ -113,9 +115,9 @@
     "1.12.2-recommended": "1.4.2",
     "1.13.2-latest": "2.0.2",
     "1.13.2-recommended": "2.0.2",
-    "1.14.2-latest": "2.0.2",
-    "1.14.2-recommended": "2.0.2",
-	"1.14.4-latest": "2.0.2",
-    "1.14.4-recommended": "2.0.2"
+    "1.14.2-latest": "2.0.3",
+    "1.14.2-recommended": "2.0.3",
+	"1.14.4-latest": "2.0.4",
+    "1.14.4-recommended": "2.0.4"
   }
 }
