@@ -2,6 +2,7 @@
   "homepage": "https://minecraft.curseforge.com/projects/mo-glowstone",
   "1.14.4":
   {
+	"2.0.1": "Changes textures to be in-sync with current MC textures, and fixes a texture issue with Gray Glowstone.",
     "2.0.0": "Initial release for 1.14.4"
   },
   "1.14.2":
