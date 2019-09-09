@@ -12,6 +12,7 @@
   },
   "1.13.2":
   {
+	"2.0.3": "Final release."
 	"2.0.2": "Fix version number.",
 	"2.0.1": "Remove unused classes.",
 	"2.0.0": "Initial Port to 1.13.2"
@@ -113,8 +114,8 @@
     "1.12.1-recommended": "1.4.1",
 	"1.12.2-latest": "1.4.2",
     "1.12.2-recommended": "1.4.2",
-    "1.13.2-latest": "2.0.2",
-    "1.13.2-recommended": "2.0.2",
+    "1.13.2-latest": "2.0.3",
+    "1.13.2-recommended": "2.0.3",
     "1.14.2-latest": "2.0.3",
     "1.14.2-recommended": "2.0.3",
 	"1.14.4-latest": "2.0.4",
