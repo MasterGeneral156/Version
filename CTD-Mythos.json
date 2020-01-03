@@ -1,6 +1,8 @@
 {
   "homepage": "https://minecraft.curseforge.com/projects/ctd-mythos",
   "1.12.2": {
+	"0.7.2b": "New Mythos-Based Flight Wand. Automated builds uploaded to CurseForge.",
+	"0.7.1": "Performance improvements?",
 	"0.7.0": "Many changes! Mythos is mana?!?",
 	"0.6.6": "Updated mod deps, bug fix with long bow, teleportation wand fix, added texture for Lightning Staff.",
 	"0.6.5": "Config options, crafting changes and additions to the guide book.",
@@ -174,8 +176,8 @@
     "0.0.1": "First Build. Human Effigy added."
   },
   "promos": {
-    "1.12.2-latest": "0.7.0",
-    "1.12.2-recommended": "0.7.0",
+    "1.12.2-latest": "0.7.2b",
+    "1.12.2-recommended": "0.7.2b",
     "1.12.1-latest": "0.5.7",
     "1.12.1-recommended": "0.5.7",
     "1.12-latest": "0.5.7",
