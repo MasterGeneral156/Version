@@ -1,8 +1,14 @@
 {
   "homepage": "https://minecraft.curseforge.com/projects/ctd-core",
+  "1.15.1":
+  {
+	"2.0.5b": "Initial release for 1.15.1"
+  },
   "1.14.4":
   {
-	"2.0.4": "Some bug fixes."
+	"2.0.5b": "Bugfix.",
+	"2.0.5": "Recommended Forge Build. Code clean up.",
+	"2.0.4": "Some bug fixes.",
 	"2.0.3": "N/A",
 	"2.0.2": "Initial Port to 1.14.4"
   },
@@ -12,7 +18,7 @@
   },
   "1.13.2":
   {
-	"2.0.3": "Final release."
+	"2.0.3": "Final release.",
 	"2.0.2": "Fix version number.",
 	"2.0.1": "Remove unused classes.",
 	"2.0.0": "Initial Port to 1.13.2"
@@ -118,7 +124,9 @@
     "1.13.2-recommended": "2.0.3",
     "1.14.2-latest": "2.0.3",
     "1.14.2-recommended": "2.0.3",
-	"1.14.4-latest": "2.0.4",
-    "1.14.4-recommended": "2.0.4"
+	"1.14.4-latest": "2.0.5b",
+    "1.14.4-recommended": "2.0.5b",
+	"1.15.1-latest": "2.0.5b",
+    "1.15.1-recommended": "2.0.5b"
   }
 }
