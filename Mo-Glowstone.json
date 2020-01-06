@@ -1,7 +1,12 @@
 {
   "homepage": "https://minecraft.curseforge.com/projects/mo-glowstone",
+  "1.15.1":
+  {
+	"2.0.4": "Port to 1.15.1"
+  },
   "1.14.4":
   {
+	"2.0.4": "Update to build on Release Build for Forge.",
 	"2.0.3": "Added Creative Tab, moved mod items/blocks to it.",
 	"2.0.2": "Logo crash bugfix.",
 	"2.0.1": "Changes textures to be in-sync with current MC textures, and fixes a texture issue with Gray Glowstone.",
@@ -128,7 +133,9 @@
     "1.13.2-recommended": "2.0.1",
     "1.14.2-latest": "2.0.0",
     "1.14.2-recommended": "2.0.0",
-	"1.14.4-latest": "2.0.3",
-    "1.14.4-recommended": "2.0.3"
+	"1.14.4-latest": "2.0.4",
+    "1.14.4-recommended": "2.0.4",
+	"1.15.1-latest": "2.0.4",
+    "1.15.1-recommended": "2.0.4"
   }
 }
