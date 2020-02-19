@@ -1,5 +1,9 @@
 {
   "homepage": "https://minecraft.curseforge.com/projects/ctd-core",
+  "1.15.2":
+  {
+	"2.0.5b": "Initial release for 1.15.2"
+  },
   "1.15.1":
   {
 	"2.0.5b": "Initial release for 1.15.1"
@@ -127,6 +131,8 @@
 	"1.14.4-latest": "2.0.5b",
     "1.14.4-recommended": "2.0.5b",
 	"1.15.1-latest": "2.0.5b",
-    "1.15.1-recommended": "2.0.5b"
+    "1.15.1-recommended": "2.0.5b",
+	"1.15.2-latest": "2.0.5b",
+    "1.15.2-recommended": "2.0.5b"
   }
 }
