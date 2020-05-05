@@ -23,6 +23,8 @@
   },
   "1.12.2":
   {
+	"1.5.8": "A localization bugfix!",
+	"1.5.7": "Numerous changes!",
 	"1.5.6": "Reverted back to the old faithful textures.",
 	"1.5.5": "Added config options for all the world gen... plus new signed jar key.",
 	"1.5.4": "New Signed Jar Key",
@@ -127,8 +129,8 @@
     "1.12-recommended": "1.5.6",
 	"1.12.1-latest": "1.5.6",
     "1.12.1-recommended": "1.5.6",
-	"1.12.2-latest": "1.5.6",
-    "1.12.2-recommended": "1.5.6",
+	"1.12.2-latest": "1.5.8",
+    "1.12.2-recommended": "1.5.8",
     "1.13.2-latest": "2.0.1",
     "1.13.2-recommended": "2.0.1",
     "1.14.2-latest": "2.0.0",
