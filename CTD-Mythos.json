@@ -1,6 +1,7 @@
 {
   "homepage": "https://minecraft.curseforge.com/projects/ctd-mythos",
   "1.12.2": {
+	"0.7.4": "Updated mod to include up-to-date fingerprint.",
 	"0.7.3": "Removed the need for the End Dimension, plus some internal cleanings.",
 	"0.7.2b": "New Mythos-Based Flight Wand. Automated builds uploaded to CurseForge.",
 	"0.7.1": "Performance improvements?",
@@ -90,8 +91,8 @@
     "0.1.0": "Re-balanced resistance times with flight items. Longer Longbow Draw time. Completed Crystallized Fire Stairs.",
   },
   "promos": {
-    "1.12.2-latest": "0.7.3",
-    "1.12.2-recommended": "0.7.3",
+    "1.12.2-latest": "0.7.4",
+    "1.12.2-recommended": "0.7.4",
     "1.12.1-latest": "0.5.7",
     "1.12.1-recommended": "0.5.7",
     "1.12-latest": "0.5.7",
