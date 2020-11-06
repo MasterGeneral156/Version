@@ -1,5 +1,10 @@
 {
   "homepage": "https://minecraft.curseforge.com/projects/ctd-core",
+  "1.16.3":
+  {
+	"2.0.6": "Hotfix ayy lmao.",
+	"2.0.5b": "Initial release for 1.16.3"
+  },
   "1.16.1":
   {
 	"2.0.5b": "Initial release for 1.16.1"
