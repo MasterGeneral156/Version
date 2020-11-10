@@ -1,12 +1,20 @@
 {
   "homepage": "https://www.curseforge.com/minecraft/mc-mods/mo-glowstone-lamps",
+  "1.16.4": 
+  {
+	"1.1.0": "Initial release on 1.16.4"
+  },
   "1.16.3": 
   {
+	"1.1.0": "Now compat with CTD Core 2.1.1",
+	"1.0.1": "Use Mo Glowstone item tab instead of our own.",
     "1.0.0": "Release"
   },
   "promos": 
   {
-	"1.16.3-latest": "1.0.0",
-    "1.16.3-recommended": "1.0.0"
+	"1.16.4-latest": "1.1.0",
+    "1.16.4-recommended": "1.1.0"
+	"1.16.3-latest": "1.1.0",
+    "1.16.3-recommended": "1.1.0"
   }
 }
