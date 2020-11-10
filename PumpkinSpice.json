@@ -1,7 +1,12 @@
 {
   "homepage": "https://minecraft.curseforge.com/projects/pumpkin-spice-latte",
+  "1.16.4":
+  {
+	"1.1.0":"Initial Release for 1.16.4."
+  },
   "1.16.3":
   {
+	"1.1.0":"Initial Release for 1.16.4.",
 	"1.0.0":"Initial Release for 1.16.3."
   },
   "1.14.4":
@@ -10,33 +15,50 @@
   },
   "1.12.2":
   {
+	"1.1.2":"Misc updates.",
 	"1.1.1":"Jar signed the mod.",
 	"1.1.0":"Update CTD Core to 1.2. Updated Forge to 1.12.2",
 	"1.0.0":"Initial Release."
   },
   "1.12.1":
   {
+	"1.1.2":"Misc updates.",
 	"1.1.1":"Jar signed the mod.",
 	"1.1.0":"Update CTD Core to 1.2. Updated Forge to 1.12.2",
 	"1.0.0":"Initial Release."
   },
   "1.12":
   {
+	"1.1.2":"Misc updates.",
 	"1.1.1":"Jar signed the mod.",
 	"1.1.0":"Update CTD Core to 1.2. Updated Forge to 1.12.2",
 	"1.0.0":"Initial Release."
   },
+  "1.11.2":
+  {
+	"1.0.0": "Backport to 1.11.2"
+  },
+  "1.10.2":
+  {
+	"1.0.0": "Backport to 1.10.2"
+  },
   "promos": 
   {
-	"1.16.3-latest": "1.0.0",
-    "1.16.3-recommended": "1.0.0",
+	"1.16.4-latest": "1.1.0",
+    "1.16.4-recommended": "1.1.0",
+	"1.16.3-latest": "1.1.0",
+    "1.16.3-recommended": "1.1.0",
 	"1.14.4-latest": "1.0.0",
     "1.14.4-recommended": "1.0.0",
-	"1.12.2-latest": "1.1.1",
-    "1.12.2-recommended": "1.1.1",
-	"1.12.1-latest": "1.1.1",
-    "1.12.1-recommended": "1.1.1",
-	"1.12-latest": "1.1.1",
-	"1.12-recommended": "1.1.1"
+	"1.12.2-latest": "1.1.2",
+    "1.12.2-recommended": "1.1.2",
+	"1.12.1-latest": "1.1.2",
+    "1.12.1-recommended": "1.1.2",
+	"1.12-latest": "1.1.2",
+	"1.12-recommended": "1.1.2",
+	"1.11.2-recommended": "1.0.0",
+	"1.11.2-latest": "1.0.0",
+	"1.10.2-recommended": "1.0.0",
+	"1.10.2-latest": "1.0.0"
   }
 }
