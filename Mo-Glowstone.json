@@ -1,8 +1,25 @@
 {
   "homepage": "https://minecraft.curseforge.com/projects/mo-glowstone",
+  "1.16.4":
+  {
+	"2.1.0": "Initial release for 1.16.4"
+  },
+  "1.16.3":
+  {
+	"2.1.0": "Initial release for 1.16.4",
+	"2.0.7": "RGB Glowstone on maps."
+	"2.0.6": "Code clean up, registry fixes, new tag."
+	"2.0.5": "Initial release for 1.16.3. Glowstone now emit light!"
+  },
   "1.16.1":
   {
+	"2.0.5": "Fixed block drops. No lights yet. Code clean up.",
 	"2.0.4": "Port to 1.16.1"
+  },
+  "1.15.2":
+  {
+	"2.0.5": "Fixed block drops. No lights yet. Code clean up.",
+	"2.0.4": "Port to 1.15.1"
   },
   "1.15.1":
   {
@@ -27,6 +44,7 @@
   },
   "1.12.2":
   {
+	"1.6.0": "Added to ore dict.",
 	"1.5.9": "Added config option to disable integration with Albedo, a mod that added RGB lighting into Minecraft.",
 	"1.5.8": "A localization bugfix!",
 	"1.5.7": "Numerous changes!",
@@ -98,6 +116,11 @@
 	"1.2.1": "Fixed Lime Glowstone being texture-less.",
     "1.2.0": "CTD Core required, config file, etc."
   },
+  "1.11": 
+  {
+    "1.1.0": "Colored Glowstone now spawns in the Nether.", 
+	"1.0.3": "1.11 port"
+  },
   "1.10.2": 
   {
 	"1.2.4": "Changed Update JSON link.",
@@ -115,11 +138,7 @@
     "1.0.1": "Oops!", 
 	"1.0.0": "Major rewrite! Public release!"
   },
-  "1.11": 
-  {
-    "1.1.0": "Colored Glowstone now spawns in the Nether.", 
-	"1.0.3": "1.11 port"
-  },
+
   "promos": 
   {
     "1.7.10-latest": "1.0.2",
@@ -134,8 +153,8 @@
     "1.12-recommended": "1.5.6",
 	"1.12.1-latest": "1.5.6",
     "1.12.1-recommended": "1.5.6",
-	"1.12.2-latest": "1.5.9",
-    "1.12.2-recommended": "1.5.9",
+	"1.12.2-latest": "1.6.0",
+    "1.12.2-recommended": "1.6.0",
     "1.13.2-latest": "2.0.1",
     "1.13.2-recommended": "2.0.1",
     "1.14.2-latest": "2.0.0",
@@ -144,7 +163,13 @@
     "1.14.4-recommended": "2.0.4",
 	"1.15.1-latest": "2.0.4",
     "1.15.1-recommended": "2.0.4",
-	"1.16.1-latest": "2.0.4",
-    "1.16.1-recommended": "2.0.4"
+	"1.15.2-latest": "2.0.5",
+    "1.15.2-recommended": "2.0.5",
+	"1.16.1-latest": "2.0.5",
+    "1.16.1-recommended": "2.0.5",
+	"1.16.3-latest": "2.1.0",
+    "1.16.3-recommended": "2.1.0",
+	"1.16.4-latest": "2.1.0",
+    "1.16.4-recommended": "2.1.0"
   }
 }
