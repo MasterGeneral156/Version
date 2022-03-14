@@ -2,6 +2,7 @@
 	"homepage": "https://github.com/MasterGeneral156/This-Means-War",
 	"1.18.2":
 	{
+		"0.0.5-indev": "Assets/data dump, added some recipes for some items.",
 		"0.0.4-indev": "Port to 1.18.x"
 	},
 	"1.16.5":
@@ -11,8 +12,8 @@
 	},
 	"promos": 
 	{
-		"1.18.2-latest": "0.0.4-indev",
-		"1.18.2-recommended": "0.0.4-indev",
+		"1.18.2-latest": "0.0.5-indev",
+		"1.18.2-recommended": "0.0.5-indev",
 		"1.16.5-latest": "0.0.3-alpha",
 		"1.16.5-recommended": "0.0.3-alpha"
 	}
