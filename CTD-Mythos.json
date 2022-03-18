@@ -1,6 +1,7 @@
 {
   "homepage": "https://minecraft.curseforge.com/projects/ctd-mythos",
   "1.12.2": {
+	"0.9.4": "Some fixes and whatnot, even crash fixes.",
 	"0.8.0b": "Unrealized Mythos Pool crafting recipe fix.",
 	"0.8.0": "Massive update.",
 	"0.7.4": "Updated mod to include up-to-date fingerprint.",
@@ -24,8 +25,8 @@
 	"0.5.8": "Config options for crystal effects and tool durability.",
   },
   "promos": {
-    "1.12.2-latest": "0.8.0b",
-    "1.12.2-recommended": "0.8.0b",
+    "1.12.2-latest": "0.9.4",
+    "1.12.2-recommended": "0.9.4",
     "1.12.1-latest": "0.5.8",
     "1.12.1-recommended": "0.5.8",
     "1.12-latest": "0.5.8",
