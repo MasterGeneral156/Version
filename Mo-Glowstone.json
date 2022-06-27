@@ -1,5 +1,9 @@
 {
   "homepage": "https://minecraft.curseforge.com/projects/mo-glowstone",
+  "1.19":
+  {
+	"2.1.1b": "Release for 1.19"
+  },
   "1.18.2":
   {
 	"2.1.1b": "Release for 1.18"
@@ -188,6 +192,8 @@
 	"1.17.1-latest": "2.1.1b",
     "1.17.1-recommended": "2.1.1b",
 	"1.18.2-latest": "2.1.1b",
-    "1.18.2-recommended": "2.1.1b"
+    "1.18.2-recommended": "2.1.1b",
+	"1.19-latest": "2.1.1b",
+    "1.19-recommended": "2.1.1b"
   }
 }
