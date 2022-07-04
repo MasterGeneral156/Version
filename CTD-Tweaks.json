@@ -1,5 +1,9 @@
 {
   "homepage": "https://minecraft.curseforge.com/projects/ctd-tweaks",
+  "1.18.2":
+  {
+	  "2.0.0": "Rewrite and release for 1.18!"
+  },
   "1.12.2":
   {
     "1.10.0": "Fixes Wither Fuel Block not being fuel. Made Amulet of being Watched into Bauble. Made Combat Core recipe a little more difficult.",
