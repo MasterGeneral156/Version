@@ -2,6 +2,8 @@
   "homepage": "https://minecraft.curseforge.com/projects/ctd-tweaks",
   "1.18.2":
   {
+	  "2.1.0": "New config file! Wither Coal and Pocket Cobble Gen configurable!",
+	  "2.0.2": "Pocket Cobble Tweaks, Ring of Speed tweaks",
 	  "2.0.1": "Added Amulet of Extinguish",
 	  "2.0.0": "Rewrite and release for 1.18!"
   },
@@ -110,8 +112,8 @@
   },
   "promos": 
   {
-	"1.18.2-latest": "2.0.1",
-    "1.18.2-recommended": "2.0.1",
+	"1.18.2-latest": "2.1.0",
+    "1.18.2-recommended": "2.1.0",
 	"1.12.2-latest": "1.10.0",
     "1.12.2-recommended": "1.10.0",
 	"1.12.1-latest": "1.9.3",
