@@ -1,5 +1,9 @@
 {
   "homepage": "https://minecraft.curseforge.com/projects/ctd-tweaks",
+  "1.19.2":
+  {
+	  "2.2.0": "Updated to 1.19.2"
+  },
   "1.18.2":
   {
 	  "2.1.0": "New config file! Wither Coal and Pocket Cobble Gen configurable!",
@@ -112,6 +116,8 @@
   },
   "promos": 
   {
+	"1.19.2-latest": "2.2.0",
+    "1.19.2-recommended": "2.2.0",
 	"1.18.2-latest": "2.1.0",
     "1.18.2-recommended": "2.1.0",
 	"1.12.2-latest": "1.10.0",
