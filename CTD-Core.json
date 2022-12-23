@@ -14,6 +14,7 @@
   },
   "1.18.2":
   {
+	"2.1.3": "Added item class for items with durability (ie: hammers)",
 	"2.1.2": "Added fuel handler item class",
 	"2.1.1b": "First release for 1.18 branch"
   },
@@ -188,8 +189,8 @@
     "1.16.5-recommended": "2.1.1b",
 	"1.17.1-latest": "2.1.1b",
     "1.17.1-recommended": "2.1.1b",
-	"1.18.2-latest": "2.1.2",
-    "1.18.2-recommended": "2.1.2",
+	"1.18.2-latest": "2.1.3",
+    "1.18.2-recommended": "2.1.3",
 	"1.19-latest": "2.1.1b",
     "1.19-recommended": "2.1.1b",
 	"1.19.2-latest": "2.2.0",
