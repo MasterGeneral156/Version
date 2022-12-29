@@ -1,5 +1,9 @@
 {
   "homepage": "https://minecraft.curseforge.com/projects/pumpkin-spice-latte",
+  "1.18.2":
+  {
+	"1.1.0":"Initial Release for 1.18."
+  },
   "1.17.1":
   {
 	"1.1.0":"Initial Release for 1.17."
@@ -48,6 +52,8 @@
   },
   "promos": 
   {
+	"1.18.2-latest": "1.1.0",
+    "1.18.2-recommended": "1.1.0",
 	"1.17.1-latest": "1.1.0",
     "1.17.1-recommended": "1.1.0",
 	"1.16.4-latest": "1.1.0",
