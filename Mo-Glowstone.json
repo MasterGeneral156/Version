@@ -1,7 +1,12 @@
 {
   "homepage": "https://minecraft.curseforge.com/projects/mo-glowstone",
+  "1.19.3":
+  {
+	"2.3.0": "Released for 1.19.3"
+  },
   "1.19.2":
   {
+	"2.2.1": "Adds Rechisel support",
 	"2.2.0": "Released for 1.19.2"
   },
   "1.19":
@@ -203,7 +208,9 @@
     "1.18.2-recommended": "2.1.5",
 	"1.19-latest": "2.1.2",
     "1.19-recommended": "2.1.2",
-	"1.19.2-latest": "2.2.0",
-    "1.19.2-recommended": "2.2.0"
+	"1.19.2-latest": "2.2.1",
+    "1.19.2-recommended": "2.2.1",
+	"1.19.3-latest": "2.3.0",
+    "1.19.3-recommended": "2.3.0"
   }
 }
