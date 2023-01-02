@@ -2,6 +2,8 @@
   "homepage": "https://minecraft.curseforge.com/projects/ctd-core",
   "1.19.3":
   {
+	"2.2.2": "Build for Recommended Forge 44.1.0",
+	"2.2.1": "Fixes to durability item class",
 	"2.2.0": "Updated to 1.19.3"
   },
   "1.19.2":
@@ -195,7 +197,7 @@
     "1.19-recommended": "2.1.1b",
 	"1.19.2-latest": "2.2.0",
     "1.19.2-recommended": "2.2.0",
-	"1.19.3-latest": "2.2.0",
-    "1.19.3-recommended": "2.2.0"
+	"1.19.3-latest": "2.2.2",
+    "1.19.3-recommended": "2.2.2"
   }
 }
