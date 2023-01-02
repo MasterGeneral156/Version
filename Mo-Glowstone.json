@@ -2,6 +2,7 @@
   "homepage": "https://minecraft.curseforge.com/projects/mo-glowstone",
   "1.19.3":
   {
+	"2.3.3b": "Fixes loading issue",
 	"2.3.3": "Build for Recommended Forge 44.1.0",
 	"2.3.2": "Recipe fixes, adds recipes for newer vanilla items w/ glowstone coal",
 	"2.3.1": "Courtesy build",
@@ -213,7 +214,7 @@
     "1.19-recommended": "2.1.2",
 	"1.19.2-latest": "2.2.1",
     "1.19.2-recommended": "2.2.1",
-	"1.19.3-latest": "2.3.3",
-    "1.19.3-recommended": "2.3.3"
+	"1.19.3-latest": "2.3.3b",
+    "1.19.3-recommended": "2.3.3b"
   }
 }
