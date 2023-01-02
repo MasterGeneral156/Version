@@ -6,6 +6,7 @@
   },
   "1.18.2":
   {
+	  "2.1.5": "More bugfixes!",
 	  "2.1.4": "Numerous bug fixes!",
 	  "2.1.3c": "Numerous bug fixes with the new item.",
 	  "2.1.2": "Bug fixes with config, and a recipe fix with demonic heart charm",
@@ -122,8 +123,8 @@
   {
 	"1.19.2-latest": "2.2.0",
     "1.19.2-recommended": "2.2.0",
-	"1.18.2-latest": "2.1.4",
-    "1.18.2-recommended": "2.1.4",
+	"1.18.2-latest": "2.1.5",
+    "1.18.2-recommended": "2.1.5",
 	"1.12.2-latest": "1.10.0",
     "1.12.2-recommended": "1.10.0",
 	"1.12.1-latest": "1.9.3",
