@@ -1,5 +1,9 @@
 {
   "homepage": "https://minecraft.curseforge.com/projects/ctd-core",
+  "1.19.4":
+  {
+	"2.2.3": "Updated to 1.19.4"
+  },
   "1.19.3":
   {
 	"2.2.2b": "Fixes loading issue",
@@ -199,6 +203,8 @@
 	"1.19.2-latest": "2.2.0",
     "1.19.2-recommended": "2.2.0",
 	"1.19.3-latest": "2.2.2b",
-    "1.19.3-recommended": "2.2.2b"
+    "1.19.3-recommended": "2.2.2b",
+	"1.19.4-latest": "2.2.3",
+    "1.19.4-recommended": "2.2.3"
   }
 }
