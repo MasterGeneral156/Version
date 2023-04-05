@@ -1,5 +1,9 @@
 {
   "homepage": "https://www.curseforge.com/minecraft/mc-mods/mo-glowstone-lamps",
+  "1.19.4": 
+  {
+	"1.3.2": "Release for 1.19.4"
+  },
   "1.19.3": 
   {
 	"1.3.1b": "Fixes loading issue",
@@ -39,6 +43,8 @@
   },
   "promos": 
   {
+	"1.19.4-latest": "1.3.2",
+    "1.19.4-recommended": "1.3.2",
 	"1.19.3-latest": "1.3.1b",
     "1.19.3-recommended": "1.3.1b",
 	"1.19.2-latest": "1.2.0",
