@@ -1,5 +1,9 @@
 {
 	"homepage": "https://github.com/MasterGeneral156/This-Means-War",
+	"1.19.4":
+	{
+		"0.1.2": "Check the github"
+	},
 	"1.18.2":
 	{
 		"0.0.18-indev": "Updates and additions, oh my",
@@ -15,6 +19,8 @@
 	},
 	"promos": 
 	{
+		"1.19.4-latest": "0.1.2",
+		"1.19.4-recommended": "0.1.2",
 		"1.18.2-latest": "0.0.18-indev",
 		"1.18.2-recommended": "0.0.18-indev",
 		"1.16.5-latest": "0.0.3-alpha",
