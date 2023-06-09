@@ -2,6 +2,7 @@
 	"homepage": "https://minecraft.curseforge.com/projects/ctd-core",
 	"1.20":
 	{
+		"2.4.1": "Fixed license shipped with jar",
 		"2.4.0": "Initial port to 1.20.X"
 	},
 	"1.19.4":
@@ -213,7 +214,7 @@
 		"1.19.3-recommended": "2.2.2b",
 		"1.19.4-latest": "2.3.2",
 		"1.19.4-recommended": "2.3.2",
-		"1.20-latest": "2.4.0",
-		"1.20-recommended": "2.4.0"
+		"1.20-latest": "2.4.1",
+		"1.20-recommended": "2.4.1"
 	}
 }
