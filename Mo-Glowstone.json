@@ -2,6 +2,9 @@
   "homepage": "https://minecraft.curseforge.com/projects/mo-glowstone",
   "1.20":
   {
+	"2.4.1c": "Renames creative tab field",
+	"2.4.1b": "Fixes mod.toml",
+	"2.4.1": "Fixes mod.toml",
 	"2.4.0": "Released for 1.20"
   },
   "1.19.4":
@@ -226,6 +229,8 @@
 	"1.19.3-latest": "2.3.3b",
     "1.19.3-recommended": "2.3.3b",
 	"1.19.4-latest": "2.3.5",
-    "1.19.4-recommended": "2.3.5"
+    "1.19.4-recommended": "2.3.5",
+	"1.20-latest": "2.4.1c",
+    "1.20-recommended": "2.4.1c"
   }
 }
