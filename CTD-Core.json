@@ -1,5 +1,9 @@
 {
 	"homepage": "https://minecraft.curseforge.com/projects/ctd-core",
+	"1.20.1":
+	{
+		"2.4.2": "Updated to 1.20.1"
+	},
 	"1.20":
 	{
 		"2.4.1": "Fixed license shipped with jar",
@@ -215,6 +219,8 @@
 		"1.19.4-latest": "2.3.2",
 		"1.19.4-recommended": "2.3.2",
 		"1.20-latest": "2.4.1",
-		"1.20-recommended": "2.4.1"
+		"1.20-recommended": "2.4.1",
+		"1.20.1-latest": "2.4.2",
+		"1.20.1-recommended": "2.4.2"
 	}
 }
