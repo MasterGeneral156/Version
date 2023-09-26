@@ -1,7 +1,12 @@
 {
   "homepage": "https://minecraft.curseforge.com/projects/pumpkin-spice-latte",
+  "1.20.2":
+  {
+	"1.2.3": "Updated to 1.20.2"
+  },
   "1.20.1":
   {
+	"1.2.2": "Forge RB 47.2.0",
 	"1.2.1": "Built for 1.20.1"
   },
   "1.20":
@@ -66,8 +71,10 @@
   },
   "promos": 
   {
-	"1.20.1-latest": "1.2.1",
-    "1.20.1-recommended": "1.2.1",
+	"1.20.2-latest": "1.2.3",
+    "1.20.2-recommended": "1.2.3",
+	"1.20.1-latest": "1.2.2",
+    "1.20.1-recommended": "1.2.2",
 	"1.20-latest": "1.2.0",
     "1.20-recommended": "1.2.0",
 	"1.19.3-latest": "1.1.2b",
