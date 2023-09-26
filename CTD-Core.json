@@ -1,5 +1,9 @@
 {
 	"homepage": "https://minecraft.curseforge.com/projects/ctd-core",
+	"1.20.2":
+	{
+		"2.4.4": "Updated to 1.20.2"
+	},
 	"1.20.1":
 	{
 		"2.4.3": "Built against 47.2.0",
@@ -222,6 +226,8 @@
 		"1.20-latest": "2.4.1",
 		"1.20-recommended": "2.4.1",
 		"1.20.1-latest": "2.4.3",
-		"1.20.1-recommended": "2.4.3"
+		"1.20.1-recommended": "2.4.3",
+		"1.20.2-latest": "2.4.4",
+		"1.20.2-recommended": "2.4.4"
 	}
 }
