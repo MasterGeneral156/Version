@@ -1,9 +1,12 @@
 {
   "homepage": "https://minecraft.curseforge.com/projects/wgiyv",
+  "1.19.4":
+  {
+	"1.1.1": "Release for 1.19"
+  },
   "1.18.2":
   {
-	"1.1.1": "Public Release for 1.18, fixes textures",
-	"1.1.0": "Release for 1.18"
+	"1.1.1": "Public Release for 1.18, fixes textures"
   },
   "1.17.1":
   {
@@ -74,6 +77,8 @@
 	"1.17.1-latest": "1.1.1",
 	"1.17.1-recommended": "1.1.1",
 	"1.18.2-latest": "1.1.1",
-	"1.18.2-recommended": "1.1.1"
+	"1.18.2-recommended": "1.1.1",
+	"1.19.4-latest": "1.1.1",
+	"1.19.4-recommended": "1.1.1"
   }
 }
