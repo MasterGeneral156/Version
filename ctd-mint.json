@@ -2,12 +2,13 @@
 	"homepage": "https://minecraft.curseforge.com/projects/ctd-currency",
 	"1.20.1":
 	{
+		"1.1.1": "Added creative tab and other misc fixes",
 		"1.1.0": "Add money container items, added $2 & $20",
 		"1.0.0": "Initial release"
 	},
 	"promos": 
 	{
-		"1.20.1-latest": "1.1.0",
-		"1.20.1-recommended": "1.1.0"
+		"1.20.1-latest": "1.1.1",
+		"1.20.1-recommended": "1.1.1"
 	}
 }
