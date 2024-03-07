@@ -1,5 +1,9 @@
 {
 	"homepage": "https://www.curseforge.com/minecraft/mc-mods/thats-where-i-was",
+	"1.16.5": 
+	{
+		"1.1.1": "Updated to 1.16.5"
+	},
 	"1.16.4": 
 	{
 		"1.1.0": "Durability bugfix & new tiers.",
