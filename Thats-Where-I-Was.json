@@ -1,18 +1,20 @@
 {
-  "homepage": "https://www.curseforge.com/minecraft/mc-mods/thats-where-i-was",
-  "1.16.4": 
-  {
-    "1.0.0": "Release"
-  },
-  "1.16.3": 
-  {
-    "1.0.0": "Release"
-  },
-  "promos": 
-  {
-	"1.16.3-latest": "1.0.0",
-    "1.16.3-recommended": "1.0.0",
-	"1.16.4-latest": "1.0.0",
-    "1.16.4-recommended": "1.0.0"
-  }
+	"homepage": "https://www.curseforge.com/minecraft/mc-mods/thats-where-i-was",
+	"1.16.4": 
+	{
+		"1.1.0": "Durability bugfix & new tiers.",
+		"1.0.0": "Release"
+	},
+	"1.16.3": 
+	{
+		"1.1.0": "Durability bugfix & new tiers.",
+		"1.0.0": "Release"
+	},
+	"promos": 
+	{
+		"1.16.4-latest": "1.1.0",
+		"1.16.4-recommended": "1.1.0",
+		"1.16.3-latest": "1.1.0",
+		"1.16.3-recommended": "1.1.0"
+	}
 }
