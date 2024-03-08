@@ -2,6 +2,7 @@
 	"homepage": "https://minecraft.curseforge.com/projects/ctd-currency",
 	"1.20.1":
 	{
+		"1.1.4": "Added $5m Bill... new creative tab icon... misc fixes",
 		"1.1.3": "Added new bills to creative tab... new creative tab icon",
 		"1.1.2": "Added $100k/$500k/$1m bills",
 		"1.1.1": "Added creative tab and other misc fixes",
@@ -10,7 +11,7 @@
 	},
 	"promos": 
 	{
-		"1.20.1-latest": "1.1.3",
-		"1.20.1-recommended": "1.1.3"
+		"1.20.1-latest": "1.1.4",
+		"1.20.1-recommended": "1.1.4"
 	}
 }
