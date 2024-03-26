@@ -1,7 +1,8 @@
 {
-	"homepage": "https://minecraft.curseforge.com/projects/ctd-core",
+	"homepage": "https://www.curseforge.com/minecraft/mc-mods/ctd-core",
 	"1.20.4":
 	{
+		"2.4.9": "Added functions for detecting the current mod loader and version",
 		"2.4.7": "Updated to 1.20.4"
 	},
 	"1.20.2":
@@ -237,7 +238,7 @@
 		"1.20.1-recommended": "2.4.9",
 		"1.20.2-latest": "2.4.6",
 		"1.20.2-recommended": "2.4.6",
-		"1.20.4-latest": "2.4.7",
-		"1.20.4-recommended": "2.4.7"
+		"1.20.4-latest": "2.4.9",
+		"1.20.4-recommended": "2.4.9"
 	}
 }
