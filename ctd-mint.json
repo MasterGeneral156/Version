@@ -2,6 +2,10 @@
 	"homepage": "https://minecraft.curseforge.com/projects/ctd-currency",
 	"1.20.1":
 	{
+		"1.1.5": "Ported to 1.20.4!"
+	},
+	"1.20.1":
+	{
 		"1.1.5": "Bills and some of the currency containers now obtainable via villager trading.",
 		"1.1.4": "Added $5m Bill... new creative tab icon... misc fixes",
 		"1.1.3": "Added new bills to creative tab... new creative tab icon",
@@ -12,6 +16,8 @@
 	},
 	"promos": 
 	{
+		"1.20.4-latest": "1.1.5",
+		"1.20.4-recommended": "1.1.5",
 		"1.20.1-latest": "1.1.5",
 		"1.20.1-recommended": "1.1.5"
 	}
