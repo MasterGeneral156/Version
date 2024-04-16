@@ -1,147 +1,155 @@
 {
-  "homepage": "https://minecraft.curseforge.com/projects/ctd-tweaks",
-  "1.19.4":
-  {
-	  "2.3.0": "Updated to 1.19.4"
-  },
-  "1.19.2":
-  {
-	  "2.2.0": "Updated to 1.19.2"
-  },
-  "1.18.2":
-  {
-	  "2.1.5": "More bugfixes!",
-	  "2.1.4": "Numerous bug fixes!",
-	  "2.1.3c": "Numerous bug fixes with the new item.",
-	  "2.1.2": "Bug fixes with config, and a recipe fix with demonic heart charm",
-	  "2.1.1": "Tiered health curios to increase your max HP!",
-	  "2.1.0": "New config file! Wither Coal and Pocket Cobble Gen configurable!",
-	  "2.0.2": "Pocket Cobble Tweaks, Ring of Speed tweaks",
-	  "2.0.1": "Added Amulet of Extinguish",
-	  "2.0.0": "Rewrite and release for 1.18!"
-  },
-  "1.12.2":
-  {
-    "1.10.0": "Fixes Wither Fuel Block not being fuel. Made Amulet of being Watched into Bauble. Made Combat Core recipe a little more difficult.",
-    "1.9.4": "Possibly fix Flight Ring login/dimension change bug.",
-	"1.9.3": "Numerous Changes/Fixes: https://minecraft.curseforge.com/projects/ctd-tweaks/files/2566587",
-	"1.9.2": "Fixes Concrete Crash",
-	"1.9.1": "New Jar Signed Key",
-    "1.9.0": "Moved Amulet of Reaching and Health Trinket to CTD Mythos",
-    "1.8.3": "Updated Forge. Updated CTD Core. New textures.",
-	"1.8.2": "Added Enderfuge fuel. Added Health Charm!",
-	"1.8.1": "Added config option for Amulet of Reaching. Added Creative Amulet of Reaching.",
-	"1.8.0": "Added Amulet of Reaching. Doubles your range when equipped in your Amulet Slot!",
-	"1.7.7": "Redo textures to use Minecraft's soon-to-be default. Rebalanced all the ring recipes. Wither Fuel Ingot can only be made in Enderfuge. (Can be disabled)",
-	"1.7.6": "Added concrete block that speeds up player when walked on.",
-	"1.7.5": "Slowly moving over to new Fuel Handler system.",
-	"1.7.4": "Added Snow -> 4x Snow Balls Recipe, Added Clay -> 4x Clay Balls Recipe",
-	"1.7.3": "Log mod fingerprint violations",
-	"1.7.2": "Jar-signed mod",
-	"1.7.1": "Removed haste ring's temporary recipe, fixed dragon egg not working with damaged combat core, added recipe for enchanted gold, chagned Glowing Core's recipe to use the recipe from pre-1.12",
-	"1.7": "Updated CTD Core to 1.2. Internal cleaning/fixing.",
-	"1.6": "Gothic Glass moved to correct tab, and combat core loses durability again",
-	"1.5.11": "Styling fixes, updated to 1.12.2, added WIP stuff.",
-	"1.5.10": "Fixed Gothic Glass smelting recipe conflicting with Soul Shard's smelting recipe."
-  },
-  "1.12.1":
-  {
-	"1.9.3": "Numerous Changes/Fixes: https://minecraft.curseforge.com/projects/ctd-tweaks/files/2566587",
-	"1.9.2": "Fixes Concrete Crash",
-	"1.9.1": "New Jar Signed Key",
-    "1.9.0": "Moved Amulet of Reaching and Health Trinket to CTD Mythos",
-    "1.8.3": "Updated Forge. Updated CTD Core. New textures.",
-	"1.8.2": "Added Enderfuge fuel. Added Health Charm!",
-	"1.8.1": "Added config option for Amulet of Reaching. Added Creative Amulet of Reaching.",
-	"1.8.0": "Added Amulet of Reaching. Doubles your range when equipped in your Amulet Slot!",
-	"1.7.7": "Redo textures to use Minecraft's soon-to-be default. Rebalanced all the ring recipes. Wither Fuel Ingot can only be made in Enderfuge. (Can be disabled)",
-	"1.7.6": "Added concrete block that speeds up player when walked on.",
-	"1.7.5": "Slowly moving over to new Fuel Handler system.",
-	"1.7.4": "Added Snow -> 4x Snow Balls Recipe, Added Clay -> 4x Clay Balls Recipe",
-	"1.7.3": "Log mod fingerprint violations",
-	"1.7.2": "Jar-signed mod",
-	"1.7.1": "Removed haste ring's temporary recipe, fixed dragon egg not working with damaged combat core, added recipe for enchanted gold, chagned Glowing Core's recipe to use the recipe from pre-1.12",
-	"1.7": "Updated CTD Core to 1.2. Internal cleaning/fixing.",
-	"1.6": "Gothic Glass moved to correct tab, and combat core loses durability again",
-	"1.5.11": "Styling fixes, updated to 1.12.2, added WIP stuff.",
-	"1.5.10": "Fixed Gothic Glass smelting recipe conflicting with Soul Shard's smelting recipe.",
-	"1.5.9": "Added Gothic Glass. Added Glowing Obsidian. Logo. Clean up.",
-	"1.5.8": "Added Invisibility Ring."
-  },
-  "1.12": 
-  {
-	"1.9.3": "Numerous Changes/Fixes: https://minecraft.curseforge.com/projects/ctd-tweaks/files/2566587",
-	"1.9.2": "Fixes Concrete Crash",
-	"1.9.1": "New Jar Signed Key",
-    "1.9.0": "Moved Amulet of Reaching and Health Trinket to CTD Mythos",
-    "1.8.3": "Updated Forge. Updated CTD Core. New textures.",
-	"1.8.2": "Added Enderfuge fuel. Added Health Charm!",
-	"1.8.1": "Added config option for Amulet of Reaching. Added Creative Amulet of Reaching.",
-	"1.8.0": "Added Amulet of Reaching. Doubles your range when equipped in your Amulet Slot!",
-	"1.7.7": "Redo textures to use Minecraft's soon-to-be default. Rebalanced all the ring recipes. Wither Fuel Ingot can only be made in Enderfuge. (Can be disabled)",
-	"1.7.6": "Added concrete block that speeds up player when walked on.",
-	"1.7.5": "Slowly moving over to new Fuel Handler system.",
-	"1.7.4": "Added Snow -> 4x Snow Balls Recipe, Added Clay -> 4x Clay Balls Recipe",
-	"1.7.3": "Log mod fingerprint violations",
-	"1.7.2": "Jar-signed mod",
-	"1.7.1": "Removed haste ring's temporary recipe, fixed dragon egg not working with damaged combat core, added recipe for enchanted gold, chagned Glowing Core's recipe to use the recipe from pre-1.12",
-	"1.7": "Updated CTD Core to 1.2. Internal cleaning/fixing.",
-	"1.6": "Gothic Glass moved to correct tab, and combat core loses durability again",
-	"1.5.9": "Added Gothic Glass. Added Glowing Obsidian. Logo. Clean up.",
-	"1.5.8": "Added Invisibility Ring.",
-	"1.5.7": "Rebalanced Steamed Carrot to give half its original Saturation, rebalanced flight ring to use two nether stars.",
-	"1.5.6": "Added configs, renamed config, removed Combat Core durability, and made it more difficult to craft",
-	"1.5.5": "Requires Baubles. Fixes flight ring making other flight items not work.",
-	"1.5.4": "Fixes falling through the world when in spectator mode.",
-	"1.5.3": "Hopefully fixes the issues with the rings.",
-	"1.5.2": "Advancements and bug fixes, oh my.",
-	"1.5.1": "Clean up code, remove Baubles API, re-added speed/haste rings.",
-	"1.5.0": "Added Flight ring",
-	"1.4.0": "Initial 1.12 port"
-  },
-  "1.11.2": 
-  {
-	"1.7.6": "Backport 1.12 features.",
-	"1.4.1": "Jar signed mod. Final 1.11.2 update. Removed Flight Core since unimplemented.",
-	"1.4.0": "Added CTD Core as a required mod.",
-	"1.3.0": "JEI Integration, Forge Update Checker, Config files."
-  },
-  "1.11": 
-  {
-	"1.2.1": "Fixes server crash. Adds steamed carrots. Changed crafting recipes.",
-	"1.2.0": "Bauble rings! Requires java 1.8 or higher!",
-	"1.1.0": "Added night vision goggles, amulet of glowing, glowing core and 'Special Boots'",
-	"1.0.3": "Ported to 1.11"
-  },
-  "1.10.2": 
-  {
-	"1.7.6": "Backport 1.12 features.",
-	"1.4.1": "Jar signed mod. Final 1.10.2 update. Removed Flight Core since unimplemented.",
-	"1.4.0": "Added CTD Core as a required mod.",
-	"1.3.0": "JEI Integration, Forge Update Checker, Config files.",
-	"1.2.0": "Bauble rings! Requires java 1.8 or higher!",
-	"1.1.0": "Added night vision goggles, amulet of glowing, glowing core and 'Special Boots'",
-    "1.0.3": "N/A"
-  },
-  "promos": 
-  {
-	"1.19.4-latest": "2.3.0",
-    "1.19.4-recommended": "2.3.0",
-	"1.19.2-latest": "2.2.0",
-    "1.19.2-recommended": "2.2.0",
-	"1.18.2-latest": "2.1.5",
-    "1.18.2-recommended": "2.1.5",
-	"1.12.2-latest": "1.10.0",
-    "1.12.2-recommended": "1.10.0",
-	"1.12.1-latest": "1.9.3",
-    "1.12.1-recommended": "1.9.3",
-	"1.12-latest": "1.9.3",
-    "1.12-recommended": "1.9.3",
-	"1.11.2-latest": "1.7.6",
-    "1.11.2-recommended": "1.7.6",
-	"1.10.2-latest": "1.7.6",
-    "1.10.2-recommended": "1.7.6",
-	"1.11-latest": "1.2.1",
-    "1.11-recommended": "1.2.1"
-  }
+	"homepage": "https://minecraft.curseforge.com/projects/ctd-tweaks",
+	"1.20.1":
+	{
+		"2.4.0": "Updated to 1.20.1"
+	},
+	"1.19.4":
+	{
+		"2.3.0": "Updated to 1.19.4"
+	},
+	"1.19.2":
+	{
+		"2.2.0": "Updated to 1.19.2"
+	},
+	"1.18.2":
+	{
+		"2.1.5": "More bugfixes!",
+		"2.1.4": "Numerous bug fixes!",
+		"2.1.3c": "Numerous bug fixes with the new item.",
+		"2.1.2": "Bug fixes with config, and a recipe fix with demonic heart charm",
+		"2.1.1": "Tiered health curios to increase your max HP!",
+		"2.1.0": "New config file! Wither Coal and Pocket Cobble Gen configurable!",
+		"2.0.2": "Pocket Cobble Tweaks, Ring of Speed tweaks",
+		"2.0.1": "Added Amulet of Extinguish",
+		"2.0.0": "Rewrite and release for 1.18!"
+	},
+	"1.12.2":
+	{
+		"1.10.0": "Fixes Wither Fuel Block not being fuel. Made Amulet of being Watched into Bauble. Made Combat Core recipe a little more difficult.",
+		"1.9.4": "Possibly fix Flight Ring login/dimension change bug.",
+		"1.9.3": "Numerous Changes/Fixes: https://minecraft.curseforge.com/projects/ctd-tweaks/files/2566587",
+		"1.9.2": "Fixes Concrete Crash",
+		"1.9.1": "New Jar Signed Key",
+		"1.9.0": "Moved Amulet of Reaching and Health Trinket to CTD Mythos",
+		"1.8.3": "Updated Forge. Updated CTD Core. New textures.",
+		"1.8.2": "Added Enderfuge fuel. Added Health Charm!",
+		"1.8.1": "Added config option for Amulet of Reaching. Added Creative Amulet of Reaching.",
+		"1.8.0": "Added Amulet of Reaching. Doubles your range when equipped in your Amulet Slot!",
+		"1.7.7": "Redo textures to use Minecraft's soon-to-be default. Rebalanced all the ring recipes. Wither Fuel Ingot can only be made in Enderfuge. (Can be disabled)",
+		"1.7.6": "Added concrete block that speeds up player when walked on.",
+		"1.7.5": "Slowly moving over to new Fuel Handler system.",
+		"1.7.4": "Added Snow -> 4x Snow Balls Recipe, Added Clay -> 4x Clay Balls Recipe",
+		"1.7.3": "Log mod fingerprint violations",
+		"1.7.2": "Jar-signed mod",
+		"1.7.1": "Removed haste ring's temporary recipe, fixed dragon egg not working with damaged combat core, added recipe for enchanted gold, chagned Glowing Core's recipe to use the recipe from pre-1.12",
+		"1.7": "Updated CTD Core to 1.2. Internal cleaning/fixing.",
+		"1.6": "Gothic Glass moved to correct tab, and combat core loses durability again",
+		"1.5.11": "Styling fixes, updated to 1.12.2, added WIP stuff.",
+		"1.5.10": "Fixed Gothic Glass smelting recipe conflicting with Soul Shard's smelting recipe."
+	},
+	"1.12.1":
+	{
+		"1.9.3": "Numerous Changes/Fixes: https://minecraft.curseforge.com/projects/ctd-tweaks/files/2566587",
+		"1.9.2": "Fixes Concrete Crash",
+		"1.9.1": "New Jar Signed Key",
+		"1.9.0": "Moved Amulet of Reaching and Health Trinket to CTD Mythos",
+		"1.8.3": "Updated Forge. Updated CTD Core. New textures.",
+		"1.8.2": "Added Enderfuge fuel. Added Health Charm!",
+		"1.8.1": "Added config option for Amulet of Reaching. Added Creative Amulet of Reaching.",
+		"1.8.0": "Added Amulet of Reaching. Doubles your range when equipped in your Amulet Slot!",
+		"1.7.7": "Redo textures to use Minecraft's soon-to-be default. Rebalanced all the ring recipes. Wither Fuel Ingot can only be made in Enderfuge. (Can be disabled)",
+		"1.7.6": "Added concrete block that speeds up player when walked on.",
+		"1.7.5": "Slowly moving over to new Fuel Handler system.",
+		"1.7.4": "Added Snow -> 4x Snow Balls Recipe, Added Clay -> 4x Clay Balls Recipe",
+		"1.7.3": "Log mod fingerprint violations",
+		"1.7.2": "Jar-signed mod",
+		"1.7.1": "Removed haste ring's temporary recipe, fixed dragon egg not working with damaged combat core, added recipe for enchanted gold, chagned Glowing Core's recipe to use the recipe from pre-1.12",
+		"1.7": "Updated CTD Core to 1.2. Internal cleaning/fixing.",
+		"1.6": "Gothic Glass moved to correct tab, and combat core loses durability again",
+		"1.5.11": "Styling fixes, updated to 1.12.2, added WIP stuff.",
+		"1.5.10": "Fixed Gothic Glass smelting recipe conflicting with Soul Shard's smelting recipe.",
+		"1.5.9": "Added Gothic Glass. Added Glowing Obsidian. Logo. Clean up.",
+		"1.5.8": "Added Invisibility Ring."
+	},
+	"1.12": 
+	{
+		"1.9.3": "Numerous Changes/Fixes: https://minecraft.curseforge.com/projects/ctd-tweaks/files/2566587",
+		"1.9.2": "Fixes Concrete Crash",
+		"1.9.1": "New Jar Signed Key",
+		"1.9.0": "Moved Amulet of Reaching and Health Trinket to CTD Mythos",
+		"1.8.3": "Updated Forge. Updated CTD Core. New textures.",
+		"1.8.2": "Added Enderfuge fuel. Added Health Charm!",
+		"1.8.1": "Added config option for Amulet of Reaching. Added Creative Amulet of Reaching.",
+		"1.8.0": "Added Amulet of Reaching. Doubles your range when equipped in your Amulet Slot!",
+		"1.7.7": "Redo textures to use Minecraft's soon-to-be default. Rebalanced all the ring recipes. Wither Fuel Ingot can only be made in Enderfuge. (Can be disabled)",
+		"1.7.6": "Added concrete block that speeds up player when walked on.",
+		"1.7.5": "Slowly moving over to new Fuel Handler system.",
+		"1.7.4": "Added Snow -> 4x Snow Balls Recipe, Added Clay -> 4x Clay Balls Recipe",
+		"1.7.3": "Log mod fingerprint violations",
+		"1.7.2": "Jar-signed mod",
+		"1.7.1": "Removed haste ring's temporary recipe, fixed dragon egg not working with damaged combat core, added recipe for enchanted gold, chagned Glowing Core's recipe to use the recipe from pre-1.12",
+		"1.7": "Updated CTD Core to 1.2. Internal cleaning/fixing.",
+		"1.6": "Gothic Glass moved to correct tab, and combat core loses durability again",
+		"1.5.9": "Added Gothic Glass. Added Glowing Obsidian. Logo. Clean up.",
+		"1.5.8": "Added Invisibility Ring.",
+		"1.5.7": "Rebalanced Steamed Carrot to give half its original Saturation, rebalanced flight ring to use two nether stars.",
+		"1.5.6": "Added configs, renamed config, removed Combat Core durability, and made it more difficult to craft",
+		"1.5.5": "Requires Baubles. Fixes flight ring making other flight items not work.",
+		"1.5.4": "Fixes falling through the world when in spectator mode.",
+		"1.5.3": "Hopefully fixes the issues with the rings.",
+		"1.5.2": "Advancements and bug fixes, oh my.",
+		"1.5.1": "Clean up code, remove Baubles API, re-added speed/haste rings.",
+		"1.5.0": "Added Flight ring",
+		"1.4.0": "Initial 1.12 port"
+	},
+	"1.11.2": 
+	{
+		"1.7.6": "Backport 1.12 features.",
+		"1.4.1": "Jar signed mod. Final 1.11.2 update. Removed Flight Core since unimplemented.",
+		"1.4.0": "Added CTD Core as a required mod.",
+		"1.3.0": "JEI Integration, Forge Update Checker, Config files."
+	},
+	"1.11": 
+	{
+		"1.2.1": "Fixes server crash. Adds steamed carrots. Changed crafting recipes.",
+		"1.2.0": "Bauble rings! Requires java 1.8 or higher!",
+		"1.1.0": "Added night vision goggles, amulet of glowing, glowing core and 'Special Boots'",
+		"1.0.3": "Ported to 1.11"
+	},
+	"1.10.2": 
+	{
+		"1.7.6": "Backport 1.12 features.",
+		"1.4.1": "Jar signed mod. Final 1.10.2 update. Removed Flight Core since unimplemented.",
+		"1.4.0": "Added CTD Core as a required mod.",
+		"1.3.0": "JEI Integration, Forge Update Checker, Config files.",
+		"1.2.0": "Bauble rings! Requires java 1.8 or higher!",
+		"1.1.0": "Added night vision goggles, amulet of glowing, glowing core and 'Special Boots'",
+		"1.0.3": "N/A"
+	},
+	"promos": 
+	{
+		"1.20.1-latest": "2.4.0",
+		"1.20.1-recommended": "2.4.0",
+		"1.19.4-latest": "2.3.0",
+		"1.19.4-recommended": "2.3.0",
+		"1.19.4-latest": "2.3.0",
+		"1.19.4-recommended": "2.3.0",
+		"1.19.2-latest": "2.2.0",
+		"1.19.2-recommended": "2.2.0",
+		"1.18.2-latest": "2.1.5",
+		"1.18.2-recommended": "2.1.5",
+		"1.12.2-latest": "1.10.0",
+		"1.12.2-recommended": "1.10.0",
+		"1.12.1-latest": "1.9.3",
+		"1.12.1-recommended": "1.9.3",
+		"1.12-latest": "1.9.3",
+		"1.12-recommended": "1.9.3",
+		"1.11.2-latest": "1.7.6",
+		"1.11.2-recommended": "1.7.6",
+		"1.10.2-latest": "1.7.6",
+		"1.10.2-recommended": "1.7.6",
+		"1.11-latest": "1.2.1",
+		"1.11-recommended": "1.2.1"
+	}
 }
