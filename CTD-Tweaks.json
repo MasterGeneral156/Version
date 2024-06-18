@@ -2,6 +2,9 @@
 	"homepage": "https://minecraft.curseforge.com/projects/ctd-tweaks",
 	"1.20.1":
 	{
+		"2.4.4": "Fixes Ring of the Angels. Localizes text in many places.",
+		"2.4.3": "Fixes Tri-blade of Destruction's 3rd person model",
+		"2.4.2": "Added Amulet of Knockback/Amulet of YEET/Roasted Beetroot. Rebalanced Speed/Haste rings",
 		"2.4.1b": "Added item descriptions to mod curios",
 		"2.4.1": "Added new curios from the 1.12 era.",
 		"2.4.0": "Updated to 1.20.1"
