@@ -1,9 +1,13 @@
 {
   "homepage": "https://minecraft.curseforge.com/projects/mo-glowstone",
+  "1.21":
+  {
+	"2.6.0": "Updated to aasd"
+  },
   "1.20.4":
   {
 	"2.5.0": "Now on Neoforge!"
-  }
+  },
   "promos": 
   {
 	"1.20.4-latest": "2.5.0",
