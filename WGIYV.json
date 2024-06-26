@@ -2,7 +2,8 @@
   "homepage": "https://minecraft.curseforge.com/projects/wgiyv",
   "1.20.1":
   {
-	"1.1.2": "Release for 1.20.1"
+	"1.1.3": "3D Models for the items"
+	"1.1.2": "Release for 1.20.1",
   },
   "1.19.4":
   {
@@ -85,7 +86,7 @@
 	"1.18.2-recommended": "1.1.1",
 	"1.19.4-latest": "1.1.2",
 	"1.19.4-recommended": "1.1.2",
-	"1.20.1-latest": "1.1.2",
-	"1.20.1-recommended": "1.1.2"
+	"1.20.1-latest": "1.1.3",
+	"1.20.1-recommended": "1.1.3"
   }
 }
