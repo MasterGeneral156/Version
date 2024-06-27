@@ -1,264 +1,264 @@
 {
-  "homepage": "https://minecraft.curseforge.com/projects/mo-glowstone",
-  "1.21":
-  {
-	"2.6.0": "Updated to Minecraft v1.21"
-  },
-  "1.20.4":
-  {
-	"2.4.8": "Fix Orange Glowstone texture",
-	"2.4.5": "Updated to 1.20.4"
-  },
-  "1.20.2":
-  {
-	"2.4.7": "Fix Orange Glowstone texture",
-	"2.4.4": "Updated to 1.20.2"
-  },
-  "1.20.1":
-  {
-	"2.4.6": "Fix Orange Glowstone texture",
-	"2.4.3": "Built on Forge 47.2.0",
-	"2.4.2": "Built for 1.20.1"
-  },
-  "1.20":
-  {
-	"2.4.1c": "Renames creative tab field",
-	"2.4.1b": "Fixes mod.toml",
-	"2.4.1": "Fixes mod.toml",
-	"2.4.0": "Released for 1.20"
-  },
-  "1.19.4":
-  {
-	"2.3.5": "In game note about the glowstone ore lol",
-	"2.3.4": "Released for 1.19.4"
-  },
-  "1.19.3":
-  {
-	"2.3.3b": "Fixes loading issue",
-	"2.3.3": "Build for Recommended Forge 44.1.0",
-	"2.3.2": "Recipe fixes, adds recipes for newer vanilla items w/ glowstone coal",
-	"2.3.1": "Courtesy build",
-	"2.3.0": "Released for 1.19.3"
-  },
-  "1.19.2":
-  {
-	"2.2.1": "Adds Rechisel support",
-	"2.2.0": "Released for 1.19.2"
-  },
-  "1.19":
-  {
-	"2.1.2": "Use forge-provided 'glowstone' tag, rather than our own.",
-	"2.1.1b": "Release for 1.19"
-  },
-  "1.18.2":
-  {
-	"2.1.5": "Adds ReChisel support!",
-	"2.1.4": "Fixes Glowstone Fuel smelt time",
-	"2.1.3": "Tag fixes and fixes the glowstone fuel item",
-	"2.1.1b": "Release for 1.18"
-  },
-  "1.17.1":
-  {
-	"2.1.1b": "Release for 1.17"
-  },
-  "1.16.5":
-  {
-	"2.1.1b": "Final release for 1.16.x"
-  },
-  "1.16.4":
-  {
-	"2.1.0": "Initial release for 1.16.4"
-  },
-  "1.16.3":
-  {
-	"2.1.0": "Initial release for 1.16.4",
-	"2.0.7": "RGB Glowstone on maps."
-	"2.0.6": "Code clean up, registry fixes, new tag."
-	"2.0.5": "Initial release for 1.16.3. Glowstone now emit light!"
-  },
-  "1.16.1":
-  {
-	"2.0.5": "Fixed block drops. No lights yet. Code clean up.",
-	"2.0.4": "Port to 1.16.1"
-  },
-  "1.15.2":
-  {
-	"2.0.5": "Fixed block drops. No lights yet. Code clean up.",
-	"2.0.4": "Port to 1.15.1"
-  },
-  "1.15.1":
-  {
-	"2.0.4": "Port to 1.15.1"
-  },
-  "1.14.4":
-  {
-	"2.0.4": "Update to build on Release Build for Forge.",
-	"2.0.3": "Added Creative Tab, moved mod items/blocks to it.",
-	"2.0.2": "Logo crash bugfix.",
-	"2.0.1": "Changes textures to be in-sync with current MC textures, and fixes a texture issue with Gray Glowstone.",
-    "2.0.0": "Initial release for 1.14.4"
-  },
-  "1.14.2":
-  {
-    "2.0.0": "Initial release for 1.14.2"
-  },
-  "1.13.2":
-  {
-	"2.0.1": "Initial release for 1.13.2",
-    "2.0.0": "Initial release for 1.13.2"
-  },
-  "1.12.2":
-  {
-	"1.6.0": "Added to ore dict.",
-	"1.5.9": "Added config option to disable integration with Albedo, a mod that added RGB lighting into Minecraft.",
-	"1.5.8": "A localization bugfix!",
-	"1.5.7": "Numerous changes!",
-	"1.5.6": "Reverted back to the old faithful textures.",
-	"1.5.5": "Added config options for all the world gen... plus new signed jar key.",
-	"1.5.4": "New Signed Jar Key",
-	"1.5.3": "Fixed crash when disabling world gen.",
-	"1.5.2": "Added config option to disable World Gen of Glowstone Ore.",
-	"1.5.1": "Fixes Albedo Support.",
-	"1.5.0": "Albedo Support added!",
-	"1.4.5": "Added Glowstone Ore.",
-	"1.4.4": "Redid Glowstone Fuel texture with the new coal texture base.",
-	"1.4.3": "Textures redid with Minecraft's new Glowstone texture. Added TE Pulverizer recipes with our glowstone.",
-	"1.4.2": "Adopt new Fuel Handler.",
-	"1.4.1": "Added logging. Jar Signed mod.",
-	"1.4": "Update CTD Core to 1.2. Styling fixes and clean up.",
-	"1.3.2": "Fixed the mod only loading on 1.12.1"
-  },
-  "1.12.1":
-  {
-	"1.5.6": "Reverted back to the old faithful textures.",
-	"1.5.5": "Added config options for all the world gen... plus new signed jar key.",
-	"1.5.4": "New Signed Jar Key",
-	"1.5.3": "Fixed crash when disabling world gen.",
-	"1.5.2": "Added config option to disable World Gen of Glowstone Ore.",
-	"1.5.1": "Fixes Albedo Support.",
-	"1.5.0": "Albedo Support added!",
-	"1.4.5": "Added Glowstone Ore.",
-	"1.4.4": "Redid Glowstone Fuel texture with the new coal texture base.",
-	"1.4.3": "Textures redid with Minecraft's new Glowstone texture. Added TE Pulverizer recipes with our glowstone.",
-	"1.4.2": "Adopt new Fuel Handler.",
-	"1.4.1": "Added logging. Jar Signed mod.",
-	"1.4": "Update CTD Core to 1.2. Styling fixes and clean up.",
-	"1.3.2": "Fixed the mod only loading on 1.12.1",
-	"1.3.1": "Finished redoing the textures.",
-	"1.3.0": "Redo textures."
-  },
-  "1.12": 
-  {
-	"1.5.6": "Reverted back to the old faithful textures.",
-	"1.5.5": "Added config options for all the world gen... plus new signed jar key.",
-	"1.5.4": "New Signed Jar Key",
-	"1.5.3": "Fixed crash when disabling world gen.",
-	"1.5.2": "Added config option to disable World Gen of Glowstone Ore.",
-	"1.5.1": "Fixes Albedo Support.",
-	"1.5.0": "Albedo Support added!",
-	"1.4.5": "Added Glowstone Ore.",
-	"1.4.4": "Redid Glowstone Fuel texture with the new coal texture base.",
-	"1.4.3": "Textures redid with Minecraft's new Glowstone texture. Added TE Pulverizer recipes with our glowstone.",
-	"1.4.2": "Adopt new Fuel Handler.",
-	"1.4.1": "Added logging. Jar Signed mod.",
-	"1.4": "Update CTD Core to 1.2. Styling fixes and clean up.",
-	"1.3.2": "Fixed the mod only loading on 1.12.1",
-	"1.3.1": "Finished redoing the textures.",
-	"1.3.0": "Redo textures.",
-	"1.2.10": "Fixed Colored Glowstone dropping more than one of itself.",
-	"1.2.9": "Added advancements and fixed some recipes.",
-	"1.2.8": "Fixed recipes AGAIN ffs forge.",
-	"1.2.7": "Fixed some things, idk.",
-	"1.2.6": "Re-added crafting recipes for colored glowstone. (No Ore-Dict support yet)",
-	"1.2.5": "Temp. Recipe workaround. No Oredict.",
-	"1.2.4": "Initial port to 1.12"
-  },
-  "1.11.2": 
-  {
-	"1.2.4": "Changed Update JSON link.",
-	"1.2.3": "Fixes to hopefully make world generation less laggy.",
-	"1.2.2": "Added configuration options for world generation.",
-	"1.2.1": "Fixed Lime Glowstone being texture-less.",
-    "1.2.0": "CTD Core required, config file, etc."
-  },
-  "1.11": 
-  {
-    "1.1.0": "Colored Glowstone now spawns in the Nether.", 
-	"1.0.3": "1.11 port"
-  },
-  "1.10.2": 
-  {
-	"1.2.4": "Changed Update JSON link.",
-	"1.2.3": "Fixes to hopefully make world generation less laggy.",
-	"1.2.2": "Added configuration options for world generation.",
-	"1.2.1": "Fixed Lime Glowstone being texture-less.",
-	"1.2.0": "CTD Core required, config file, etc.",
-	"1.1.0": "Colored Glowstone now spawns in the Nether. Blocks will go missing. Be careful when updating.",
-    "1.0.2": "Added creative tab, glowstone fuel and removed unused textures.", 
-	"1.0.1": "1.10.x port"
-  },
-  "1.7.10": 
-  {
-	"1.0.2": "Final release. Code clean up. Use the 1.1x Glowstone Fuel Texture.", 
-    "1.0.1": "Oops!", 
-	"1.0.0": "Major rewrite! Public release!"
-  },
-
-  "promos": 
-  {
-    "1.7.10-latest": "1.0.2",
-    "1.7.10-recommended": "1.0.2",
-	"1.10.2-latest": "1.2.4",
-    "1.10.2-recommended": "1.2.4",
-	"1.11-latest": "1.1.2",
-    "1.11-recommended": "1.1.2",
-	"1.11.2-latest": "1.2.4",
-    "1.11.2-recommended": "1.2.4",
-	"1.12-latest": "1.5.6",
-    "1.12-recommended": "1.5.6",
-	"1.12.1-latest": "1.5.6",
-    "1.12.1-recommended": "1.5.6",
-	"1.12.2-latest": "1.6.0",
-    "1.12.2-recommended": "1.6.0",
-    "1.13.2-latest": "2.0.1",
-    "1.13.2-recommended": "2.0.1",
-    "1.14.2-latest": "2.0.0",
-    "1.14.2-recommended": "2.0.0",
-	"1.14.4-latest": "2.0.4",
-    "1.14.4-recommended": "2.0.4",
-	"1.15.1-latest": "2.0.4",
-    "1.15.1-recommended": "2.0.4",
-	"1.15.2-latest": "2.0.5",
-    "1.15.2-recommended": "2.0.5",
-	"1.16.1-latest": "2.0.5",
-    "1.16.1-recommended": "2.0.5",
-	"1.16.3-latest": "2.1.0",
-    "1.16.3-recommended": "2.1.0",
-	"1.16.4-latest": "2.1.0",
-    "1.16.4-recommended": "2.1.0",
-	"1.16.5-latest": "2.1.1b",
-    "1.16.5-recommended": "2.1.1b",
-	"1.17.1-latest": "2.1.1b",
-    "1.17.1-recommended": "2.1.1b",
-	"1.18.2-latest": "2.1.5",
-    "1.18.2-recommended": "2.1.5",
-	"1.19-latest": "2.1.2",
-    "1.19-recommended": "2.1.2",
-	"1.19.2-latest": "2.2.1",
-    "1.19.2-recommended": "2.2.1",
-	"1.19.3-latest": "2.3.3b",
-    "1.19.3-recommended": "2.3.3b",
-	"1.19.4-latest": "2.3.5",
-    "1.19.4-recommended": "2.3.5",
-	"1.20-latest": "2.4.1c",
-    "1.20-recommended": "2.4.1c",
-	"1.20.1-latest": "2.4.6",
-    "1.20.1-recommended": "2.4.6",
-	"1.20.2-latest": "2.4.7",
-    "1.20.2-recommended": "2.4.7",
-	"1.20.4-latest": "2.4.8",
-    "1.20.4-recommended": "2.4.8",
-	"1.21-latest": "2.6.0",
-    "1.21-recommended": "2.6.0"
-  }
+	"homepage": "https://minecraft.curseforge.com/projects/mo-glowstone",
+	"1.21":
+	{
+		"2.6.1": "Start up crash fix",
+		"2.6.0": "Updated to Minecraft v1.21",
+	},
+	"1.20.4":
+	{
+		"2.4.8": "Fix Orange Glowstone texture",
+		"2.4.5": "Updated to 1.20.4"
+	},
+	"1.20.2":
+	{
+		"2.4.7": "Fix Orange Glowstone texture",
+		"2.4.4": "Updated to 1.20.2"
+	},
+	"1.20.1":
+	{
+		"2.4.6": "Fix Orange Glowstone texture",
+		"2.4.3": "Built on Forge 47.2.0",
+		"2.4.2": "Built for 1.20.1"
+	},
+	"1.20":
+	{
+		"2.4.1c": "Renames creative tab field",
+		"2.4.1b": "Fixes mod.toml",
+		"2.4.1": "Fixes mod.toml",
+		"2.4.0": "Released for 1.20"
+	},
+	"1.19.4":
+	{
+		"2.3.5": "In game note about the glowstone ore lol",
+		"2.3.4": "Released for 1.19.4"
+	},
+	"1.19.3":
+	{
+		"2.3.3b": "Fixes loading issue",
+		"2.3.3": "Build for Recommended Forge 44.1.0",
+		"2.3.2": "Recipe fixes, adds recipes for newer vanilla items w/ glowstone coal",
+		"2.3.1": "Courtesy build",
+		"2.3.0": "Released for 1.19.3"
+	},
+	"1.19.2":
+	{
+		"2.2.1": "Adds Rechisel support",
+		"2.2.0": "Released for 1.19.2"
+	},
+	"1.19":
+	{
+		"2.1.2": "Use forge-provided 'glowstone' tag, rather than our own.",
+		"2.1.1b": "Release for 1.19"
+	},
+	"1.18.2":
+	{
+		"2.1.5": "Adds ReChisel support!",
+		"2.1.4": "Fixes Glowstone Fuel smelt time",
+		"2.1.3": "Tag fixes and fixes the glowstone fuel item",
+		"2.1.1b": "Release for 1.18"
+	},
+	"1.17.1":
+	{
+		"2.1.1b": "Release for 1.17"
+	},
+	"1.16.5":
+	{
+		"2.1.1b": "Final release for 1.16.x"
+	},
+	"1.16.4":
+	{
+		"2.1.0": "Initial release for 1.16.4"
+	},
+	"1.16.3":
+	{
+		"2.1.0": "Initial release for 1.16.4",
+		"2.0.7": "RGB Glowstone on maps."
+		"2.0.6": "Code clean up, registry fixes, new tag."
+		"2.0.5": "Initial release for 1.16.3. Glowstone now emit light!"
+	},
+	"1.16.1":
+	{
+		"2.0.5": "Fixed block drops. No lights yet. Code clean up.",
+		"2.0.4": "Port to 1.16.1"
+	},
+	"1.15.2":
+	{
+		"2.0.5": "Fixed block drops. No lights yet. Code clean up.",
+		"2.0.4": "Port to 1.15.1"
+	},
+	"1.15.1":
+	{
+		"2.0.4": "Port to 1.15.1"
+	},
+	"1.14.4":
+	{
+		"2.0.4": "Update to build on Release Build for Forge.",
+		"2.0.3": "Added Creative Tab, moved mod items/blocks to it.",
+		"2.0.2": "Logo crash bugfix.",
+		"2.0.1": "Changes textures to be in-sync with current MC textures, and fixes a texture issue with Gray Glowstone.",
+		"2.0.0": "Initial release for 1.14.4"
+	},
+	"1.14.2":
+	{
+		"2.0.0": "Initial release for 1.14.2"
+	},
+	"1.13.2":
+	{
+		"2.0.1": "Initial release for 1.13.2",
+		"2.0.0": "Initial release for 1.13.2"
+	},
+	"1.12.2":
+	{
+		"1.6.0": "Added to ore dict.",
+		"1.5.9": "Added config option to disable integration with Albedo, a mod that added RGB lighting into Minecraft.",
+		"1.5.8": "A localization bugfix!",
+		"1.5.7": "Numerous changes!",
+		"1.5.6": "Reverted back to the old faithful textures.",
+		"1.5.5": "Added config options for all the world gen... plus new signed jar key.",
+		"1.5.4": "New Signed Jar Key",
+		"1.5.3": "Fixed crash when disabling world gen.",
+		"1.5.2": "Added config option to disable World Gen of Glowstone Ore.",
+		"1.5.1": "Fixes Albedo Support.",
+		"1.5.0": "Albedo Support added!",
+		"1.4.5": "Added Glowstone Ore.",
+		"1.4.4": "Redid Glowstone Fuel texture with the new coal texture base.",
+		"1.4.3": "Textures redid with Minecraft's new Glowstone texture. Added TE Pulverizer recipes with our glowstone.",
+		"1.4.2": "Adopt new Fuel Handler.",
+		"1.4.1": "Added logging. Jar Signed mod.",
+		"1.4": "Update CTD Core to 1.2. Styling fixes and clean up.",
+		"1.3.2": "Fixed the mod only loading on 1.12.1"
+	},
+	"1.12.1":
+	{
+		"1.5.6": "Reverted back to the old faithful textures.",
+		"1.5.5": "Added config options for all the world gen... plus new signed jar key.",
+		"1.5.4": "New Signed Jar Key",
+		"1.5.3": "Fixed crash when disabling world gen.",
+		"1.5.2": "Added config option to disable World Gen of Glowstone Ore.",
+		"1.5.1": "Fixes Albedo Support.",
+		"1.5.0": "Albedo Support added!",
+		"1.4.5": "Added Glowstone Ore.",
+		"1.4.4": "Redid Glowstone Fuel texture with the new coal texture base.",
+		"1.4.3": "Textures redid with Minecraft's new Glowstone texture. Added TE Pulverizer recipes with our glowstone.",
+		"1.4.2": "Adopt new Fuel Handler.",
+		"1.4.1": "Added logging. Jar Signed mod.",
+		"1.4": "Update CTD Core to 1.2. Styling fixes and clean up.",
+		"1.3.2": "Fixed the mod only loading on 1.12.1",
+		"1.3.1": "Finished redoing the textures.",
+		"1.3.0": "Redo textures."
+	},
+	"1.12": 
+	{
+		"1.5.6": "Reverted back to the old faithful textures.",
+		"1.5.5": "Added config options for all the world gen... plus new signed jar key.",
+		"1.5.4": "New Signed Jar Key",
+		"1.5.3": "Fixed crash when disabling world gen.",
+		"1.5.2": "Added config option to disable World Gen of Glowstone Ore.",
+		"1.5.1": "Fixes Albedo Support.",
+		"1.5.0": "Albedo Support added!",
+		"1.4.5": "Added Glowstone Ore.",
+		"1.4.4": "Redid Glowstone Fuel texture with the new coal texture base.",
+		"1.4.3": "Textures redid with Minecraft's new Glowstone texture. Added TE Pulverizer recipes with our glowstone.",
+		"1.4.2": "Adopt new Fuel Handler.",
+		"1.4.1": "Added logging. Jar Signed mod.",
+		"1.4": "Update CTD Core to 1.2. Styling fixes and clean up.",
+		"1.3.2": "Fixed the mod only loading on 1.12.1",
+		"1.3.1": "Finished redoing the textures.",
+		"1.3.0": "Redo textures.",
+		"1.2.10": "Fixed Colored Glowstone dropping more than one of itself.",
+		"1.2.9": "Added advancements and fixed some recipes.",
+		"1.2.8": "Fixed recipes AGAIN ffs forge.",
+		"1.2.7": "Fixed some things, idk.",
+		"1.2.6": "Re-added crafting recipes for colored glowstone. (No Ore-Dict support yet)",
+		"1.2.5": "Temp. Recipe workaround. No Oredict.",
+		"1.2.4": "Initial port to 1.12"
+	},
+	"1.11.2": 
+	{
+		"1.2.4": "Changed Update JSON link.",
+		"1.2.3": "Fixes to hopefully make world generation less laggy.",
+		"1.2.2": "Added configuration options for world generation.",
+		"1.2.1": "Fixed Lime Glowstone being texture-less.",
+		"1.2.0": "CTD Core required, config file, etc."
+	},
+	"1.11": 
+	{
+		"1.1.0": "Colored Glowstone now spawns in the Nether.", 
+		"1.0.3": "1.11 port"
+	},
+	"1.10.2": 
+	{
+		"1.2.4": "Changed Update JSON link.",
+		"1.2.3": "Fixes to hopefully make world generation less laggy.",
+		"1.2.2": "Added configuration options for world generation.",
+		"1.2.1": "Fixed Lime Glowstone being texture-less.",
+		"1.2.0": "CTD Core required, config file, etc.",
+		"1.1.0": "Colored Glowstone now spawns in the Nether. Blocks will go missing. Be careful when updating.",
+		"1.0.2": "Added creative tab, glowstone fuel and removed unused textures.", 
+		"1.0.1": "1.10.x port"
+	},
+	"1.7.10": 
+	{
+		"1.0.2": "Final release. Code clean up. Use the 1.1x Glowstone Fuel Texture.", 
+		"1.0.1": "Oops!", 
+		"1.0.0": "Major rewrite! Public release!"
+	},
+	"promos": 
+	{
+		"1.7.10-latest": "1.0.2",
+		"1.7.10-recommended": "1.0.2",
+		"1.10.2-latest": "1.2.4",
+		"1.10.2-recommended": "1.2.4",
+		"1.11-latest": "1.1.2",
+		"1.11-recommended": "1.1.2",
+		"1.11.2-latest": "1.2.4",
+		"1.11.2-recommended": "1.2.4",
+		"1.12-latest": "1.5.6",
+		"1.12-recommended": "1.5.6",
+		"1.12.1-latest": "1.5.6",
+		"1.12.1-recommended": "1.5.6",
+		"1.12.2-latest": "1.6.0",
+		"1.12.2-recommended": "1.6.0",
+		"1.13.2-latest": "2.0.1",
+		"1.13.2-recommended": "2.0.1",
+		"1.14.2-latest": "2.0.0",
+		"1.14.2-recommended": "2.0.0",
+		"1.14.4-latest": "2.0.4",
+		"1.14.4-recommended": "2.0.4",
+		"1.15.1-latest": "2.0.4",
+		"1.15.1-recommended": "2.0.4",
+		"1.15.2-latest": "2.0.5",
+		"1.15.2-recommended": "2.0.5",
+		"1.16.1-latest": "2.0.5",
+		"1.16.1-recommended": "2.0.5",
+		"1.16.3-latest": "2.1.0",
+		"1.16.3-recommended": "2.1.0",
+		"1.16.4-latest": "2.1.0",
+		"1.16.4-recommended": "2.1.0",
+		"1.16.5-latest": "2.1.1b",
+		"1.16.5-recommended": "2.1.1b",
+		"1.17.1-latest": "2.1.1b",
+		"1.17.1-recommended": "2.1.1b",
+		"1.18.2-latest": "2.1.5",
+		"1.18.2-recommended": "2.1.5",
+		"1.19-latest": "2.1.2",
+		"1.19-recommended": "2.1.2",
+		"1.19.2-latest": "2.2.1",
+		"1.19.2-recommended": "2.2.1",
+		"1.19.3-latest": "2.3.3b",
+		"1.19.3-recommended": "2.3.3b",
+		"1.19.4-latest": "2.3.5",
+		"1.19.4-recommended": "2.3.5",
+		"1.20-latest": "2.4.1c",
+		"1.20-recommended": "2.4.1c",
+		"1.20.1-latest": "2.4.6",
+		"1.20.1-recommended": "2.4.6",
+		"1.20.2-latest": "2.4.7",
+		"1.20.2-recommended": "2.4.7",
+		"1.20.4-latest": "2.4.8",
+		"1.20.4-recommended": "2.4.8",
+		"1.21-latest": "2.6.1",
+		"1.21-recommended": "2.6.1"
+	}
 }
