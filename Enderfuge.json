@@ -1,5 +1,5 @@
 {
-	"homepage": "https://minecraft.curseforge.com/projects/enderfuge",
+	"homepage": "https://www.curseforge.com/minecraft/mc-mods/enderfuge",
 	"1.12.2":
 	{
 		"1.6.0": "Dep updates, internal IMC changes, rewrote internal mod compat, new recipes, fixes.",
