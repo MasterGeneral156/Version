@@ -1,5 +1,10 @@
 {
 	"homepage": "https://www.curseforge.com/minecraft/mc-mods/ctd-core",
+	"1.21.1":
+	{
+		"2.7.1": "Small fix to progress bar functions",
+		"2.7.0": "Updated to 1.21.1; added new progress bar function"
+	},
 	"1.21":
 	{
 		"2.6.2": "Extra functions. Fuel items display burn ticks in tool tip",
@@ -205,6 +210,8 @@
 	},
 	"promos": 
 	{
+		"1.21.1-latest": "2.7.1",
+		"1.21.1-recommended": "2.7.1",
 		"1.21-latest": "2.6.2",
 		"1.21-recommended": "2.6.2",
 		"1.10.2-latest": "1.2.3b",
