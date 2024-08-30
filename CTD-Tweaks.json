@@ -2,6 +2,8 @@
 	"homepage": "https://www.curseforge.com/minecraft/mc-mods/ctd-tweaks",
 	"1.20.1":
 	{
+		"2.4.6": "Add recipe for Name tag. Added new Repair Charm.",
+		"2.4.5": "Add recipe for Saddle.",
 		"2.4.4": "Fixes Ring of the Angels. Localizes text in many places.",
 		"2.4.3": "Fixes Tri-blade of Destruction's 3rd person model",
 		"2.4.2": "Added Amulet of Knockback/Amulet of YEET/Roasted Beetroot. Rebalanced Speed/Haste rings",
@@ -134,8 +136,8 @@
 	},
 	"promos": 
 	{
-		"1.20.1-latest": "2.4.1b",
-		"1.20.1-recommended": "2.4.1b",
+		"1.20.1-latest": "2.4.6",
+		"1.20.1-recommended": "2.4.6",
 		"1.19.4-latest": "2.3.0",
 		"1.19.4-recommended": "2.3.0",
 		"1.19.4-latest": "2.3.0",
