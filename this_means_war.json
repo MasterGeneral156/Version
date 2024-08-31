@@ -1,5 +1,9 @@
 {
 	"homepage": "https://github.com/MasterGeneral156/This-Means-War",
+	"1.20.1":
+	{
+		"0.3.0": "Processing overhaul!"
+	},
 	"1.20":
 	{
 		"0.2.0": "Ported to 1.20"
@@ -24,6 +28,8 @@
 	},
 	"promos": 
 	{
+		"1.20.1-latest": "0.3.0",
+		"1.20.1-recommended": "0.3.0",
 		"1.20-latest": "0.2.0",
 		"1.20-recommended": "0.2.0",
 		"1.19.4-latest": "0.1.3",
