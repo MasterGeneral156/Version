@@ -3,7 +3,11 @@
 	"1.21.1":
 	{
 		"2.7.1": "Small fix to progress bar functions",
-		"2.7.0": "Updated to 1.21.1; added new progress bar function"
+		"2.7.0": "Updated to 1.21.1; added new progress bar function",
+		"2.6.2": "Extra functions. Fuel items display burn ticks in tool tip",
+		"2.6.1b": "Updated the `displayURL` to no longer use the 'legacy' CF domain.",
+		"2.6.1": "Removed deprecated functions, added new functions to existing classes, modernized DurabilityItem class",
+		"2.6.0": "Updated to 1.21"
 	},
 	"1.21":
 	{
