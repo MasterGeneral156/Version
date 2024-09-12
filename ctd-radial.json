@@ -1,0 +1,12 @@
+{
+  "homepage": "https://github.com/MasterGeneral156/CTD-Radial",
+  "1.20.1": 
+  {
+	"0.1.6": "Final pre-release"
+  },
+  "promos": 
+  {
+	"1.20.1-latest": "0.1.6",
+    "1.20.1-recommended": "0.1.6"
+  }
+}
