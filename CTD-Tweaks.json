@@ -2,6 +2,7 @@
 	"homepage": "https://www.curseforge.com/minecraft/mc-mods/ctd-tweaks",
 	"1.20.1":
 	{
+		"2.5.0": "Config-ified",
 		"2.4.7b": "Recipe bugfix for Tiny charcoal/coal.",
 		"2.4.7": "Added Tiny Charcoal/Coal that burn for 200 ticks",
 		"2.4.6": "Add recipe for Name tag. Added new Repair Charm.",
@@ -138,8 +139,8 @@
 	},
 	"promos": 
 	{
-		"1.20.1-latest": "2.4.7b",
-		"1.20.1-recommended": "2.4.7b",
+		"1.20.1-latest": "2.5.0",
+		"1.20.1-recommended": "2.5.0",
 		"1.19.4-latest": "2.3.0",
 		"1.19.4-recommended": "2.3.0",
 		"1.19.4-latest": "2.3.0",
