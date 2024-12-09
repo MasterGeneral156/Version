@@ -2,6 +2,7 @@
 	"homepage": "https://www.curseforge.com/minecraft/mc-mods/ctd-core",
 	"1.21.4":
 	{
+		"2.8.0": "Major update, not compatiable with previous versions. Mods need updated.",
 		"2.7.3": "Updated to MC 1.21.4"
 	},
 	"1.21.3":
@@ -222,8 +223,8 @@
 	},
 	"promos": 
 	{
-		"1.21.4-latest": "2.7.3",
-		"1.21.4-recommended": "2.7.3",
+		"1.21.4-latest": "2.8.0",
+		"1.21.4-recommended": "2.8.0",
 		"1.21.3-latest": "2.7.2",
 		"1.21.3-recommended": "2.7.2",
 		"1.21.1-latest": "2.7.1",
