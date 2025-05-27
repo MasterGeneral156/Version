@@ -1,4 +1,12 @@
 =======================
+Test Build 2: 5/27/2025
+=======================
++Added Armor pickups
++Added weapon sys
++Added inventory sys
++Added Health/Armor/Energy sys
+
+=======================
 Test Build 1: 5/22/2025
 =======================
 +Added jumppad test
