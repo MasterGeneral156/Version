@@ -1,5 +1,15 @@
 =======================
-Test Build 2: 5/27/2025
+Build 0.0.4.1: 6/03/2025
+*Note this changelog contains the changes from 0.0.3 and 0.0.4*
+=======================
++Added weapon damage.
++Added NPC that chases player
++Fixed shadows and lighting. (WIP)
++Added Configable keybinds to Options.
+~Title now displays game's current version.
+
+=======================
+Build 0.0.2: 5/27/2025
 =======================
 +Added Armor pickups
 +Added weapon sys
@@ -7,7 +17,7 @@ Test Build 2: 5/27/2025
 +Added Health/Armor/Energy sys
 
 =======================
-Test Build 1: 5/22/2025
+Test Build 0.0.1: 5/22/2025
 =======================
 +Added jumppad test
 +Added menu
