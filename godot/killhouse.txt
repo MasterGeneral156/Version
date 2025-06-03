@@ -2,7 +2,7 @@
 Build:	0.0.4.1
 Date: 	TBD
 ==============================================[/b]
-[i]This changelog also contains the changes from Build 0.0.3 and 0.0.4[/i]
+[i]This also contains the changes from Build 0.0.3 and 0.0.4[/i]
 +Added weapon damage.
 +Added NPC that chases player
 +Fixed shadows and lighting. (WIP)
