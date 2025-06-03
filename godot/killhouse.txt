@@ -12,6 +12,7 @@ Status:	Indev
 ~Title now displays game's current version.
 ~Jumping while sprinting will increase your maximum jump height.
 ~Can now walk, half speed of the player's normal run.
++Energy/Health/Armor bars have color.
 
 [b][color=#5F9EA0]==============================================
 Build:	0.0.2
