@@ -17,7 +17,7 @@ Build 0.0.2: 5/27/2025
 +Added Health/Armor/Energy sys
 
 =======================
-Test Build 0.0.1: 5/22/2025
+Build 0.0.1: 5/22/2025
 =======================
 +Added jumppad test
 +Added menu
