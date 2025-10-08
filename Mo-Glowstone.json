@@ -1,5 +1,10 @@
 {
 	"homepage": "https://www.curseforge.com/minecraft/mc-mods/mo-glowstone",
+	"1.21.10":
+	{
+		"1.21.10-2.7.1": "Fixes block drops",
+		"1.21.10-2.7.0": "Updated to Minecraft v1.21.10"
+	},
 	"1.21.9":
 	{
 		"1.21.9-2.7.0": "Updated to Minecraft v1.21.9"
@@ -242,6 +247,8 @@
 	},
 	"promos": 
 	{
+		"1.21.10-latest": "1.21.10-2.7.1",
+		"1.21.10-recommended": "1.21.10-2.7.1",
 		"1.21.9-latest": "1.21.9-2.7.0",
 		"1.21.9-recommended": "1.21.9-2.7.0",
 		"1.21.8-latest": "1.21.8-2.7.0",
