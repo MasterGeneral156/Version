@@ -2,6 +2,7 @@
 	"homepage": "https://www.curseforge.com/minecraft/mc-mods/ctd-currency",
 	"1.21.10":
 	{
+		"1.21.10-1.5.1": "First neoforge build. Fixes villager trades.",
 		"1.21.10-1.5.0": "Ported to 1.21.10"
 	},
 	"1.21.9":
@@ -29,8 +30,8 @@
 	},
 	"promos": 
 	{
-		"1.21.10-latest": "1.21.10-1.5.0",
-		"1.21.10-recommended": "1.21.10-1.5.0",
+		"1.21.10-latest": "1.21.10-1.5.1",
+		"1.21.10-recommended": "1.21.10-1.5.1",
 		"1.21.9-latest": "1.21.9-1.5.0",
 		"1.21.9-recommended": "1.21.9-1.5.0",
 		"1.21-latest": "1.2.0",
