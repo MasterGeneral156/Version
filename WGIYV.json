@@ -1,5 +1,9 @@
 {
 	"homepage": "https://www.curseforge.com/minecraft/mc-mods/wgiyv",
+	"1.21.10":
+	{
+		"1.21.10-1.3.5": "Released for MC 1.21.10"
+	},
 	"1.21.9":
 	{
 		"1.21.9-1.3.5": "Released for MC 1.21.9"
@@ -76,6 +80,8 @@
 	},
 	"promos": 
 	{
+		"1.21.10-latest": "1.21.10-1.3.5",
+		"1.21.10-recommended": "1.21.10-1.3.5",
 		"1.12.2-latest": "1.0.0",
 		"1.12.2-recommended": "1.0.0",
 		"1.13.2-latest": "1.0.0",
