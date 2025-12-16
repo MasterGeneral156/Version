@@ -1,8 +1,12 @@
 {
 	"homepage": "https://www.curseforge.com/minecraft/mc-mods/mo-glowstone-lamps",
+	"1.21.11":
+	{
+		"1.21.11-1.7.1": "Updated to 1.21.11"
+	},
 	"1.21.10":
 	{
-		"1.21.10-1.7.0": "Updated to 1.21.10; fixes block drops"
+		"1.21.10-1.7.1": "Updated to 1.21.10; fixes block drops"
 	},
 	"1.21.9":
 	{
@@ -86,6 +90,8 @@
 	},
 	"promos": 
 	{
+		"1.21.11-latest": "1.21.11-1.7.1",
+		"1.21.11-recommended": "1.21.11-1.7.1",
 		"1.21.10-latest": "1.21.10-1.7.1",
 		"1.21.10-recommended": "1.21.10-1.7.1",
 		"1.21.9-latest": "1.21.9-1.7.0",
