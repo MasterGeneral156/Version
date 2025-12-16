@@ -1,5 +1,9 @@
 {
 	"homepage": "https://www.curseforge.com/minecraft/mc-mods/mo-glowstone",
+	"1.21.11":
+	{
+		"1.21.11-2.7.3": "Updated to MC 1.21.11"
+	},
 	"1.21.10":
 	{
 		"1.21.10-2.7.3": "Texture touch ups, Forge refactor, glowstone recipes, oh my",
@@ -249,6 +253,8 @@
 	},
 	"promos": 
 	{
+		"1.21.11-latest": "1.21.11-2.7.3",
+		"1.21.11-recommended": "1.21.11-2.7.3",
 		"1.21.10-latest": "1.21.10-2.7.3",
 		"1.21.10-recommended": "1.21.10-2.7.3",
 		"1.21.9-latest": "1.21.9-2.7.0",
