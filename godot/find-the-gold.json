@@ -1,20 +1,24 @@
 {
-  "version": "0.0.1",
-  "date": "2025-12-28",
-  "changelog": {
-    "additions": [
-      "Added trading caravans",
-      "New desert biome",
-      "Controller support"
-    ],
-    "removals": [
-      "Removed legacy graphics mode",
-      "Disabled deprecated skills"
-    ],
-    "bugfixes": [
-      "Fixed crash when loading save files",
-      "Resolved desync in multiplayer combat",
-      "UI scaling issue on mobile fixed"
+  "updates": [
+    {
+        "version": "0.0.1",
+        "date": "2025-12-28",
+        "changelog": {
+            "additions": [
+            "Added trading caravans",
+            "New desert biome",
+            "Controller support"
+            ],
+            "removals": [
+            "Removed legacy graphics mode",
+            "Disabled deprecated skills"
+            ],
+            "bugfixes": [
+            "Fixed crash when loading save files",
+            "Resolved desync in multiplayer combat",
+            "UI scaling issue on mobile fixed"
+            ]
+        }
+    }
     ]
-  }
 }
