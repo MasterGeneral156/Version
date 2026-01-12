@@ -54,6 +54,7 @@
 	},
 	"1.21":
 	{
+		"1.21-2.6.3b": "Courtesy build",
 		"2.6.2": "Extra functions. Fuel items display burn ticks in tool tip",
 		"2.6.1b": "Updated the `displayURL` to no longer use the 'legacy' CF domain.",
 		"2.6.1": "Removed deprecated functions, added new functions to existing classes, modernized DurabilityItem class",
@@ -277,8 +278,8 @@
 		"1.21.3-recommended": "2.7.2",
 		"1.21.1-latest": "2.7.1",
 		"1.21.1-recommended": "2.7.1",
-		"1.21-latest": "2.6.2",
-		"1.21-recommended": "2.6.2",
+		"1.21-latest": "1.21-2.6.3b",
+		"1.21-recommended": "1.21-2.6.3b",
 		"1.10.2-latest": "1.2.3b",
 		"1.10.2-recommended": "1.2.3b",
 		"1.11.2-latest": "1.2.3",
