@@ -41,10 +41,12 @@
 	},
 	"1.21.3":
 	{
+		"1.21.3-2.7.2b": "Courtesy build",
 		"2.7.2": "Updated to MC 1.21.3"
 	},
 	"1.21.1":
 	{
+		"1.21.1-2.7.1b": "Courtesy release build",
 		"2.7.1": "Small fix to progress bar functions",
 		"2.7.0": "Updated to 1.21.1; added new progress bar function",
 		"2.6.2": "Extra functions. Fuel items display burn ticks in tool tip",
@@ -274,10 +276,10 @@
 		"1.21.5-recommended": "2.8.2",
 		"1.21.4-latest": "2.8.1b",
 		"1.21.4-recommended": "2.8.1",
-		"1.21.3-latest": "2.7.2",
-		"1.21.3-recommended": "2.7.2",
-		"1.21.1-latest": "2.7.1",
-		"1.21.1-recommended": "2.7.1",
+		"1.21.3-latest": "1.21.3-2.7.2b",
+		"1.21.3-recommended": "1.21.3-2.7.2b",
+		"1.21.1-latest": "1.21.1-2.7.1b",
+		"1.21.1-recommended": "1.21.1-2.7.1b",
 		"1.21-latest": "1.21-2.6.3b",
 		"1.21-recommended": "1.21-2.6.3b",
 		"1.10.2-latest": "1.2.3b",
