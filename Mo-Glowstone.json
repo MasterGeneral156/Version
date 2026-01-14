@@ -39,6 +39,7 @@
 	},
 	"1.21.1":
 	{
+		"1.21.1-2.6.4": "Numerous backports & fixes, along with new version scheme",
 		"2.6.3b": "Potential server crash fix on Neoforge",
 		"2.6.3": "Updated to MC 1.21.1",
 		"2.6.2": "Fixes broken recipes/tags/block drops. (1.21 de-pluralized the data folder, apparently lol)",
@@ -269,8 +270,8 @@
 		"1.21.5-recommended": "2.6.6",
 		"1.21.4-latest": "2.6.4",
 		"1.21.4-recommended": "2.6.4",
-		"1.21.1-latest": "2.6.3b",
-		"1.21.1-recommended": "2.6.3b",
+		"1.21.1-latest": "1.21.1-2.6.4",
+		"1.21.1-recommended": "1.21.1-2.6.4",
 		"1.7.10-latest": "1.0.2",
 		"1.7.10-recommended": "1.0.2",
 		"1.10.2-latest": "1.2.4",
