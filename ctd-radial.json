@@ -1,5 +1,9 @@
 {
 	"homepage": "https://www.curseforge.com/minecraft/mc-mods/ctd-radial",
+	"26.1-snapshot":
+	{
+		"26.1-0.3.0": "Ported to 26.1-snapshot-11"
+	},
 	"1.21.11":
 	{
 		"1.21.11-0.3.0": "Ported to 1.21.11"
@@ -21,8 +25,10 @@
 	},
 	"promos": 
 	{
-		"1.21.5-latest": "1.21.11-0.3.0",
-		"1.21.5-recommended": "1.21.11-0.3.0",
+		"26.1-snaphot-latest": "26.1-0.3.0",
+		"26.1-snaphot-recommended": "26.1-0.3.0",
+		"1.21.11-latest": "1.21.11-0.3.0",
+		"1.21.11-recommended": "1.21.11-0.3.0",
 		"1.21.5-latest": "0.2.1",
 		"1.21.5-recommended": "0.2.1",
 		"1.21.4-latest": "0.2.0b",
