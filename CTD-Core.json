@@ -2,6 +2,7 @@
 	"homepage": "https://www.curseforge.com/minecraft/mc-mods/ctd-core",
 	"1.21.11":
 	{
+		"1.21.11-2.9.4": "Reimplement tooltips from 1.21.1",
 		"1.21.11-2.9.3": "Initial 1.21.11 release"
 	},
 	"1.21.10":
@@ -261,8 +262,8 @@
 	},
 	"promos": 
 	{
-		"1.21.11-latest": "1.21.11-2.9.3",
-		"1.21.11-recommended": "1.21.11-2.9.3",
+		"1.21.11-latest": "1.21.11-2.9.4",
+		"1.21.11-recommended": "1.21.11-2.9.4",
 		"1.21.10-latest": "1.21.10-2.9.3",
 		"1.21.10-recommended": "1.21.10-2.9.3",
 		"1.21.9-latest": "1.21.9-2.9.0",
