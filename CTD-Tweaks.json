@@ -2,6 +2,7 @@
 	"homepage": "https://www.curseforge.com/minecraft/mc-mods/ctd-tweaks",
 	"1.21.1":
 	{
+		"1.21.1-2.6.0-alpha4": "Recipes using tags, updated CTD Core, updated pack.mcmeta",
 		"1.21.1-2.6.0-alpha3": "Added Smite Stick & misc bug fixes & new logo",
 		"1.21.1-2.6.0-alpha2": "Bread/dough/toast recipes fixes",
 		"1.21.1-2.6.0-alpha1": "Feature incompete release for 1.21.X"
@@ -147,8 +148,8 @@
 	},
 	"promos": 
 	{
-		"1.21.1-latest": "1.21.1-2.6.0-alpha3",
-		"1.21.1-recommended": "1.21.1-2.6.0-alpha3",
+		"1.21.1-latest": "1.21.1-2.6.0-alpha4",
+		"1.21.1-recommended": "1.21.1-2.6.0-alpha4",
 		"1.20.1-latest": "2.5.2",
 		"1.20.1-recommended": "2.5.2",
 		"1.19.4-latest": "2.3.0",
