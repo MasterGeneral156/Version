@@ -1,5 +1,9 @@
 {
 	"homepage": "https://www.curseforge.com/minecraft/mc-mods/ctd-screenie",
+	"26.1-snapshot":
+	{
+		"26.1-snapshot-1.0.2": "Intial release for 26.1-snapshots"
+	},
 	"1.21.11":
 	{
 		"1.21.1-1.0.2": "Add more config options",
@@ -67,6 +71,8 @@
 	},
 	"promos":
 	{
+		"26.1-snapshot-latest": "26.1-snapshot-1.0.2",
+		"26.1-snapshot-recommended": "26.1-snapshot-1.0.2",
 		"1.21.11-latest": "1.21.1-1.0.2",
 		"1.21.11-recommended": "1.21.1-1.0.2",
 		"1.21.10-latest": "1.21.1-1.0.2",
