@@ -73,6 +73,12 @@
 		"1.21.1-1.0.1": "Fix broken mods.toml file",
 		"1.21.1-1.0.0": "Initial release"
 	},
+	"1.21":
+	{
+		"1.21.1-1.0.2": "Add more config options",
+		"1.21.1-1.0.1": "Fix broken mods.toml file",
+		"1.21.1-1.0.0": "Initial release"
+	},
 	"promos":
 	{
 		"26.1-latest": "26.1-1.0.2",
@@ -100,6 +106,8 @@
 		"1.21.2-latest": "1.21.1-1.0.2",
 		"1.21.2-recommended": "1.21.1-1.0.2",
 		"1.21.1-latest": "1.21.1-1.0.2",
-		"1.21.1-recommended": "1.21.1-1.0.2"
+		"1.21.1-recommended": "1.21.1-1.0.2",
+		"1.21-latest": "1.21.1-1.0.2",
+		"1.21-recommended": "1.21.1-1.0.2"
 	}
 }
