@@ -1,5 +1,9 @@
 {
   "homepage": "https://www.curseforge.com/minecraft/mc-mods/pumpkin-spice-latte",
+  "26.1":
+  {
+	"26.1-1.2.8": "Updated to MC 26.1"
+  },
   "1.21.11":
   {
 	"1.21.11-1.2.7": "Updated to 1.21.11"
@@ -95,6 +99,8 @@
   },
   "promos": 
   {
+    "26.1-latest": "26.1-1.2.8",
+    "26.1-recommended": "26.1-1.2.8",
     "1.21.11-latest": "1.21.11-1.2.7",
     "1.21.11-recommended": "1.21.11-1.2.7",
     "1.21.10-latest": "1.21.10-1.2.7",
