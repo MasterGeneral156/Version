@@ -2,6 +2,7 @@
 	"homepage": "https://www.curseforge.com/minecraft/mc-mods/ctd-tweaks",
 	"1.21.1":
 	{
+		"1.21.1-2.6.0-alpha7": "Add CTD Tweaks toast to #c:toasts",
 		"1.21.1-2.6.0-alpha6": "Misc tags and reimplementation of Combat Core and Vanilla+ recipes",
 		"1.21.1-2.6.0-alpha5": "Potential bugfix when crafting enchanted gold ingots",
 		"1.21.1-2.6.0-alpha4": "Recipes using tags, updated CTD Core, updated pack.mcmeta",
@@ -150,8 +151,8 @@
 	},
 	"promos": 
 	{
-		"1.21.1-latest": "1.21.1-2.6.0-alpha6",
-		"1.21.1-recommended": "1.21.1-2.6.0-alpha6",
+		"1.21.1-latest": "1.21.1-2.6.0-alpha7",
+		"1.21.1-recommended": "1.21.1-2.6.0-alpha7",
 		"1.20.1-latest": "2.5.2",
 		"1.20.1-recommended": "2.5.2",
 		"1.19.4-latest": "2.3.0",
