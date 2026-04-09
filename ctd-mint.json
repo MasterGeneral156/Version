@@ -1,5 +1,9 @@
 {
 	"homepage": "https://www.curseforge.com/minecraft/mc-mods/ctd-currency",
+	"26.1.2":
+	{
+		"26.1.2-1.6.1": "Updated to MC 26.1.2"
+	},
 	"26.1.1":
 	{
 		"26.1.1-1.6.1": "Updated to MC 26.1.1"
@@ -43,6 +47,8 @@
 	},
 	"promos": 
 	{
+		"26.1.2-latest": "26.1.2-1.6.1",
+		"26.1.2-recommended": "26.1.2-1.6.1",
 		"26.1.1-latest": "26.1.1-1.6.1",
 		"26.1.1-recommended": "26.1.1-1.6.1",
 		"26.1-latest": "26.1-1.6.0b",
