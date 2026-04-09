@@ -1,7 +1,12 @@
 {
 	"homepage": "https://www.curseforge.com/minecraft/mc-mods/ctd-currency",
+	"26.1.1":
+	{
+		"26.1.1-1.6.1": "Updated to MC 26.1.1"
+	},
 	"26.1":
 	{
+		"26.1-1.6.0b": "Link to correct license URL",
 		"26.1-1.6.0": "Updated to MC 26.1. TODO: Reimplement villager trades"
 	},
 	"1.21.11":
@@ -38,8 +43,10 @@
 	},
 	"promos": 
 	{
-		"26.1-latest": "26.1-1.6.0",
-		"26.1-recommended": "26.1-1.6.0",
+		"26.1.1-latest": "26.1.1-1.6.1",
+		"26.1.1-recommended": "26.1.1-1.6.1",
+		"26.1-latest": "26.1-1.6.0b",
+		"26.1-recommended": "26.1-1.6.0b",
 		"1.21.11-latest": "1.21.11-1.5.1",
 		"1.21.11-recommended": "1.21.11-1.5.1",
 		"1.21.10-latest": "1.21.10-1.5.1",
