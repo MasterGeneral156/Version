@@ -24,6 +24,7 @@
 	},
 	"1.21.1": 
 	{
+		"1.21.1-1.6.5": "Fixes block drops",
 		"1.21.1-1.6.4": "New textures & added Yellow Glowstone Lamp",
 		"1.21.1-1.6.3": "Rebuild",
 		"1.6.2": "Updated to 1.21.1"
@@ -103,8 +104,8 @@
 		"1.21.8-recommended": "1.21.8-1.7.0",
 		"1.21.5-latest": "1.6.4",
 		"1.21.5-recommended": "1.6.4",
-		"1.21.1-latest": "1.21.1-1.6.4",
-		"1.21.1-recommended": "1.21.1-1.6.4",
+		"1.21.1-latest": "1.21.1-1.6.5",
+		"1.21.1-recommended": "1.21.1-1.6.5",
 		"1.21-latest": "1.6.1",
 		"1.21-recommended": "1.6.1",
 		"1.20.4-latest": "1.4.4",
