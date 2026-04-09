@@ -1,7 +1,12 @@
 {
 	"homepage": "https://www.curseforge.com/minecraft/mc-mods/ctd-core",
+	"26.1.1":
+	{
+		"26.1-2.9.6": "Updated to Neoforge 26.1.1"
+	},
 	"26.1":
 	{
+		"26.1-2.9.5b": "Fixes mod license URL link",
 		"26.1-2.9.5": "Reimplement tooltips from 1.21.1"
 	},
 	"26.1-snapshot":
@@ -271,8 +276,10 @@
 	},
 	"promos": 
 	{
-		"26.1-latest": "26.1-2.9.5",
-		"26.1-recommended": "26.1-2.9.5",
+		"26.1.1-latest": "26.1.1-2.9.6",
+		"26.1.1-recommended": "26.1.1-2.9.6",
+		"26.1-latest": "26.1-2.9.5b",
+		"26.1-recommended": "26.1-2.9.5b",
 		"26.1-snapshot-latest": "26.1-snapshot-2.9.4",
 		"26.1-snapshot-recommended": "26.1-snapshot-2.9.4",
 		"1.21.11-latest": "1.21.11-2.9.4",
