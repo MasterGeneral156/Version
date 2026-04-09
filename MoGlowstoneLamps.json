@@ -1,5 +1,9 @@
 {
 	"homepage": "https://www.curseforge.com/minecraft/mc-mods/mo-glowstone-lamps",
+	"26.1.1":
+	{
+		"26.1.1-1.7.3": "Updated to 26.1.1"
+	},
 	"1.21.11":
 	{
 		"1.21.11-1.7.2": "New textures & added Yellow Glowstone Lamp",
@@ -94,6 +98,8 @@
 	},
 	"promos": 
 	{
+		"26.1.1-latest": "26.1.1-1.7.3",
+		"26.1.1-recommended": "26.1.1-1.7.3",
 		"1.21.11-latest": "1.21.11-1.7.2",
 		"1.21.11-recommended": "1.21.11-1.7.2",
 		"1.21.10-latest": "1.21.10-1.7.1",
