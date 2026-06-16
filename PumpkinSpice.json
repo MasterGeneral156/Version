@@ -2,18 +2,22 @@
   "homepage": "https://www.curseforge.com/minecraft/mc-mods/pumpkin-spice-latte",
   "26.2":
   {
+    "26.2-1.2.11": "Added new advancements",
 	"26.2-1.2.10": "Updated to MC 26.2"
   },
   "26.1.2":
   {
+    "26.1.2-1.2.11": "Backported 26.2 advancements",
 	"26.1.2-1.2.10": "Updated to MC 26.1.2"
   },
   "26.1.1":
   {
+    "26.1.1-1.2.10": "Backported 26.2 advancements",
 	"26.1.1-1.2.9": "Updated to MC 26.1.1"
   },
   "26.1":
   {
+    "26.1-1.2.9": "Backported 26.2 advancements",
 	"26.1-1.2.8": "Updated to MC 26.1"
   },
   "1.21.11":
@@ -110,14 +114,14 @@
   },
   "promos": 
   {
-    "26.2-latest": "26.2-1.2.10",
-    "26.2-recommended": "26.2-1.2.10",
-    "26.1.2-latest": "26.1.2-1.2.10",
-    "26.1.2-recommended": "26.1.2-1.2.10",
-    "26.1.1-latest": "26.1.1-1.2.9",
-    "26.1.1-recommended": "26.1.1-1.2.9",
-    "26.1-latest": "26.1-1.2.8",
-    "26.1-recommended": "26.1-1.2.8",
+    "26.2-latest": "26.2-1.2.11",
+    "26.2-recommended": "26.2-1.2.11",
+    "26.1.2-latest": "26.1.2-1.2.11",
+    "26.1.2-recommended": "26.1.2-1.2.11",
+    "26.1.1-latest": "26.1.1-1.2.10",
+    "26.1.1-recommended": "26.1.1-1.2.10",
+    "26.1-latest": "26.1-1.2.9",
+    "26.1-recommended": "26.1-1.2.9",
     "1.21.11-latest": "1.21.11-1.2.7",
     "1.21.11-recommended": "1.21.11-1.2.7",
     "1.21.10-latest": "1.21.10-1.2.7",
