@@ -1,5 +1,9 @@
 {
   "homepage": "https://www.curseforge.com/minecraft/mc-mods/mo-glowstone-plus",
+  "26.2":
+  {
+	"26.2-1.4.0": "Updated to MC v26.2"
+  },
   "26.1.2":
   {
 	"26.1.2-1.4.0": "Updated to MC v26.1.2"
@@ -18,6 +22,8 @@
   },
   "promos": 
   {
+    "26.2-latest": "26.2-1.4.0",
+    "26.2-recommended": "26.2-1.4.0",
     "26.1.2-latest": "26.1.2-1.4.0",
     "26.1.2-recommended": "26.1.2-1.4.0",
     "26.1.1-latest": "26.1.1-1.4.0",
